@@ -1,5 +1,5 @@
 import "./App.css";
-import { Routes, Route, Navigate } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./routes/Home";
 import About from "./routes/About";
@@ -18,8 +18,7 @@ function App() {
       <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
         <Navbar />
         <Routes>
-          <Route path="/" element={<Navigate to="/home" />} />
-          <Route path="/home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/kinder" element={<Kinder />} />
           <Route path="/pre-p" element={<PreP />} />
