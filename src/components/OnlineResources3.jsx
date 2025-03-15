@@ -3,9 +3,7 @@ import polypad from "../assets/polypad.png";
 import fluency from "../assets/fluency.png";
 import didax from "../assets/didax.png";
 import mathlearning from "../assets/mathlearning.png";
-import teachingaunt from "../assets/teachingaunt.png";
 import abbythepup from "../assets/abbythepup.png";
-import teachingmama from "../assets/teachingmama.png";
 import superteacher from "../assets/superteacher.png";
 
 function OnlineResources3() {
@@ -27,13 +25,6 @@ function OnlineResources3() {
             className="inline-flex h-[7vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
-        <a href="https://teachingmama.org/" target="_blank">
-          <img
-            src={teachingmama}
-            alt="teachingmama-logo"
-            className="inline-flex h-[6vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
-          />
-        </a>
         <a
           href="https://www.abbythepup.com/?gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KcXlBdeRiA4TYkGACrRY3aRtLzJES2UKFe8GchiAtqxdX93nqXxxQIaArJ-EALw_wcB"
           target="_blank"
@@ -42,13 +33,6 @@ function OnlineResources3() {
             src={abbythepup}
             alt="abbythepup-logo"
             className="inline-flex h-[8vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
-          />
-        </a>
-        <a href="https://theteachingaunt.com/" target="_blank">
-          <img
-            src={teachingaunt}
-            alt="teachingaunt-logo"
-            className="inline-flex h-[7vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
         <a href="https://www.mathlearningcenter.org/apps" target="_blank">
@@ -92,13 +76,6 @@ function OnlineResources3() {
             className="inline-flex h-[7vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
-        <a href="https://teachingmama.org/" target="_blank">
-          <img
-            src={teachingmama}
-            alt="teachingmama-logo"
-            className="inline-flex h-[6vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
-          />
-        </a>
         <a
           href="https://www.abbythepup.com/?gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KcXlBdeRiA4TYkGACrRY3aRtLzJES2UKFe8GchiAtqxdX93nqXxxQIaArJ-EALw_wcB"
           target="_blank"
@@ -107,13 +84,6 @@ function OnlineResources3() {
             src={abbythepup}
             alt="abbythepup-logo"
             className="inline-flex h-[8vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
-          />
-        </a>
-        <a href="https://theteachingaunt.com/" target="_blank">
-          <img
-            src={teachingaunt}
-            alt="teachingaunt-logo"
-            className="inline-flex h-[7vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
         <a href="https://www.mathlearningcenter.org/apps" target="_blank">
