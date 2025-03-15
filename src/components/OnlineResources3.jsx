@@ -17,7 +17,6 @@ function OnlineResources3() {
             className="inline-flex h-[6vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
-
         <a href="https://www.superteacherworksheets.com/" target="_blank">
           <img
             src={superteacher}
