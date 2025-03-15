@@ -137,6 +137,7 @@ body {
   display: flex;
   padding: 15px 22px;
   align-items: center;
+  gap: 10px;
   justify-content: space-between;
   background: #006494;
 }
@@ -178,7 +179,7 @@ body {
 }
 
 .chat-header button:hover {
-  background: #593bab;
+  background: #051923;
 }
 
 .chat-body {

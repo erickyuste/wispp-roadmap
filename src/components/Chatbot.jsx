@@ -56,6 +56,16 @@ function Chatbot() {
     });
   }, [chatHistory]);
 
+  const handleRefresh = () => {
+    setChatHistory([
+      {
+        hideInChat: true,
+        role: "model",
+        text: companyInfo,
+      },
+    ]);
+  };
+
   return (
     <div className={`container ${showChatbot ? "show-chatbot" : ""}`}>
       <button
@@ -75,12 +85,20 @@ function Chatbot() {
             />
             <h2 className="logo-text">WISPP-bot</h2>
           </div>
-          <button
-            onClick={() => setShowChatbot((prev) => !prev)}
-            className="material-symbols-rounded"
-          >
-            keyboard_arrow_down
-          </button>
+          <div className="flex gap-4">
+            <button
+              onClick={handleRefresh}
+              className="material-symbols-rounded"
+            >
+              refresh
+            </button>
+            <button
+              onClick={() => setShowChatbot((prev) => !prev)}
+              className="material-symbols-rounded"
+            >
+              keyboard_arrow_down
+            </button>
+          </div>
         </div>
         <div ref={chatBodyRef} className="chat-body">
           <div className="message bot-message">
