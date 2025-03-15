@@ -20,7 +20,7 @@ const Chatform = ({ chatHistory, setChatHistory, generateBotResponse }) => {
       () =>
         setChatHistory((history) => [
           ...history,
-          { role: "model", text: "Thinking..." },
+          { role: "model", text: "• • •" },
         ]),
       generateBotResponse([
         ...chatHistory,
