@@ -18,7 +18,7 @@ function App() {
       <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/kinder" element={<Kinder />} />
           <Route path="/pre-p" element={<PreP />} />
