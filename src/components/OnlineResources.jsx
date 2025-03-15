@@ -5,7 +5,6 @@ import gamilab from "../assets/gamilab.png";
 import GOM from "../assets/GOM.png";
 import google from "../assets/google.png";
 import lessonplan from "../assets/lessonplan.png";
-import gamestolearnenglish from "../assets/gamestolearnenglish.png";
 
 function OnlineResources() {
   return (
@@ -23,13 +22,6 @@ function OnlineResources() {
             src={classdojo}
             alt="classdojo-logo"
             className="inline-flex h-[7vw] md:h-[50px] mx-[20px] cursor-pointer hover:scale-110 transition-transform duration-500"
-          />
-        </a>
-        <a href="https://www.gamestolearnenglish.com/" target="_blank">
-          <img
-            src={gamestolearnenglish}
-            alt="classgamestolearnenglish-logo"
-            className="inline-flex h-[7vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
 
@@ -76,13 +68,6 @@ function OnlineResources() {
             src={classdojo}
             alt="classdojo-logo"
             className="inline-flex h-[7vw] md:h-[50px] mx-[20px] cursor-pointer hover:scale-110 transition-transform duration-500"
-          />
-        </a>
-        <a href="https://www.gamestolearnenglish.com/" target="_blank">
-          <img
-            src={gamestolearnenglish}
-            alt="classgamestolearnenglish-logo"
-            className="inline-flex h-[7vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
         <a href="https://gamilab.com/" target="_blank">

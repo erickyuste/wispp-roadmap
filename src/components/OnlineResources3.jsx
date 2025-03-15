@@ -2,7 +2,7 @@ import React from "react";
 import polypad from "../assets/polypad.png";
 import fluency from "../assets/fluency.png";
 import didax from "../assets/didax.png";
-import mathlearning from "../assets/mathlearning.png";
+import gamestolearnenglish from "../assets/gamestolearnenglish.png";
 import abbythepup from "../assets/abbythepup.png";
 import superteacher from "../assets/superteacher.png";
 
@@ -34,11 +34,11 @@ function OnlineResources3() {
             className="inline-flex h-[8vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
-        <a href="https://www.mathlearningcenter.org/apps" target="_blank">
+        <a href="https://www.gamestolearnenglish.com/" target="_blank">
           <img
-            src={mathlearning}
-            alt="mathlearning-logo"
-            className="inline-flex h-[8vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
+            src={gamestolearnenglish}
+            alt="classgamestolearnenglish-logo"
+            className="inline-flex h-[7vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
         <a href="https://fluency.amplify.com/" target="_blank">
@@ -85,11 +85,11 @@ function OnlineResources3() {
             className="inline-flex h-[8vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
-        <a href="https://www.mathlearningcenter.org/apps" target="_blank">
+        <a href="https://www.gamestolearnenglish.com/" target="_blank">
           <img
-            src={mathlearning}
-            alt="mathlearning-logo"
-            className="inline-flex h-[8vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
+            src={gamestolearnenglish}
+            alt="classgamestolearnenglish-logo"
+            className="inline-flex h-[7vw] md:h-[50px] mx-[20px] rounded-lg cursor-pointer hover:scale-110 transition-transform duration-500"
           />
         </a>
         <a href="https://fluency.amplify.com/" target="_blank">
