@@ -12,6 +12,10 @@ function Navbar() {
     setIsNavDropdownOpen(!isNavDropdownOpen);
   };
 
+  const toggleLevelsDropdown = () => {
+    setIsLevelsDropdownOpen(!isLevelsDropdownOpen);
+  };
+
   const closeLevelsDropdown = () => {
     setIsLevelsDropdownOpen(false);
   };
@@ -39,18 +43,18 @@ function Navbar() {
 
   return (
     <div className="w-full">
-      <nav>
-        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4">
+      <nav className="border-gray-200 dark:bg-gray-900 dark:border-gray-700">
+        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4 mt-4">
           <Link
             to="/"
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
             <img
               src={logo}
-              className="h-11 filter drop-shadow-[0_0_10px_white]"
+              className="h-11 filter drop-shadow-[0_0_15px_white]"
               alt="WISPP Logo"
             />
-            <span className="filter  drop-shadow-[0_0_10px_white] self-center text-4xl font-bold whitespace-nowrap text-white hidden md:block">
+            <span className="filter  drop-shadow-[0_0_15px_white] self-center text-4xl font-bold whitespace-nowrap text-white hidden md:block">
               WISPP
             </span>
           </Link>
@@ -86,14 +90,14 @@ function Navbar() {
           <div
             className={`${
               isNavDropdownOpen ? "block" : "hidden"
-            } md:block absolute md:relative w-[55%] right-10 top-16 md:top-0 md:w-auto`}
+            } md:block absolute md:relative w-[50%] right-10 top-16 md:top-0 md:w-auto`}
             id="navbar-dropdown"
           >
-            <ul className="flex flex-col md:gap-6 items-center justify-center font-bold p-4 md:p-0 mt-4  bg-[#006494] md:bg-[#051923] rounded-2xl rounded-tr-none transition-all duration-300 ease-in-out origin-top-right md:flex-row md:mt-0 md:border-0">
+            <ul className="flex flex-col gap-6 items-center justify-center font-bold p-4 md:p-0 mt-4  bg-[#006494] md:bg-[#051923] rounded-2xl rounded-tr-none transition-all duration-200 ease-in-out origin-top-right md:flex-row md:mt-0 md:border-0">
               <li>
                 <Link
                   to="/"
-                  className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] transition-all duration-300 ease-in-out"
+                  className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] transition-all duration-300 ease-in-out md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent"
                   aria-current="page"
                 >
                   Home
@@ -102,7 +106,7 @@ function Navbar() {
               <li>
                 <Link
                   to="/about"
-                  className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] transition-all duration-300 ease-in-out"
+                  className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] transition-all duration-300 ease-in-out md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent"
                   aria-current="page"
                 >
                   About
@@ -112,7 +116,7 @@ function Navbar() {
               <button
                 id="dropdownDefaultButton"
                 data-dropdown-toggle="dropdown"
-                className="text-white bg-[#006494] hover:bg-[#0582ca] cursor-pointer font-bold rounded-lg px-5 py-2.5 text-center inline-flex items-center"
+                className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 type="button"
               >
                 Choose a level ▼{" "}
