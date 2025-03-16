@@ -12,10 +12,6 @@ function Navbar() {
     setIsNavDropdownOpen(!isNavDropdownOpen);
   };
 
-  const toggleLevelsDropdown = () => {
-    setIsLevelsDropdownOpen(!isLevelsDropdownOpen);
-  };
-
   const closeLevelsDropdown = () => {
     setIsLevelsDropdownOpen(false);
   };
@@ -43,7 +39,7 @@ function Navbar() {
 
   return (
     <div className="w-full">
-      <nav className="border-gray-200 dark:bg-gray-900 dark:border-gray-700">
+      <nav>
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4">
           <Link
             to="/"
@@ -116,12 +112,12 @@ function Navbar() {
               <button
                 id="dropdownDefaultButton"
                 data-dropdown-toggle="dropdown"
-                className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+                class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 type="button"
               >
                 Choose a level{" "}
                 <svg
-                  className="w-2.5 h-2.5 ms-3"
+                  class="w-2.5 h-2.5 ms-3"
                   aria-hidden="true"
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
@@ -129,9 +125,9 @@ function Navbar() {
                 >
                   <path
                     stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
                     d="m1 1 4 4 4-4"
                   />
                 </svg>
@@ -139,17 +135,16 @@ function Navbar() {
 
               <div
                 id="dropdown"
-                className="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700"
+                class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700"
               >
                 <ul
-                  className="py-2 text-sm text-gray-700 dark:text-gray-200"
+                  class="py-2 text-sm text-gray-700 dark:text-gray-200"
                   aria-labelledby="dropdownDefaultButton"
                 >
                   <li>
                     <Link
                       to="/kinder"
-                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                      onClick={closeLevelsDropdown}
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
                       Kinder
                     </Link>
@@ -157,64 +152,57 @@ function Navbar() {
                   <li>
                     <Link
                       to="/pre-p"
-                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                      onClick={closeLevelsDropdown}
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
-                      Pre-P
+                      Pre-Primary
                     </Link>
                   </li>
                   <li>
                     <Link
                       to="/g1"
-                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                      onClick={closeLevelsDropdown}
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
-                      G1
+                      Grade 1
                     </Link>
                   </li>
                   <li>
                     <Link
                       to="/g2"
-                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                      onClick={closeLevelsDropdown}
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
-                      G2
+                      Grade 2
                     </Link>
                   </li>
                   <li>
                     <Link
                       to="/g3"
-                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                      onClick={closeLevelsDropdown}
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
-                      G3
+                      Grade 3
                     </Link>
                   </li>
                   <li>
                     <Link
                       to="/g4"
-                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                      onClick={closeLevelsDropdown}
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
-                      G4
+                      Grade 4
                     </Link>
                   </li>
                   <li>
                     <Link
                       to="/g5"
-                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                      onClick={closeLevelsDropdown}
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
-                      G5
+                      Grade 5
                     </Link>
                   </li>
                   <li>
                     <Link
                       to="/g6"
-                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                      onClick={closeLevelsDropdown}
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
-                      G6
+                      Grade 6
                     </Link>
                   </li>
                 </ul>
