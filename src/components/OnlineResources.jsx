@@ -16,7 +16,7 @@ function OnlineResources() {
         </h1>
         <div className="w-[100%] bg-[#003554] h-[1px] mt-4 rotate-180"></div>
       </div>
-      <div className="logos-slide inline-flex gap-2 md:gap-8 animate-slide animate-[slideleft_15s_linear_infinite] mr-4">
+      <div className="logos-slide inline-flex gap-2 md:gap-8 animate-slide animate-[slideleft_15s_linear_infinite] mr-4 mt-4">
         <a href="https://www.classdojo.com/v1/" target="_blank">
           <img
             src={classdojo}

@@ -21,22 +21,6 @@ function Navbar() {
     setIsNavDropdownOpen(false);
   }, [location.pathname]);
 
-  useEffect(() => {
-    function handleClickOutside(event) {
-      if (
-        levelsDropdownRef.current &&
-        !levelsDropdownRef.current.contains(event.target)
-      ) {
-        setIsLevelsDropdownOpen(false);
-      }
-    }
-
-    document.addEventListener("mousedown", handleClickOutside);
-    return () => {
-      document.removeEventListener("mousedown", handleClickOutside);
-    };
-  }, [levelsDropdownRef]);
-
   const toggleLevelsDropdown = () => {
     setIsLevelsDropdownOpen(!isLevelsDropdownOpen);
   };
@@ -112,7 +96,7 @@ function Navbar() {
           <div
             className={`${
               isNavDropdownOpen ? "block" : "hidden"
-            } absolute md:relative md:top-0 w-[50%] right-15 top-15 md:block md:w-auto `}
+            } absolute md:relative md:top-0 w-[50%] right-12 top-15 md:block md:w-auto `}
             id="navbar-dropdown"
           >
             <ul className="flex flex-col items-center font-medium bg-[#006494] md:bg-transparent p-4 md:p-0 mt-4 border rounded-xl rounded-tr-none md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0">
@@ -138,10 +122,10 @@ function Navbar() {
                 <button
                   id="dropdownNavbarLink"
                   data-dropdown-toggle="dropdownNavbar"
-                  className="flex items-center justify-between w-full font-bold cursor-pointer"
+                  className="flex items-center justify-between w-full font-bold cursor-pointer bg-[#006494] relative rounded-lg"
                   onClick={toggleLevelsDropdown}
                 >
-                  <span className="flex items-center justify-center rounded-md p-2 bg-[#006494] w-[10rem] transition-all duration-100 ease-in-out text-white hover:border-2 border-gray-100 md:border-0 hover:border-white">
+                  <span className="flex items-center justify-center p-2 rounded-lg w-[10rem] transition-all duration-100 ease-in-out text-white hover:border-2 border-gray-100 md:border-0 hover:border-white">
                     Choose a level
                     <svg
                       className="w-2.5 h-2.5 ms-2.5"
@@ -166,7 +150,7 @@ function Navbar() {
                   id="dropdownNavbar"
                   className={`${
                     isLevelsDropdownOpen ? "block" : "hidden"
-                  }  font-normal bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 absolute z-1`}
+                  }  font-normal bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 relative mt-2 z-1`}
                 >
                   <ul
                     className="py-2 text-sm text-gray-700 w-full rounded-lg"

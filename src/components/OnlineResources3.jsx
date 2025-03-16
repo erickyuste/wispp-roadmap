@@ -9,7 +9,7 @@ import superteacher from "../assets/superteacher.png";
 function OnlineResources3() {
   return (
     <div className="logos w-[100%] md:w-[750px] lg:w-[850px] relative bg-[#051923] overflow-hidden whitespace-nowrap">
-      <div className="logos-slide inline-flex gap-2 md:gap-8 animate-slide animate-[slideleft_15s_linear_infinite] mr-4">
+      <div className="logos-slide inline-flex gap-2 md:gap-8 animate-slide animate-[slideleft_15s_linear_infinite] mr-4 mt-2">
         <a href="https://polypad.amplify.com/" target="_blank">
           <img
             src={polypad}

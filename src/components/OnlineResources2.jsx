@@ -11,7 +11,7 @@ import polypad from "../assets/polypad.png";
 function OnlineResources2() {
   return (
     <div className="logos w-[100%] md:w-[750px] lg:w-[850px] relative bg-[#051923] overflow-hidden whitespace-nowrap">
-      <div className="logos-slide inline-flex gap-2 md:gap-8 animate-slide animate-[slideright_15s_linear_infinite] mr-4">
+      <div className="logos-slide inline-flex gap-2 md:gap-8 animate-slide animate-[slideright_15s_linear_infinite] mr-4 mt-2">
         <a href="https://www.scootle.edu.au/ec/p/home" target="_blank">
           <img
             src={scootle}
