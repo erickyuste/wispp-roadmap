@@ -165,7 +165,7 @@ function Navbar() {
                   id="dropdownNavbar"
                   className={`${
                     isLevelsDropdownOpen ? "block" : "hidden"
-                  } z-10 font-normal bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700 dark:divide-gray-600 absolute top-full left-0`}
+                  } z-10 font-normal bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44`}
                 >
                   <ul
                     className="py-2 text-sm text-gray-700 w-full rounded-lg"
