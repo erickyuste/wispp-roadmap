@@ -18,11 +18,11 @@ function Footer() {
         id="footer-content"
       >
         <div className="flex w-full items-center justify-evenly">
-          <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
+          <div className="w-[100%] bg-[#003554] h-[1px] mt-4 rotate-180"></div>
           <h1 className="text-xs md:text-[1rem] mt-[1rem] w-[100%] md:w-[50%] border-1 border-[#003554] text-center py-1.5 text-gray-300 rounded-xl">
             © Erick Yuste⚡2025
           </h1>
-          <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
+          <div className="w-[100%] bg-[#003554] h-[1px] mt-4 rotate-180"></div>
         </div>
 
         <div className="w-[90vw] md:w-[800px] flex flex-col md:flex-row items-center justify-between mt-1 mb-8 px-4 md:px-0">

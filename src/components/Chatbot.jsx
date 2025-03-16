@@ -71,6 +71,7 @@ function Chatbot() {
       <button
         onClick={() => setShowChatbot((prev) => !prev)}
         id="chatbot-toggler"
+        className="filter drop-shadow-[0_0_25px_#006494]"
       >
         <span className="material-symbols-rounded">mode_comment</span>
         <span className="material-symbols-rounded">close</span>

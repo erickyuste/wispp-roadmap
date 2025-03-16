@@ -10,11 +10,11 @@ function OnlineResources() {
   return (
     <div className="logos w-[100%] md:w-[750px] lg:w-[850px] relative bg-[#051923] overflow-hidden whitespace-nowrap mt-4">
       <div className="flex w-full items-center justify-evenly">
-        <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
-        <h1 className="text-xs md:text-[1rem] mt-[1rem] w-[100%] md:w-[50%] border-1 border-[#003554] text-center px-2 py-1.5 rounded-xl">
+        <div className="w-[100%] bg-[#003554] h-[1px] mt-4 rotate-180"></div>
+        <h1 className="text-xs md:text-[1rem] mt-[1rem] w-[100%] md:w-[50%] border-1 border-[#003554] text-center px-2 py-1.5 rounded-lg">
           Online Resources 🔥
         </h1>
-        <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
+        <div className="w-[100%] bg-[#003554] h-[1px] mt-4 rotate-180"></div>
       </div>
       <div className="logos-slide inline-flex gap-2 md:gap-8 animate-slide animate-[slideleft_15s_linear_infinite] mr-4">
         <a href="https://www.classdojo.com/v1/" target="_blank">
