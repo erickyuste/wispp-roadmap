@@ -39,18 +39,18 @@ function Navbar() {
 
   return (
     <div className="w-full">
-      <nav className="border-gray-200 dark:bg-gray-900 dark:border-gray-700">
-        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4 mt-4">
+      <nav>
+        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4">
           <Link
             to="/"
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
             <img
               src={logo}
-              className="h-11 filter drop-shadow-[0_0_15px_white]"
+              className="h-11 filter drop-shadow-[0_0_10px_white]"
               alt="WISPP Logo"
             />
-            <span className="filter  drop-shadow-[0_0_15px_white] self-center text-4xl font-bold whitespace-nowrap text-white hidden md:block">
+            <span className="filter  drop-shadow-[0_0_10px_white] self-center text-4xl font-bold whitespace-nowrap text-white hidden md:block">
               WISPP
             </span>
           </Link>
