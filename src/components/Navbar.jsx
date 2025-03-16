@@ -44,17 +44,17 @@ function Navbar() {
   return (
     <div className="w-full">
       <nav className="border-gray-200 dark:bg-gray-900 dark:border-gray-700">
-        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4 mt-4">
+        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4">
           <Link
             to="/"
             className="flex items-center space-x-3 rtl:space-x-reverse"
           >
             <img
               src={logo}
-              className="h-11 filter drop-shadow-[0_0_15px_white]"
+              className="h-11 filter drop-shadow-[0_0_10px_white]"
               alt="WISPP Logo"
             />
-            <span className="filter  drop-shadow-[0_0_15px_white] self-center text-4xl font-bold whitespace-nowrap text-white hidden md:block">
+            <span className="filter  drop-shadow-[0_0_10px_white] self-center text-4xl font-bold whitespace-nowrap text-white hidden md:block">
               WISPP
             </span>
           </Link>
@@ -119,7 +119,22 @@ function Navbar() {
                 className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
                 type="button"
               >
-                Choose a level ▼{" "}
+                Choose a level{" "}
+                <svg
+                  className="w-2.5 h-2.5 ms-3"
+                  aria-hidden="true"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 10 6"
+                >
+                  <path
+                    stroke="currentColor"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
+                    d="m1 1 4 4 4-4"
+                  />
+                </svg>
               </button>
 
               <div
