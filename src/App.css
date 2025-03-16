@@ -127,10 +127,11 @@ body {
 }
 
 .container.show-chatbot .chatbot-popup {
+  position: fixed;
   opacity: 1;
   transform: scale(1);
   pointer-events: auto;
-  z-index: 10;
+  z-index: 100;
 }
 
 .chatbot-popup .chat-header {
@@ -296,7 +297,7 @@ body {
 }
 
 #chatbot-toggler {
-  position: fixed;
+  position: absolute;
   bottom: 30px;
   right: 35px;
   border: none;
