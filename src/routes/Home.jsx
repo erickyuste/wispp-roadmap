@@ -25,7 +25,7 @@ function Home() {
       <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden">
         <Navbar />
         <div className="w-full h-screen flex items-center justify-center">
-          <h1 className="text-white font-bold text-4xl">
+          <h1 className="text-white font-bold text-4xl text-center">
             Home not yet available
           </h1>
         </div>
