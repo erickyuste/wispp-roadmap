@@ -140,7 +140,7 @@ function Navbar() {
                   className="flex items-center justify-between w-full font-bold cursor-pointer"
                   onClick={toggleLevelsDropdown}
                 >
-                  <span className="flex items-center justify-center rounded-md p-2 bg-[#006494] w-[10rem] transition-all duration-100 ease-in-out text-white hover:border-2 border-gray-100 md:border-0 hover:border-white hover:border-1">
+                  <span className="flex items-center justify-center rounded-md p-2 bg-[#006494] w-[10rem] transition-all duration-100 ease-in-out text-white hover:border-2 border-gray-100 md:border-0 hover:border-white">
                     Choose a level
                     <svg
                       className="w-2.5 h-2.5 ms-2.5"
