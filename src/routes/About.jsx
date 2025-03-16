@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import AboutContent from "../components/BackgroundContent/AboutContent";
 import Footer from "../components/Footer";
+import Navbar from "../components/Navbar";
+import Chatbot from "../components/Chatbot";
 import AboutLoader from "../components/loaders/AboutLoader";
 
 function About() {
@@ -21,14 +23,11 @@ function About() {
   return (
     <>
       {isLoading && <AboutLoader />}
-      <div
-        className={`w-full min-h-screen text-white text-6xl flex flex-col items-center justify-center transition-opacity duration-500 ${
-          contentVisible ? "opacity-100" : "opacity-0"
-        }`}
-      >
+      <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
+        <Navbar />
         <AboutContent />
-
         <Footer />
+        <Chatbot />
       </div>
     </>
   );

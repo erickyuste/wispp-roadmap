@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Navbar from "../components/Navbar";
 import Background from "../components/Background";
 import Header from "../components/grade1main/Header";
 import Term1 from "../components/grade1main/Term1";
@@ -10,6 +11,7 @@ import G1Loader from "../components/loaders/G1Loader";
 import OnlineResources from "../components/OnlineResources";
 import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
+import Chatbot from "../components/Chatbot";
 
 function Grade1() {
   const [isLoading, setIsLoading] = useState(true);
@@ -29,11 +31,8 @@ function Grade1() {
   return (
     <>
       {isLoading && <G1Loader />}
-      <div
-        className={`w-full min-h-screen text-white text-6xl flex flex-col items-center justify-center transition-opacity duration-500 ${
-          contentVisible ? "opacity-100" : "opacity-0"
-        }`}
-      >
+      <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
+        <Navbar />
         <Header />
         <Background />
         <Term1 />
@@ -44,6 +43,7 @@ function Grade1() {
         <OnlineResources2 />
         <OnlineResources3 />
         <Footer />
+        <Chatbot />
       </div>
     </>
   );

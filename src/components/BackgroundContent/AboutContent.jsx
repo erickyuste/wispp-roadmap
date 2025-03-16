@@ -5,7 +5,7 @@ function Header() {
     <div className="w-[100vw] mt-[2rem] md:mt-[5rem] h-auto flex flex-col items-center justify-center">
       <div className="w-[90%] md:w-[830px]" id="upper-content">
         <div className="flex flex-col items-left">
-          <h1 className="title text-[2rem] sm:text-[2rem] md:text-[3.5rem] lg:text-[5.5rem] font-bold text-gray-300 text-center mb-3">
+          <h1 className="title leading-none text-[2rem] sm:text-[2rem] md:text-[3.5rem] lg:text-[5.5rem] font-bold text-gray-300 text-center mb-3">
             About{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#006494] to-[#FF7F50]">
               WISPP Roadmap

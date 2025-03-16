@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import MainLoader from "../components/loaders/MainLoader";
+import videobg from "../assets/video-bg.mp4";
+import Navbar from "../components/Navbar";
 
 function Home() {
   const [isLoading, setIsLoading] = useState(true);
@@ -19,12 +21,14 @@ function Home() {
   return (
     <>
       {isLoading && <MainLoader />}
-      <div
-        className={`w-full min-h-screen text-white text-6xl flex flex-col items-center justify-center transition-opacity duration-500 ${
-          contentVisible ? "opacity-100" : "opacity-0"
-        }`}
-      >
-        HOME
+
+      <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden">
+        <Navbar />
+        <div className="w-full h-screen flex items-center justify-center">
+          <h1 className="text-white font-bold text-4xl">
+            Home not yet available
+          </h1>
+        </div>
       </div>
     </>
   );

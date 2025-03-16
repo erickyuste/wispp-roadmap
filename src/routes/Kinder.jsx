@@ -10,6 +10,8 @@ import Footer from "../components/Footer";
 import OnlineResources from "../components/OnlineResources";
 import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
+import Navbar from "../components/Navbar";
+import Chatbot from "../components/Chatbot";
 
 function Kinder() {
   const [isLoading, setIsLoading] = useState(true);
@@ -29,11 +31,8 @@ function Kinder() {
   return (
     <>
       {isLoading && <KLoader />}
-      <div
-        className={`w-full min-h-screen text-white text-6xl flex flex-col items-center justify-center transition-opacity duration-500 ${
-          contentVisible ? "opacity-100" : "opacity-0"
-        }`}
-      >
+      <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
+        <Navbar />
         <Header />
         <BackgroundK />
         <Term1 />
@@ -44,6 +43,7 @@ function Kinder() {
         <OnlineResources2 />
         <OnlineResources3 />
         <Footer />
+        <Chatbot />
       </div>
     </>
   );

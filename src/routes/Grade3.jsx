@@ -10,6 +10,8 @@ import G3Loader from "../components/loaders/G3Loader";
 import OnlineResources from "../components/OnlineResources";
 import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
+import Navbar from "../components/Navbar";
+import Chatbot from "../components/Chatbot";
 
 function Grade3() {
   const [isLoading, setIsLoading] = useState(true);
@@ -29,11 +31,8 @@ function Grade3() {
   return (
     <>
       {isLoading && <G3Loader />}
-      <div
-        className={`w-full min-h-screen text-white text-6xl flex flex-col items-center justify-center transition-opacity duration-500 ${
-          contentVisible ? "opacity-100" : "opacity-0"
-        }`}
-      >
+      <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
+        <Navbar />
         <Header />
         <BackgroundG3 />
         <Term1 />
@@ -44,6 +43,7 @@ function Grade3() {
         <OnlineResources2 />
         <OnlineResources3 />
         <Footer />
+        <Chatbot />
       </div>
     </>
   );

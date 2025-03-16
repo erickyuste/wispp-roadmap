@@ -64,7 +64,7 @@ function Navbar() {
 
   return (
     <div className="w-full">
-      <nav>
+      <nav className="pt-4">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4">
           <Link
             to="/"
@@ -75,15 +75,16 @@ function Navbar() {
               className="h-11 filter drop-shadow-[0_0_10px_white]"
               alt="WISPP Logo"
             />
-            <span className="filter  drop-shadow-[0_0_10px_white] self-center text-4xl font-bold whitespace-nowrap text-white hidden md:block">
-              WISPP
+            <span className="filter  drop-shadow-[0_0_10px_white] self-center text-xl font-bold whitespace-nowrap text-white hidden md:block">
+              Westbridge International<br></br>
+              School of Phnom Penh
             </span>
           </Link>
           <button
             data-collapse-toggle="navbar-dropdown"
             id="nav-toggler"
             type="button"
-            className="border-1 rounded-[50%] p-1 inline-flex items-center w-10 h-10 justify-center text-lg text-white md:hidden"
+            className="border-2 rounded-[50%] p-1 inline-flex items-center w-10 h-10 justify-center text-lg text-white md:hidden"
             aria-controls="navbar-dropdown"
             aria-expanded={isNavDropdownOpen}
             onClick={toggleNavDropdown}
@@ -111,13 +112,13 @@ function Navbar() {
           <div
             className={`${
               isNavDropdownOpen ? "block" : "hidden"
-            } absolute md:relative md:top-0 w-[50%] right-11 top-11 md:block md:w-auto transition-all duration-300 ease-in-out`}
+            } absolute md:relative md:top-0 w-[50%] right-15 top-15 md:block md:w-auto `}
             id="navbar-dropdown"
           >
             <ul className="flex flex-col items-center font-medium bg-[#006494] md:bg-transparent p-4 md:p-0 mt-4 border rounded-xl rounded-tr-none md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0">
               <li>
                 <Link
-                  to="/home"
+                  to="/"
                   className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent"
                   aria-current="page"
                 >

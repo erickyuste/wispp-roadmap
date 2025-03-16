@@ -297,7 +297,7 @@ body {
 }
 
 #chatbot-toggler {
-  position: absolute;
+  position: fixed;
   bottom: 30px;
   right: 35px;
   border: none;

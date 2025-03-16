@@ -11,13 +11,11 @@ import Grade3 from "./routes/Grade3";
 import Grade4 from "./routes/Grade4";
 import Grade5 from "./routes/Grade5";
 import Grade6 from "./routes/Grade6";
-import Chatbot from "./components/Chatbot";
 
 function App() {
   return (
     <>
       <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
-        <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -30,7 +28,6 @@ function App() {
           <Route path="/g5" element={<Grade5 />} />
           <Route path="/g6" element={<Grade6 />} />
         </Routes>
-        <Chatbot />
       </div>
     </>
   );
