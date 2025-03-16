@@ -7,6 +7,7 @@ function Navbar() {
   const [isLevelsDropdownOpen, setIsLevelsDropdownOpen] = useState(false);
   const location = useLocation();
   const levelsDropdownRef = useRef(null);
+  const buttonRef = useRef(null);
 
   const toggleNavDropdown = () => {
     setIsNavDropdownOpen(!isNavDropdownOpen);
@@ -26,21 +27,19 @@ function Navbar() {
   };
 
   useEffect(() => {
-    setIsLevelsDropdownOpen(false);
-    setIsNavDropdownOpen(false);
-  }, [location.pathname]);
-
-  useEffect(() => {
-    function handleClickOutside(event) {
+    const handleClickOutside = (event) => {
       if (
         levelsDropdownRef.current &&
-        !levelsDropdownRef.current.contains(event.target)
+        !levelsDropdownRef.current.contains(event.target) &&
+        buttonRef.current &&
+        !buttonRef.current.contains(event.target)
       ) {
         setIsLevelsDropdownOpen(false);
       }
-    }
+    };
 
     document.addEventListener("mousedown", handleClickOutside);
+
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
     };
@@ -48,7 +47,7 @@ function Navbar() {
 
   return (
     <div className="w-full">
-      <nav className="pt-4">
+      <nav className="pt-4 relative z-100">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4">
           <Link
             to="/"
@@ -99,7 +98,7 @@ function Navbar() {
             } absolute md:relative md:top-0 w-[50%] right-12 top-15 md:block md:w-auto `}
             id="navbar-dropdown"
           >
-            <ul className="flex flex-col items-center font-medium bg-[#006494] md:bg-transparent p-4 md:p-0 mt-4 border rounded-xl rounded-tr-none md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0">
+            <ul className="flex flex-col items-center z-10 font-medium bg-[#006494] md:bg-transparent p-4 md:p-0 mt-4 border rounded-xl rounded-tr-none md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0">
               <li>
                 <Link
                   to="/"
@@ -122,7 +121,7 @@ function Navbar() {
                 <button
                   id="dropdownNavbarLink"
                   data-dropdown-toggle="dropdownNavbar"
-                  className="flex items-center justify-between w-full font-bold cursor-pointer bg-[#006494] relative rounded-lg"
+                  className="flex items-center justify-between w-full font-bold cursor-pointer bg-[#006494] relative z-100 rounded-lg"
                   onClick={toggleLevelsDropdown}
                 >
                   <span className="flex items-center justify-center p-2 rounded-lg w-[10rem] transition-all duration-100 ease-in-out text-white hover:border-2 border-gray-100 md:border-0 hover:border-white">
@@ -150,7 +149,7 @@ function Navbar() {
                   id="dropdownNavbar"
                   className={`${
                     isLevelsDropdownOpen ? "block" : "hidden"
-                  }  font-normal bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 relative mt-2 z-1`}
+                  }  font-normal bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 relative md:absolute mt-2 z-1`}
                 >
                   <ul
                     className="py-2 text-sm text-gray-700 w-full rounded-lg"
