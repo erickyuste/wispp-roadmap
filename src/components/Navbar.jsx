@@ -86,7 +86,7 @@ function Navbar() {
           <div
             className={`${
               isNavDropdownOpen ? "block" : "hidden"
-            } md:block absolute md:relative w-[50%] right-10 top-16 md:top-0 md:w-auto z-10`}
+            } md:block absolute md:relative w-[50%] right-10 top-16 md:top-0 md:w-auto`}
             id="navbar-dropdown"
           >
             <ul className="flex flex-col md:gap-6 items-center justify-center font-bold p-4 md:p-0 mt-4  bg-[#006494] md:bg-[#051923] rounded-2xl rounded-tr-none transition-all duration-300 ease-in-out origin-top-right md:flex-row md:mt-0 md:border-0">
@@ -120,7 +120,7 @@ function Navbar() {
 
               <div
                 id="dropdown"
-                className="z-100 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700"
+                className="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44 dark:bg-gray-700"
               >
                 <ul
                   className="py-2 text-sm text-gray-700 dark:text-gray-200"
