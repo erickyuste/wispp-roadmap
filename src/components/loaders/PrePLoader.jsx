@@ -17,7 +17,7 @@ const PrePLoader = () => {
 
   return (
     <div
-      className={`fixed inset-0 z-50 flex h-screen w-full items-center justify-center bg-[#051923] overflow-hidden text-[3rem] transition-opacity duration-[5s] transition-visibility md:text-[5rem] ${
+      className={`fixed inset-0 z-100 flex h-screen w-full items-center justify-center bg-[#051923] overflow-hidden text-[3rem] transition-opacity duration-[5s] transition-visibility md:text-[5rem] ${
         loading ? "" : "opacity-0 invisible"
       }`}
       style={{

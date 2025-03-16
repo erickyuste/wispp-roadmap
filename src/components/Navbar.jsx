@@ -47,7 +47,7 @@ function Navbar() {
 
   return (
     <div className="w-full">
-      <nav className="pt-4 relative z-100">
+      <nav className="pt-4 relative z-50">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-[1rem] md:mx-auto p-4">
           <Link
             to="/"

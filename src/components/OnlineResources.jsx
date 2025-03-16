@@ -11,7 +11,7 @@ function OnlineResources() {
     <div className="logos w-[100%] md:w-[750px] lg:w-[850px] relative bg-[#051923] overflow-hidden whitespace-nowrap mt-4">
       <div className="flex w-full items-center justify-evenly">
         <div className="w-[100%] bg-[#003554] h-[1px] mt-4 rotate-180"></div>
-        <h1 className="text-xs md:text-[1rem] mt-[1rem] w-[100%] md:w-[50%] border-1 border-[#003554] text-center px-2 py-1.5 rounded-lg">
+        <h1 className="text-xs md:text-[1rem] mt-[1rem] w-[100%] md:w-[50%] border-1 border-[#003554] text-center px-2 py-1.5 text-gray-300 rounded-lg">
           Online Resources 🔥
         </h1>
         <div className="w-[100%] bg-[#003554] h-[1px] mt-4 rotate-180"></div>
