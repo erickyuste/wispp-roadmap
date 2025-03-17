@@ -248,63 +248,63 @@ Pre-Primary or Pre-P Schedule: Homeroom Teacher: Teacher Angela
 Monday to Friday: 08:00 – 08:15:Gathering of Minds; 08:15 – 08:30: Morning Circle Time; 8:30 - 09:00: English; 09:00 – 9:30: BREAKFAST TIME ; 09:30 – 10:00: Outdoor Play; 10:00 – 10:30: Mandarin; 10:30 - 11:00: Mathematics; 11:00 – 01:00: LUNCH & RELAXATION TIME; 01:00 – 01:30: Music & Movement; 01:30 - 02:00: Learning Centers; 02:00 - 02:30: Khmer; 02:30 - 03:00: Goodbye Time
 
 
-Teacher Joshua Schedule: (Allocate vacant for substitution)
+Teacher Joshua Schedule:
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Math ; 09:00 – 10:00: English ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Science ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English ; 09:00 – 10:00: Math ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: HASS ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: The Arts
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: English ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Science ; 02:00 – 03:00: Vacant
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English ; 09:00 – 10:00: Maths ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: HASS ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Library ; 02:00 – 03:00: The Arts
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Math ; 09:00 – 10:00: English ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Science ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Math ; 02:00 – 03:00: Vacant
 
-Teacher Liz Schedule: (Allocate vacant for substitution)
+Teacher Liz Schedule: 
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Math ; 09:00 – 10:00: English ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Science
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English ; 09:00 – 10:00: Math ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: The Arts ; 11:15 – 12:15: Library ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: HASS
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Science ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Math ; 02:00 – 03:00: English
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English ; 09:00 – 10:00: Maths ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: The Arts ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: HASS
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Math ; 09:00 – 10:00: English ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Science
 
-Teacher Precious Schedule: (Allocate vacant for substitution)
+Teacher Precious Schedule: 
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Math ; 09:00 – 10:00: English ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Science ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: English
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English ; 09:00 – 10:00: Math ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: HASS ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: The Arts ; 02:00 – 03:00: Library
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Math ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English ; 09:00 – 10:00: Maths ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: HASS ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: The Arts ; 02:00 – 03:00: Vacant
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Math ; 09:00 – 10:00: English ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Science ; 11:15 – 12:15: Science ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 
-Teacher Max Schedule: (Allocate vacant for substitution)
+Teacher Max Schedule:
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: English ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Maths ; 02:00 – 03:00: Vacant
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Math ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Library ; 11:15 – 12:15: The Arts ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: English ; 02:00 – 03:00: Vacant
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: HASS ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Math ; 02:00 – 03:00: English
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Maths ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: The Arts ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: English ; 02:00 – 03:00: HASS
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: English ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Math ; 02:00 – 03:00: Vacant
 
-Teacher Michal Schedule: (Allocate vacant for substitution)
+Teacher Michal Schedule: 
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Science ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Math ; 02:00 – 03:00: Vacant
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: The Arts ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: English ; 11:15 – 12:15: Vacant; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Math ; 02:00 – 03:00: Vacant
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Math ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Science ; 02:00 – 03:00: Science
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Math ; 09:00 – 10:00: Science ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: The Arts ; 02:00 – 03:00: Vacant
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Science ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Math ; 02:00 – 03:00: Library
 
-Teacher Frank Schedule: (This teacher will not substitute for any absent teachers)
+Teacher Frank Schedule: 
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: English ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: English ; 11:15 – 12:15: HASS; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: H & PE ; 09:00 – 10:00: H & PE ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: English ; 11:15 – 12:15: HASS ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: HASS ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: English ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 
-Teacher Sreyneang Schedule: Khmer Teacher - Teaches all grade levels (Allocate vacant for substitution)
+Teacher Sreyneang Schedule: Khmer Teacher - Teaches all grade levels 
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Grade 7-8 ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 2 ; 11:15 – 12:15: Grade 5-6 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 3-4 ; 02:00 – 03:00: Grade 1
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 7-8 ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 1 ; 02:00 – 03:00: Vacant
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 2 ; 11:15 – 12:15: Grade 5-6 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 3-4 ; 02:00 – 03:00: Grade 1
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 5-6 ; 11:15 – 12:15: Grade 2 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Grade 3-4
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Grade 7-8 ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 2 ; 11:15 – 12:15: Grade 5-6 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 3-4 ; 02:00 – 03:00: Grade 1
 
-Teacher Tina Schedule: Mandarin Teacher - Teaches all grade levels (Allocate vacant for substitution. Prioritize to be given a substitution since she has few classes)
+Teacher Tina Schedule: Mandarin Teacher - Teaches all grade levels
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 7-8 ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 5-6 ; 11:15 – 12:15: Grade 2 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 1 ; 02:00 – 03:00: Vacant
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 5-6 ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 1 ; 11:15 – 12:15: Grade 3-4; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 1 ; 11:15 – 12:15: Grade 3-4 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Grade 1 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Grade 7-8
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 5-6 ; 11:15 – 12:15: Grade 2 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Grade 3-4
 
-Teacher Erickson Schedule: Technology Teacher - Teaches all grade levels (Allocate vacant for substitution. Prioritize to be given a substitution since he has few classes)
+Teacher Erickson Schedule: Technology Teacher - Teaches all grade levels 
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 5-6 ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 3-4 ; 11:15 – 12:15:Grade 1 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 2 ; 02:00 – 03:00: Grade 7-8
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Grade 1 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Grade 7-8; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Grade 3-4
@@ -312,49 +312,49 @@ Teacher Erickson Schedule: Technology Teacher - Teaches all grade levels (Alloca
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 5-6 ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Grade 1 ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 2 ; 02:00 – 03:00: Vacant
 
 
-Suggested and provided substitution Plan for Teacher Joshua:
+Suggested and provided substitution Plan for Teacher Joshua as follows:
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Maths - Michal ; 09:00 – 10:00: English - Michal ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Science - Max ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English -Michal ; 09:00 – 10:00: Maths - Sreyneang ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: HASS - Erick ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: The Arts - Erick
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: English-Michal ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Science-Precious ; 02:00 – 03:00: Vacant
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English-Sreyneang ; 09:00 – 10:00: Maths-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: HASS-Michal ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Library-Sreyneang ; 02:00 – 03:00: The Arts-Michal
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Maths-Michal ; 09:00 – 10:00: English-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Science-Max ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Math-Precious ; 02:00 – 03:00: Vacant
 
-Suggested and provided substitution Plan for Teacher Liz:
+Suggested and provided substitution Plan for Teacher Liz as follows:
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Science-Tina
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English-Michal ; 09:00 – 10:00: Maths-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: The Arts-Sreyneang ; 11:15 – 12:15: Library-Tina ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: HASS-Erick
 3. Wednnesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Science-Precious ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Maths-Tina ; 02:00 – 03:00: English-Precious
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English-Max ; 09:00 – 10:00: Maths-Michal ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: The Arts-Erick ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: HASS-Michal
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Maths-Michal ; 09:00 – 10:00: English-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Science-Max
 
-Suggested and provided substitution Plan for Teacher Precious:
+Suggested and provided substitution Plan for Teacher Precious as follows:
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Maths-Michal ; 09:00 – 10:00: English-Michal ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Science-Max ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: English-Michal
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: English-Michal ; 09:00 – 10:00: Maths-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – Vacant ; 11:15 – 12:15: HASS-Sreyneang ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: The Arts-Joshua ; 02:00 – 03:00: Library-Erick
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Maths-Erick ; 02:00 – 03:00: Vacant
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Maths-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – Vacant ; 11:15 – 12:15: The Arts-Joshua ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: English-Liz ; 02:00 – 03:00: Vacant
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: English-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Maths-Liz ; 02:00 – 03:00: Vacant
 
-Suggested and provided substitution Plan for Teacher Max:
+Suggested and provided substitution Plan for Teacher Max as follows:
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: English-Michal ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Maths-Precious ; 02:00 – 03:00: Science-Joshua
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Maths-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Library-Erick ; 11:15 – 12:15: The Arts-Joshua ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: English-Erick ; 02:00 – 03:00: Vacant
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: HASS-Erick ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Maths-Precious ; 02:00 – 03:00: English-Liz
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Maths-Erick ; 09:00 – 10:00: Vacant; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: The Arts-Joshua ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: English-Liz ; 02:00 – 03:00: Vacant
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Maths-Liz ; 02:00 – 03:00: Vacant
 
-Suggested and provided substitution Plan for Teacher Michal:
+Suggested and provided substitution Plan for Teacher Michal as follows:
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Science-Liz ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Maths-Liz ; 02:00 – 03:00: Vacant
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Maths-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Library-Erick ; 11:15 – 12:15: The Arts-Joshua ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: English-Erick ; 02:00 – 03:00: Vacant
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Maths-Erick ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Science-Precious ; 02:00 – 03:00: Science-Joshua
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Maths-Max ; 09:00 – 10:00: Science-Erick ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: The Arts-Liz ; 02:00 – 03:00: Vacant
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Science-Joshua ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Maths-Precious ; 02:00 – 03:00: Library-Erick
 
-Suggested and provided substitution Plan for Teacher Sreyneang (Khmer Teacher):
+Suggested and provided substitution Plan for Teacher Sreyneang (Khmer Teacher) as follows:
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Grade 7-8-Khmer-Michal ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 2-Khmer-Liz ; 11:15 – 12:15: Grade 5-6-Khmer-Joshua ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 3-4-Khmer-Precious ; 02:00 – 03:00: Grade 1-Khmer-Michal
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 7-8-Khmer-Erick ; 09:00 – 10:00: Grade 7-8-Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Vacant ; 11:15 – 12:15: Grade 5-6-Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 1-Khmer-Erick ; 02:00 – 03:00: Vacant
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 7-8-Vacant ; 09:00 – 10:00: Grade 7-8-Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Maths-Erick ; 11:15 – 12:15: Grade 5-6-Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 1-Science-Precious ; 02:00 – 03:00: Science-Joshua
 4. Thursday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 7-8-Vacant ; 09:00 – 10:00: Grade 7-8-Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 5-6-Michal ; 11:15 – 12:15: Grade 2-Joshua ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Grade 3-4-Michal
 5. Friday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 7-8-Vacant ; 09:00 – 10:00: Grade 7-8-Grade 7-8-Michal ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 2-Liz ; 11:15 – 12:15: Grade 5-6-Max ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 3-4-Precious ; 02:00 – 03:00: Grade 1-Erick
 
-Suggested and provided substitution Plan for Teacher Tina (Mandarin Teacher):
+Suggested and provided substitution Plan for Teacher Tina (Mandarin Teacher) as follows:
 1. Monday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 7-8-Madarin-Erick ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 5-6-Madarin-Michal ; 11:15 – 12:15: Grade 2-Madarin-Liz ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 1-Madarin-Joshua ; 02:00 – 03:00: Vacant
 2. Tuesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Grade 5-6-Madarin-Erick ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 3-4-MadarinSreyneang ; 11:15 – 12:15: Vacant ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Grade 2-Madarin-Erick ; 02:00 – 03:00: Grade 7-8-Madarin-Joshua
 3. Wednesday: 08:00 – 08:15: GATHERING of MINDS ; 08:15 - 09:00: Vacant ; 09:00 – 10:00: Vacant ; 10:00 – 10:15: RECESS TIME ; 10:15 – 11:15: Grade 1-Erick ; 11:15 – 12:15: Grade 3-4-Michal ; 12:15 – 01:00: LUNCH ; 01:00 – 02:00: Vacant ; 02:00 – 03:00: Vacant
