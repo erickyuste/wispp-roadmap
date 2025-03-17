@@ -62,6 +62,15 @@ function G2HASSSoilTerm4() {
               Create LP
             </a>
           </button>
+          <button className="w-[8em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
+            <a
+              href="https://docs.google.com/document/d/1rjCJhPV6Sb4K1P4UOPPcqZxVM_WfIifFaPXc7hKuFWI/edit?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Lesson Plans
+            </a>
+          </button>
         </div>
       </div>
     </div>
