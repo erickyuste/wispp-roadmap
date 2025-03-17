@@ -59,7 +59,7 @@ function G2EnglishCanopyTerm3() {
               Create LP
             </a>
           </button>
-          <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
+          <button className="w-[8em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
               href="https://docs.google.com/document/d/1dXMaobXJWp4s-aC23iAIiimXTTu9ia9-/edit?usp=sharing&ouid=118068589261526807700&rtpof=true&sd=true"
               target="_blank"
