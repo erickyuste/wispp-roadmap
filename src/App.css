@@ -310,7 +310,7 @@ body {
   align-items: center;
   justify-content: center;
   transition: all 0.2s ease;
-  z-index: 100;
+  z-index: 50;
 }
 
 #chatbot-toggler span {
