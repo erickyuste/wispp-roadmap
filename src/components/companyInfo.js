@@ -60,7 +60,7 @@ Our Core Values:
 Westbridge is committed to giving students the chance to be the best they can be: 1) An international education based on the UK and Australian curriculums.  2) Engaging and creative curriculums    3) Internationally recognized and a real-life practice.
 
 
-Overall total  number students combined from Nursery to Grade 8 is 84 students as of (provide the current date).
+Overall total  number students combined from Nursery to Grade 8 is 84 students as of March 18, 2025.
 
 Nursery students: Total of 5 Nursery Students; Homeroom Teacher: To be determined;  Teacher Assistants: Ms. Sophea
 1. Name: Sophea Soma; Gender: Female; Birthday: 2-Sep-22; Grade level: Nursery; 

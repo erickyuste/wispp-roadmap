@@ -7,6 +7,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 .logos:before,
@@ -353,5 +354,90 @@ body {
   }
   .chat-footer {
     padding: 10px 15px 15px;
+  }
+}
+
+.tag-box {
+  position: relative;
+  width: 18rem;
+  height: 2.5rem;
+  border-radius: 50px;
+  background: linear-gradient(
+    to right,
+    #656565,
+    #7f42a7,
+    #6600c5,
+    #5400a0,
+    #757575,
+    #656565
+  );
+  background-size: 200%;
+  animation: animationGradient 2.5s linear infinite;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+}
+
+@keyframes animationGradient {
+  to {
+    background-position: 200%;
+  }
+}
+
+@media (max-width: 1300px) {
+  main {
+    min-height: 100vh;
+  }
+  header {
+    padding: 1rem 0.5rem;
+  }
+
+  .content {
+    margin-top: 65%;
+  }
+
+  .robot-3d {
+    scale: 0.8;
+    top: -20%;
+    right: 2%;
+  }
+}
+
+@media (max-width: 768px) {
+  header {
+    padding: 1rem 0.1rem;
+  }
+
+  header h1 {
+    font-size: 2rem;
+  }
+
+  .btn-signing {
+    padding: 0.6rem 1.5rem;
+  }
+
+  .content {
+    margin-top: 30rem;
+    max-width: 30rem;
+  }
+
+  .robot-3d {
+    scale: 0.8;
+    top: -25%;
+    right: 0;
+  }
+
+  .tag-box {
+    width: 12rem;
+  }
+
+  .content h1 {
+    font-size: 2.5rem;
+  }
+
+  .description {
+    font-size: 1rem;
+  }
+  .btn-signing-main {
+    font-size: 0.8rem;
+    padding: 0.8rem 2rem;
   }
 }
