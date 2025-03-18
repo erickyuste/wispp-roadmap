@@ -387,7 +387,7 @@ body {
     padding: 1rem 0.5rem;
   }
 
-  .content {
+  .homepage-content {
     margin-top: 50%;
   }
 
@@ -424,7 +424,7 @@ body {
     padding: 0.6rem 1.5rem;
   }
 
-  .content {
+  .homepage-content {
     max-width: 30rem;
   }
 
