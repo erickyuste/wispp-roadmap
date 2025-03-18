@@ -104,7 +104,7 @@ function HomapageNavbar() {
               <a
                 href="https://wispp.edu.kh/"
                 data-aos="fade-down"
-                data-a0s-duration="2000"
+                data-a0s-duration="1500"
                 className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent"
                 aria-current="page"
                 target="_blank"
@@ -116,7 +116,7 @@ function HomapageNavbar() {
               <a
                 href="https://www.scsa.wa.edu.au/"
                 data-aos="fade-down"
-                data-a0s-duration="2500"
+                data-a0s-duration="2000"
                 className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] transition-all duration-300 ease-in-out md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent"
                 aria-current="page"
                 target="_blank"
@@ -127,7 +127,7 @@ function HomapageNavbar() {
             <li className="relative">
               <button
                 data-aos="fade-down"
-                data-a0s-duration="3000"
+                data-a0s-duration="2500"
                 id="dropdownNavbarLink"
                 data-dropdown-toggle="dropdownNavbar"
                 className="flex items-center justify-between w-full font-bold cursor-pointer bg-[#006494] relative z-100 rounded-lg"

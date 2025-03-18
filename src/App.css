@@ -390,10 +390,6 @@ body {
     padding: 1rem 0.5rem;
   }
 
-  .content {
-    margin-top: 65%;
-  }
-
   .robot-3d {
     scale: 0.8;
     top: -20%;
@@ -415,12 +411,11 @@ body {
   }
 
   .content {
-    margin-top: 30rem;
     max-width: 30rem;
   }
 
   .robot-3d {
-    scale: 0.8;
+    scale: 0.5;
     top: -25%;
     right: 0;
   }

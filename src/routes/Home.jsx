@@ -24,7 +24,7 @@ function Home() {
     <>
       {isLoading && <MainLoader />}
 
-      <div className="w-full min-h-screen bg-black">
+      <div className="w-full h-screen bg-[#051923]">
         <HomapageNavbar />
         <div className="homepage text-gray-300">
           <div className="layer-blur h-0 w-[30rem] absolute top-[20%] right-0 shadow-[0_0_700px_15px_white] rotate-[-30deg] z-[-1]"></div>
@@ -85,15 +85,6 @@ function Home() {
                 </Link>
               </div>
             </div>
-            <spline-viewer
-              className="robot-3d md:w-[100%] absolute top-0 right-[-20%]"
-              url="https://prod.spline.design/FmaJ7Bzsd6KXKQf7/scene.splinecode"
-              data-aos="fade-zoom-in"
-              data-aos-easing="ease-in-back"
-              data-aos-delay="300"
-              data-aos-offset="0"
-              data-a0s-duration="3000"
-            ></spline-viewer>
           </main>
         </div>
         <Chatbot />
