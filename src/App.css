@@ -396,19 +396,6 @@ body {
     top: -20%;
     right: 2%;
   }
-
-  .robot-3d-img {
-    scale: 0.8;
-    top: -20%;
-    right: 2%;
-  }
-
-  main {
-    min-height: 100vh;
-  }
-  header {
-    padding: 1rem 0.5rem;
-  }
 }
 
 @media (max-width: 768px) {
@@ -425,7 +412,7 @@ body {
   }
 
   .homepage-content {
-    max-width: 30rem;
+    max-width: 52rem;
   }
 
   .tag-box {

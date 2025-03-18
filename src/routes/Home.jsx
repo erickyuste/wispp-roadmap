@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import MainLoader from "../components/loaders/MainLoader";
-import robot3d from "../assets/robot3d.jpg";
+import videoBg from "../assets/video-bg.mp4";
 import Chatbot from "../components/Chatbot";
 import HomapageNavbar from "../components/HomapageNavbar";
 
@@ -24,7 +24,16 @@ function Home() {
     <>
       {isLoading && <MainLoader />}
 
-      <div className="w-full min-h-screen bg-black">
+      <div className="w-full min-h-screen bg-black block">
+        <video
+          autoPlay
+          loop
+          muted
+          className="absolute inset-0 w-full h-full object-cover block md:hidden"
+        >
+          <source src={videoBg} type="video/mp4" />
+        </video>
+        <div className="absolute inset-0 bg-black opacity-80 block md:hidden"></div>
         <HomapageNavbar />
         <div className="homepage text-gray-300">
           <div className="layer-blur h-0 w-[30rem] absolute top-[20%] right-0 shadow-[0_0_700px_15px_white] rotate-[-30deg] z-[-1]"></div>

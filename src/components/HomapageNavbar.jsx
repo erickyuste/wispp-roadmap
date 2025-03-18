@@ -105,7 +105,7 @@ function HomapageNavbar() {
                 href="https://wispp.edu.kh/"
                 data-aos="fade-down"
                 data-a0s-duration="1500"
-                className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent"
+                className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent drop-shadow-[0_0_10px_white]"
                 aria-current="page"
                 target="_blank"
               >
@@ -117,11 +117,23 @@ function HomapageNavbar() {
                 href="https://www.scsa.wa.edu.au/"
                 data-aos="fade-down"
                 data-a0s-duration="2000"
-                className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] transition-all duration-300 ease-in-out md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent"
+                className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] transition-all duration-300 ease-in-out md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent drop-shadow-[0_0_10px_white]"
                 aria-current="page"
                 target="_blank"
               >
                 WAC
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://drive.google.com/drive/folders/1KtNm70F1X9mV1eXIi_MmANcrB46Ve-iM"
+                data-aos="fade-down"
+                data-a0s-duration="2000"
+                className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] transition-all duration-300 ease-in-out md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent drop-shadow-[0_0_10px_white]"
+                aria-current="page"
+                target="_blank"
+              >
+                GDrive
               </a>
             </li>
             <li className="relative">
