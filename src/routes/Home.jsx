@@ -86,7 +86,7 @@ function Home() {
               </div>
             </div>
             <spline-viewer
-              className="robot-3d absolute top-0 right-[-20%] "
+              className="robot-3d absolute top-0 right-[-20%] hidden md:block"
               url="https://prod.spline.design/kqy2hHpxHsvQdWdL/scene.splinecode"
             ></spline-viewer>
           </main>

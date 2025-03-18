@@ -425,21 +425,7 @@ body {
   }
 
   .content {
-    margin-top: 33rem;
     max-width: 30rem;
-  }
-
-  .robot-3d {
-    scale: 1;
-    top: -25%;
-    right: 0;
-  }
-
-  .robot-3d-img {
-    width: 200%;
-    position: fixed;
-    top: 0;
-    border: solid 2px yellow;
   }
 
   .tag-box {
