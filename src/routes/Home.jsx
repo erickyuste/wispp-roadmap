@@ -34,9 +34,10 @@ function Home() {
           <source src={videoBg} type="video/mp4" />
         </video>
         <div className="absolute inset-0 min-h-screen bg-black opacity-80 block md:hidden"></div>
+
         <HomapageNavbar />
+
         <div className="homepage text-gray-300">
-          <div className="layer-blur h-0 w-[30rem] absolute top-[20%] right-0 shadow-[0_0_700px_15px_white] rotate-[-30deg] z-[-1]"></div>
           <main className="flex flex-col">
             <div className="homepage-content w-full ml-0 md:ml-[10%] z-50 mt-50 mb-10 px-[10%] md:px-0">
               <div
