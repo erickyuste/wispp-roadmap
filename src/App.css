@@ -383,17 +383,31 @@ body {
 }
 
 @media (max-width: 1300px) {
-  main {
-    min-height: 100vh;
-  }
   header {
     padding: 1rem 0.5rem;
+  }
+
+  .content {
+    margin-top: 50%;
   }
 
   .robot-3d {
     scale: 0.8;
     top: -20%;
     right: 2%;
+  }
+
+  .robot-3d-img {
+    scale: 0.8;
+    top: -20%;
+    right: 2%;
+  }
+
+  main {
+    min-height: 100vh;
+  }
+  header {
+    padding: 1rem 0.5rem;
   }
 }
 
@@ -411,13 +425,21 @@ body {
   }
 
   .content {
+    margin-top: 33rem;
     max-width: 30rem;
   }
 
   .robot-3d {
-    scale: 0.5;
+    scale: 1;
     top: -25%;
     right: 0;
+  }
+
+  .robot-3d-img {
+    width: 200%;
+    position: fixed;
+    top: 0;
+    border: solid 2px yellow;
   }
 
   .tag-box {

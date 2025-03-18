@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import MainLoader from "../components/loaders/MainLoader";
-import gradient from "../assets/gradient.png";
+import robot3d from "../assets/robot3d.jpg";
 import Chatbot from "../components/Chatbot";
 import HomapageNavbar from "../components/HomapageNavbar";
 
@@ -24,7 +24,7 @@ function Home() {
     <>
       {isLoading && <MainLoader />}
 
-      <div className="w-full h-screen bg-[#051923]">
+      <div className="w-full min-h-screen bg-black">
         <HomapageNavbar />
         <div className="homepage text-gray-300">
           <div className="layer-blur h-0 w-[30rem] absolute top-[20%] right-0 shadow-[0_0_700px_15px_white] rotate-[-30deg] z-[-1]"></div>
@@ -85,6 +85,10 @@ function Home() {
                 </Link>
               </div>
             </div>
+            <spline-viewer
+              className="robot-3d absolute top-0 right-[-20%] "
+              url="https://prod.spline.design/kqy2hHpxHsvQdWdL/scene.splinecode"
+            ></spline-viewer>
           </main>
         </div>
         <Chatbot />
