@@ -75,7 +75,7 @@ function Chatbot() {
         <span className="material-symbols-rounded">email</span>
         <span className="material-symbols-rounded">close</span>
       </button>
-      <div className="chatbot-popup m-0 md:mb-14">
+      <div className="chatbot-popup m-0 sm:mb-14">
         <div className="chat-header">
           <div className="header-info">
             <h2 className="logo-text">Email me!</h2>
@@ -89,10 +89,10 @@ function Chatbot() {
             </button>
           </div>
         </div>
-        <div className="flex flex-col text-center justify-center">
+        <div className="chatbot2 w-full h-[50vh] flex flex-col text-center justify-center">
           <div
             ref={chatBodyRef}
-            className="flex items-center justify-center flex-col gap-1  mb-3 px-[22px] pt-2 scrollbar-thin scrollbar-thumb-[#ddd3f9] scrollbar-track-transparent"
+            className="flex items-center justify-center flex-col gap-1 mb-3 px-[22px] pt-2 scrollbar-thin scrollbar-thumb-[#ddd3f9] scrollbar-track-transparent"
           >
             <h1 className="text-sm">
               This project was created and designed by:
@@ -139,7 +139,7 @@ function Chatbot() {
             </div>
           </div>
 
-          <div className="w-full h-full flex items-center justify-center my-4">
+          <div className="flex items-center justify-center my-4">
             <div id="contact-container" className="w-[18rem] md:w-[325px]">
               <p className="w-[100%] text-left text-xs md:text-sm pb-3 px-2">
                 Help me improve this website by sending your comments and
