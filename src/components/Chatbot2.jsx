@@ -3,6 +3,13 @@ import { companyInfo } from "./companyInfo";
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import profile from "../assets/profile.jpeg";
+import html from "../assets/html.png";
+import css from "../assets/css.png";
+import js from "../assets/js.png";
+import react from "../assets/react.jpg";
+import tailwind from "../assets/tailwind.jpg";
+import web3forms from "../assets/web3forms.png";
+import gemini from "../assets/gemini.png";
 
 function Chatbot() {
   const [chatHistory, setChatHistory] = useState([
@@ -89,7 +96,7 @@ function Chatbot() {
             </button>
           </div>
         </div>
-        <div className="chatbot2 w-full h-[50vh] flex flex-col text-center justify-center">
+        <div className="chatbot2 w-full h-[65vh] flex flex-col text-center justify-center">
           <div
             ref={chatBodyRef}
             className="flex items-center justify-center flex-col gap-1 mb-3 px-[22px] pt-2 scrollbar-thin scrollbar-thumb-[#ddd3f9] scrollbar-track-transparent"
@@ -135,6 +142,50 @@ function Chatbot() {
                 </div>
                 <p className="text-xs font-light">Educator/Web Developer</p>
                 <div></div>
+              </div>
+            </div>
+          </div>
+          <div className="w-full items-center justify-center">
+            <h1 className="text-sm font-bold mb-2">Technologies used:</h1>
+            <div>
+              <div className="flex w-[100%] items-center justify-center gap-7">
+                <div>
+                  <div className="flex gap-3 mb-2">
+                    <img
+                      src={html}
+                      alt="html-logo"
+                      className="w-[2rem] rounded-lg shadow-xl"
+                    />
+                    <img
+                      src={css}
+                      alt="css-logo"
+                      className="w-[2rem] rounded-lg shadow-xl"
+                    />
+                    <img
+                      src={js}
+                      alt="js-logo"
+                      className="w-[2rem] rounded-lg shadow-xl"
+                    />
+                  </div>
+                  <img
+                    src={react}
+                    alt="react-logo"
+                    className="w-[8rem] rounded-lg shadow-xl"
+                  />
+                </div>
+
+                <div>
+                  <img
+                    src={tailwind}
+                    alt="tailwind-logo"
+                    className="w-[7rem] rounded-lg shadow-xl mt-2"
+                  />
+                  <img
+                    src={gemini}
+                    alt="gemini-logo"
+                    className="h-[3rem] rounded-lg shadow-xl mt-2"
+                  />
+                </div>
               </div>
             </div>
           </div>

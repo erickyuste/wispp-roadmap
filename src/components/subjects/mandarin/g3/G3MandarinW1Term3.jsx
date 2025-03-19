@@ -10,6 +10,7 @@ function G3MandarinW1Term3() {
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
           • Students talk about their favourite sports and hobbies.
         </p>
+        <br></br>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
           • "目标: Lesson 5 Mandarin 3&4-W1-T3 1
           学习如何中文介绍昨天、今天和明天的日期 2
