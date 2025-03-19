@@ -403,6 +403,10 @@ body {
     padding: 1rem 0.1rem;
   }
 
+  .homepage-content {
+    margin-top: 30%;
+  }
+
   header h1 {
     font-size: 2rem;
   }
