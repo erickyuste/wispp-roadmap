@@ -110,6 +110,7 @@ body {
   transform: rotatey(-80deg);
 }
 
+/* //CHATBOT CONTENT */
 .chatbot-popup {
   position: fixed;
   opacity: 0;
@@ -357,6 +358,7 @@ body {
   }
 }
 
+/* //HOME PAGE CONTENT */
 .tag-box {
   position: relative;
   width: 18rem;
