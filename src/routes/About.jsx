@@ -3,6 +3,7 @@ import AboutContent from "../components/BackgroundContent/AboutContent";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import Chatbot from "../components/Chatbot";
+import Chatbot2 from "../components/Chatbot2";
 import AboutLoader from "../components/loaders/AboutLoader";
 
 function About() {
@@ -27,6 +28,7 @@ function About() {
         <Navbar />
         <AboutContent />
         <Footer />
+        <Chatbot2 />
         <Chatbot />
       </div>
     </>
