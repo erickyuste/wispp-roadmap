@@ -1,4 +1,5 @@
 import React from "react";
+import bot from "../../assets/bot.gif";
 
 function Header() {
   return (
@@ -158,21 +159,25 @@ function Header() {
             Western Australian Curriculum, ensuring that our students receive a
             world-class education.<br></br>
             <br></br>
-            <span className="font-bold text-gray-100">Chatbot Assistance:</span>
-            <br></br>
-            <br></br>
-            In the lower right corner, our website features an AI chatbot,
+            <span className="font-bold text-gray-300">
+              • Integrate Innovative Teaching Methods
+            </span>
+            : Explore and incorporate new teaching techniques and technologies
+            to enhance the learning experience.<br></br>
+            <div className="flex items-center gap-4 my-4">
+              <img src={bot} />
+              <span className="font-bold text-gray-100 pt-1">
+                {" "}
+                Chatbot Assistance:
+              </span>
+            </div>
+            In the lower right corner, our website features an AI{" "}
+            <span className="material-symbols-rounded">smart_toy</span> chatbot,
             powered by Google's Gemini, acting as your academic assistant,
             providing instant support and information from our extensive school
             knowledge bank, offering benefits like quick answers, 24/7
             availability, and personalized guidance for a seamless browsing
             experience.<br></br>
-            <br></br>
-            <span className="font-bold text-gray-300">
-              • Integrate Innovative Teaching Methods
-            </span>
-            : Explore and incorporate new teaching techniques and technologies
-            to enhance the learning experience.
             <br></br> The Westbridge Curriculum Roadmap is a testament to our
             commitment to providing our teachers with the best possible
             resources, enabling them to inspire and empower the next generation
