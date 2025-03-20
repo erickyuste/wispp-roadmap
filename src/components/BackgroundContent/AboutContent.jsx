@@ -158,7 +158,6 @@ function Header() {
             : We are committed to upholding the integrity and standards of the
             Western Australian Curriculum, ensuring that our students receive a
             world-class education.<br></br>
-            <br></br>
             <span className="font-bold text-gray-300">
               • Integrate Innovative Teaching Methods
             </span>

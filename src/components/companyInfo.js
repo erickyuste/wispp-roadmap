@@ -129,14 +129,14 @@ Grade 1 students: Total of 8  Grade 1 students; Homeroom Teacher: Teacher Joshua
 7. Name: Thach Lina; Gender: Female; Birthday: 23-Sep-2018; Grade level: Grade 1; Homeroom Teacher: Teacher Joshua
 8. Name: Chhan WenFu; Gender: Male; Birthday: 16-Jun-2018; Grade level: Grade 1; Homeroom Teacher: Teacher Joshua
 
-Grade 2 students: Total of 7 Grade 2 students; Homeroom Teacher: Teacher Liz
-1. Name: Eung Feng Er; Gender: Female; Birthday: 23-Sep-2017; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
-2. Name: Hean Sonita; Gender: Female; Birthday: 22-Jul-2017; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
-3. Name: Santhana Rinyalice ; Gender: Female; Birthday: 14-Feb-2018; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
-4. Name: Meas Vinika; Gender: Female; Birthday: 10-Nov-2017; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
-5. Name: Le Richard; Gender: Male; Birthday: 14-Apr-2017; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
-6. Name: Seak Angelica; Gender: Female; Birthday: 8-May-2018; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
-7. Name: Vichet KunSedhiLieph; Gender: Male; Birthday: 16-Apr-2018; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
+Grade 2 students: Total of 7 Grade 2 students; Homeroom Teacher: Teacher Liz; 
+1. Name: Eung Feng Er; Gender: Female; Birthday: 2017-9-23, ; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
+2. Name: Hean Sonita; Gender: Female; Birthday: 2017-7-22, ; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
+3. Name: Santhana Rinyalice ; Gender: Female; Birthday: 2018-2-14, ; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
+4. Name: Meas Vinika; Gender: Female; Birthday: 2017-11-10, ; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
+5. Name: Le Richard; Gender: Male; Birthday: 2017-4-14, ; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
+6. Name: Seak Angelica; Gender: Female; Birthday: 2018-5-8, ; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
+7. Name: Vichet KunSedhiLieph; Gender: Male; Birthday: 2018-4-16, ; Grade level: Grade 2; Homeroom Teacher: Teacher Liz
 
 Grade 3 students: Total of 3 Grade 3 students; Homeroom Teacher: Teacher Precious
 1. Name: Ly Leanheng; Gender: Male; Birthday: 10-Feb-2016; Grade level: Grade 3; Homeroom Teacher: Teacher Precious
@@ -147,9 +147,9 @@ Grade 4 students: Total of 6 Grade 4 students; Homeroom Teacher: Teacher Preciou
 1. Name: Him Sovannmonywadth; Gender: Male; Birthday: 1-Mar-2016; Grade level: Grade 4; Homeroom Teacher: Teacher Precious
 2. Name: To Chandaraboth; Gender: Male; Birthday: 10-Mar-2015; Grade level: Grade 4; Homeroom Teacher: Teacher Precious
 3. Name: Meng Sovannika ; Gender: Female; Birthday: 2-Nov-2015; Grade level: Grade 4; Homeroom Teacher: Teacher Precious
-4. Name: Ouk Daravit; Gender: Male; Birthday: 25-May-2015; Grade level: Grade 4; Homeroom Teacher: Teacher Liz
-5. Name: Khum Rothanalidy; Gender: Male; Birthday: 2-Mar-2015; Grade level: Grade 4; Homeroom Teacher: Teacher Liz
-6. Name: Aliza Anne Milsom; Gender: Female; Birthday: no record; Grade level: Grade 4; Homeroom Teacher: Teacher Liz
+4. Name: Ouk Daravit; Gender: Male; Birthday: 25-May-2015; Grade level: Grade 4; Homeroom Teacher: Teacher Precious
+5. Name: Khum Rothanalidy; Gender: Male; Birthday: 2-Mar-2015; Grade level: Grade 4; Homeroom Teacher: Teacher Precious
+6. Name: Aliza Anne Milsom; Gender: Female; Birthday: no record; Grade level: Grade 4; Homeroom Teacher: Teacher Precious
 
 Grade 5 students: Total of 5 Grade 5 students; Homeroom Teacher: Teacher Max
 1. Name: To Lilly; Gender: Female; Birthday: 4-Feb-2014; Grade level: Grade 5; Homeroom Teacher: Teacher Max

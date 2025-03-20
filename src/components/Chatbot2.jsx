@@ -99,7 +99,7 @@ function Chatbot() {
         <div className="chatbot2 w-full h-[65vh] flex flex-col text-center justify-center">
           <div
             ref={chatBodyRef}
-            className="flex items-center justify-center flex-col gap-1 mb-3 px-[22px] pt-2 scrollbar-thin scrollbar-thumb-[#ddd3f9] scrollbar-track-transparent"
+            className="flex items-center justify-center flex-col gap-1 mb-3 px-[22px] scrollbar-thin scrollbar-thumb-[#ddd3f9] scrollbar-track-transparent"
           >
             <h1 className="text-sm">
               This project was created and designed by:
@@ -145,97 +145,100 @@ function Chatbot() {
               </div>
             </div>
           </div>
-          <div className="w-full items-center justify-center">
-            <h1 className="text-sm font-bold mb-2">Technologies used:</h1>
-            <div>
-              <div className="flex w-[100%] items-center justify-center gap-7">
-                <div>
-                  <div className="flex gap-3 mb-2">
+          <div className="w-full flex justify-center items-center ">
+            <div className="w-[75%] items-center justify-center border-dashed border-2 p-2 rounded-2xl">
+              <h1 className="text-sm font-bold mb-2">Technologies used:</h1>
+              <div>
+                <div className="flex w-[100%] items-center justify-center gap-7">
+                  <div>
+                    <div className="flex gap-3 mb-2">
+                      <img
+                        src={html}
+                        alt="html-logo"
+                        className="w-[2rem] rounded-lg shadow-xl"
+                      />
+                      <img
+                        src={css}
+                        alt="css-logo"
+                        className="w-[2rem] rounded-lg shadow-xl"
+                      />
+                      <img
+                        src={js}
+                        alt="js-logo"
+                        className="w-[2rem] rounded-lg shadow-xl"
+                      />
+                    </div>
                     <img
-                      src={html}
-                      alt="html-logo"
-                      className="w-[2rem] rounded-lg shadow-xl"
-                    />
-                    <img
-                      src={css}
-                      alt="css-logo"
-                      className="w-[2rem] rounded-lg shadow-xl"
-                    />
-                    <img
-                      src={js}
-                      alt="js-logo"
-                      className="w-[2rem] rounded-lg shadow-xl"
+                      src={react}
+                      alt="react-logo"
+                      className="w-[8rem] rounded-lg shadow-xl"
                     />
                   </div>
-                  <img
-                    src={react}
-                    alt="react-logo"
-                    className="w-[8rem] rounded-lg shadow-xl"
-                  />
-                </div>
 
-                <div>
-                  <img
-                    src={tailwind}
-                    alt="tailwind-logo"
-                    className="w-[7rem] rounded-lg shadow-xl mt-2"
-                  />
-                  <img
-                    src={gemini}
-                    alt="gemini-logo"
-                    className="h-[3rem] rounded-lg shadow-xl mt-2"
-                  />
+                  <div>
+                    <img
+                      src={tailwind}
+                      alt="tailwind-logo"
+                      className="w-[7rem] rounded-lg shadow-xl mt-2"
+                    />
+                    <img
+                      src={gemini}
+                      alt="gemini-logo"
+                      className="h-[3rem] rounded-lg shadow-xl mt-2"
+                    />
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-
-          <div className="flex items-center justify-center my-4">
-            <div id="contact-container" className="w-[18rem] md:w-[325px]">
-              <p className="w-[100%] text-left text-xs md:text-sm pb-3 px-2">
-                Help me improve this website by sending your comments and
-                suggestions below:
-              </p>
-              <form
-                action="https://api.web3forms.com/submit"
-                method="POST"
-                className="w-full items-center flex flex-col"
-              >
-                <input
-                  type="hidden"
-                  name="access_key"
-                  value="08cba000-2cc9-4f2d-a6fd-71b6f99d3019"
-                />
-                <input
-                  placeholder="Your Name"
-                  name="name"
-                  type="text"
-                  className="w-[100%] h-[2rem] p-2 text-sm mb-2 border-1 rounded-md"
-                  required
-                />
-                <input
-                  placeholder="Your Email"
-                  name="email"
-                  type="email"
-                  className="w-[100%] h-[2rem] p-2 text-sm mb-2 border-1  rounded-md"
-                  required
-                />
-                <textarea
-                  id="comment"
-                  name="nessage"
-                  rows="4"
-                  className="w-[100%] h-[8rem] rounded-lg p-2 text-sm border-1"
-                  placeholder="Write your suggestions here..."
-                  required
-                ></textarea>
-                <button
-                  type="submit"
-                  id="send-btn"
-                  className="w-[18vw] md:w-[80px] text-xs text-white md:text-md font-bold py-1 cursor-pointer border-1 mt-2 rounded-[20px] bg-[#006494] hover:transform scale-125 mb-2"
+          <div className="w-full flex text-center justify-center">
+            <div className="w-[85%] flex items-center justify-center my-3">
+              <div id="contact-container" className="w-[18rem] md:w-[325px]">
+                <p className="w-[100%] text-left text-xs md:text-sm pb-3 px-2">
+                  Help me improve this website by sending your comments and
+                  suggestions below:
+                </p>
+                <form
+                  action="https://api.web3forms.com/submit"
+                  method="POST"
+                  className="w-full items-center flex flex-col"
                 >
-                  Send
-                </button>
-              </form>
+                  <input
+                    type="hidden"
+                    name="access_key"
+                    value="08cba000-2cc9-4f2d-a6fd-71b6f99d3019"
+                  />
+                  <input
+                    placeholder="Your Name"
+                    name="name"
+                    type="text"
+                    className="w-[100%] h-[2rem] p-2 text-sm mb-2 border-1 rounded-md"
+                    required
+                  />
+                  <input
+                    placeholder="Your Email"
+                    name="email"
+                    type="email"
+                    className="w-[100%] h-[2rem] p-2 text-sm mb-2 border-1  rounded-md"
+                    required
+                  />
+                  <textarea
+                    id="comment"
+                    name="nessage"
+                    rows="4"
+                    className="w-[100%] h-[8rem] rounded-lg p-2 text-sm border-1"
+                    placeholder="Write your suggestions here..."
+                    required
+                  ></textarea>
+                  <button
+                    type="submit"
+                    id="send-btn"
+                    className="w-[18vw] md:w-[80px] text-xs text-white md:text-md font-bold py-1 cursor-pointer border-1 mt-3 rounded-[20px] bg-[#006494] hover:transform scale-125 mb-2"
+                  >
+                    Send
+                  </button>
+                </form>
+              </div>
             </div>
           </div>
         </div>
