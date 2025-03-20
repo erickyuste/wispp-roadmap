@@ -146,7 +146,7 @@ function Chatbot() {
             </div>
           </div>
           <div className="w-full flex justify-center items-center ">
-            <div className="w-[75%] items-center justify-center border-dashed border-2 p-2 rounded-2xl">
+            <div className="w-[75%] items-center justify-center border-dashed border-2 p-2 rounded-md">
               <h1 className="text-sm font-bold mb-2">Technologies used:</h1>
               <div>
                 <div className="flex w-[100%] items-center justify-center gap-7">
