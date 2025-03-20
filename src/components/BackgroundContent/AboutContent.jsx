@@ -177,11 +177,14 @@ function Header() {
             knowledge bank, offering benefits like quick answers, 24/7
             availability, and personalized guidance for a seamless browsing
             experience.<br></br>
-            <br></br> The Westbridge Curriculum Roadmap is a testament to our
-            commitment to providing our teachers with the best possible
-            resources, enabling them to inspire and empower the next generation
-            of learners. We are confident that this platform will be an
-            invaluable tool in your teaching journey.<br></br>
+            <br></br> The{" "}
+            <span className="font-bold text-gray-300">
+              Westbridge Curriculum Roadmap
+            </span>{" "}
+            is a testament to our commitment to providing our teachers with the
+            best possible resources, enabling them to inspire and empower the
+            next generation of learners. We are confident that this platform
+            will be an invaluable tool in your teaching journey.<br></br>
             <br></br>
           </p>
         </div>
