@@ -164,7 +164,7 @@ function Header() {
             </span>
             : Explore and incorporate new teaching techniques and technologies
             to enhance the learning experience.<br></br>
-            <div className="flex items-center gap-4 my-4">
+            <div className="flex items-center gap-4 my-2">
               <img src={bot} />
               <span className="font-bold text-gray-100 pt-1">
                 {" "}
@@ -172,7 +172,7 @@ function Header() {
               </span>
             </div>
             In the lower right corner, our website features an AI{" "}
-            <span className="material-symbols-rounded">smart_toy</span> chatbot,
+            <span className="material-symbols-rounded">smart_toy</span> Chatbot,
             powered by Google's Gemini, acting as your academic assistant,
             providing instant support and information from our extensive school
             knowledge bank, offering benefits like quick answers, 24/7
