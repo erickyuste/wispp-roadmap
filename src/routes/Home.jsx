@@ -30,6 +30,7 @@ function Home() {
           autoPlay
           loop
           muted
+          playsinline
           className="absolute inset-0 w-full min-h-screen object-cover block md:hidden"
         >
           <source src={videoBg} type="video/mp4" />
