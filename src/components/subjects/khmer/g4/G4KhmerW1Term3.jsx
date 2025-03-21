@@ -1,6 +1,6 @@
 import React from "react";
 
-function G4KhmerW1Term3() {
+function G5KhmerW1Term3() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
@@ -27,4 +27,4 @@ function G4KhmerW1Term3() {
   );
 }
 
-export default G4KhmerW1Term3;
+export default G5KhmerW1Term3;

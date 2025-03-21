@@ -9,6 +9,7 @@ import G6MusicW8Term3 from "../../subjects/music/g6/G6MusicW8Term3";
 import G6HealthW8Term3 from "../../subjects/healthEducation/g6/G6HealthW8Term3";
 import G6PEW8Term3 from "../../subjects/physicalEducation/g6/G6PEW8Term3";
 import G6MandarinW8Term3 from "../../subjects/mandarin/g6/G6MandarinW8Term3";
+import G6KhmerW8Term3 from "../../subjects/khmer/g6/G6KhmerW8Term3";
 
 function W8Term3() {
   const [openItem, setOpenItem] = useState(null);
@@ -67,6 +68,11 @@ function W8Term3() {
       id: "item10",
       label: "Language: Mandarin",
       content: <G6MandarinW8Term3 />,
+    },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: <G6KhmerW8Term3 />,
     },
   ];
 
