@@ -62,6 +62,11 @@ function StalkTerm1() {
       label: "Physical Education",
       content: <G1PhysicalStalkTerm1 />,
     },
+    {
+      id: "item10",
+      label: "Khmer",
+      content: "Khmer",
+    },
   ];
 
   return (

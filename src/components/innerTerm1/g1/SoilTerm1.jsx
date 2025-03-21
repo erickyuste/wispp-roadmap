@@ -62,6 +62,11 @@ function SoilTerm1() {
       label: "Physical Education",
       content: <G1PhysicalSoilTerm1 />,
     },
+    {
+      id: "item10",
+      label: "Khmer",
+      content: "Khmer",
+    },
   ];
 
   return (

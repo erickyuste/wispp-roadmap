@@ -8,6 +8,7 @@ import G1VisualArtsSeedTerm3 from "../../subjects/visual arts/g1/G1VisualArtsSee
 import G1MusicSeedTerm3 from "../../subjects/music/g1/G1MusicSeedTerm3";
 import G1HealthSeedTerm3 from "../../subjects/healthEducation/g1/G1HealthSeedTerm3";
 import G1PhysicalSeedTerm3 from "../../subjects/physicalEducation/g1/G1PhysicalSeedTerm3";
+import G1KhmerSeedTerm3 from "../../subjects/khmer/g1/G1KhmerSeedTerm3";
 
 function SeedTerm3() {
   const [openItem, setOpenItem] = useState(null);
@@ -61,6 +62,11 @@ function SeedTerm3() {
       id: "item9",
       label: "Physical Education",
       content: <G1PhysicalSeedTerm3 />,
+    },
+    {
+      id: "item10",
+      label: "Khmer",
+      content: <G1KhmerSeedTerm3 />,
     },
   ];
 

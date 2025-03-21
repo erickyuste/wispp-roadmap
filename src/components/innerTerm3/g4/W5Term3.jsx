@@ -7,6 +7,7 @@ import G4TechW5Term3 from "../../subjects/technology/g4/G4TechW5Term3";
 import G4HealthW5Term3 from "../../subjects/healthEducation/g4/G4HealthW5Term3";
 import G4PEW5Term3 from "../../subjects/physicalEducation/g4/G4PEW5Term3";
 import G4MandarinW5Term3 from "../../subjects/mandarin/g4/G4MandarinW5Term3";
+import G4KhmerW5Term3 from "../../subjects/khmer/g4/G4KhmerW5Term3";
 
 function W5Term3() {
   const [openItem, setOpenItem] = useState(null);
@@ -60,6 +61,11 @@ function W5Term3() {
       id: "item10",
       label: "Language: Mandarin",
       content: <G4MandarinW5Term3 />,
+    },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: <G4KhmerW5Term3 />,
     },
   ];
 

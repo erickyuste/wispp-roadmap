@@ -8,6 +8,7 @@ import G1VisualArtsFlowerTerm3 from "../../subjects/visual arts/g1/G1VisualArtsF
 import G1MusicFlowerTerm3 from "../../subjects/music/g1/G1MusicFlowerTerm3";
 import G1HealthFlowerTerm3 from "../../subjects/healthEducation/g1/G1HealthFlowerTerm3";
 import G1PhysicalFlowerTerm3 from "../../subjects/physicalEducation/g1/G1PhysicalFlowerTerm3";
+import G1KhmerFlowerTerm3 from "../../subjects/khmer/g1/G1KhmerFlowerTerm3";
 
 function FlowerTerm3() {
   const [openItem, setOpenItem] = useState(null);
@@ -61,6 +62,11 @@ function FlowerTerm3() {
       id: "item9",
       label: "Physical Education",
       content: <G1PhysicalFlowerTerm3 />,
+    },
+    {
+      id: "item10",
+      label: "Khmer",
+      content: <G1KhmerFlowerTerm3 />,
     },
   ];
 

@@ -62,6 +62,11 @@ function CanopyTerm1() {
       label: "Physical Education",
       content: <G1PhysicalCanopyTerm1 />,
     },
+    {
+      id: "item10",
+      label: "Khmer",
+      content: "Khmer",
+    },
   ];
 
   return (

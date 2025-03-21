@@ -8,6 +8,7 @@ import G1VisualArtsSoilTerm3 from "../../subjects/visual arts/g1/G1VisualArtsSoi
 import G1MusicSoilTerm3 from "../../subjects/music/g1/G1MusicSoilTerm3";
 import G1HealthSoilTerm3 from "../../subjects/healthEducation/g1/G1HealthSoilTerm3";
 import G1PhysicalSoilTerm3 from "../../subjects/physicalEducation/g1/G1PhysicalSoilTerm3";
+import G1KhmerSoilTerm3 from "../../subjects/khmer/g1/G1KhmerSoilTerm3";
 
 function SoilTerm3() {
   const [openItem, setOpenItem] = useState(null);
@@ -61,6 +62,11 @@ function SoilTerm3() {
       id: "item9",
       label: "Physical Education",
       content: <G1PhysicalSoilTerm3 />,
+    },
+    {
+      id: "item10",
+      label: "Khmer",
+      content: <G1KhmerSoilTerm3 />,
     },
   ];
 

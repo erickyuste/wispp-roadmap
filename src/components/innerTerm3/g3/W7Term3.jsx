@@ -9,6 +9,7 @@ import G3MusicW7Term3 from "../../subjects/music/g3/G3MusicW7Term3";
 import G3HealthW7Term3 from "../../subjects/healthEducation/g3/G3HealthW7Term3";
 import G3PEW7Term3 from "../../subjects/physicalEducation/g3/G3PEW7Term3";
 import G3MandarinW7Term3 from "../../subjects/mandarin/g3/G3MandarinW7Term3";
+import G3KhmerW7Term3 from "../../subjects/khmer/g3/G3KhmerW7Term3";
 
 function W7Term3() {
   const [openItem, setOpenItem] = useState(null);
@@ -68,6 +69,11 @@ function W7Term3() {
       label: "Language: Mandarin",
       content: <G3MandarinW7Term3 />,
     },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: <G3KhmerW7Term3 />,
+    },
   ];
 
   return (
@@ -78,7 +84,7 @@ function W7Term3() {
             key={item.id}
             className={`list-none w-full my-1 px-2 rounded-lg bg-[#0582ca] border-[#003554] text-white border-3 hover:border-[#0582ca] ${
               openItem === item.id ? "active" : ""
-            }`} // Added active class
+            }`}
           >
             <label
               className="flex items-center p-[.65rem] cursor-pointer before:content-['+'] before:mr-[10px] text-xs sm:text-sm md:text-md lg:text-lg font-bold "

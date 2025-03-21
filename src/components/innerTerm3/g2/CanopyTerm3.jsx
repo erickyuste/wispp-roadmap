@@ -8,6 +8,7 @@ import G2VisualArtsCanopyTerm3 from "../../subjects/visual arts/g2/G2VisualArtsC
 import G2MusicCanopyTerm3 from "../../subjects/music/g2/G2MusicCanopyTerm3";
 import G2HealthCanopyTerm3 from "../../subjects/healthEducation/g2/G2HealthCanopyTerm3";
 import G2PhysicalCanopyTerm3 from "../../subjects/physicalEducation/g2/G2PhysicalCanopyTerm3";
+import G2KhmerCanopyTerm3 from "../../subjects/khmer/g2/G2KhmerCanopyTerm3";
 
 function CanopyTerm3() {
   const [openItem, setOpenItem] = useState(null);
@@ -61,6 +62,11 @@ function CanopyTerm3() {
       id: "item9",
       label: "Physical Education",
       content: <G2PhysicalCanopyTerm3 />,
+    },
+    {
+      id: "item10",
+      label: "Khmer",
+      content: <G2KhmerCanopyTerm3 />,
     },
   ];
 

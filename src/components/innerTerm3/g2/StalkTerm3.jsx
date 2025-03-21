@@ -8,6 +8,7 @@ import G2VisualArtsStalkTerm3 from "../../subjects/visual arts/g2/G2VisualArtsSt
 import G2MusicStalkTerm3 from "../../subjects/music/g2/G2MusicStalkTerm3";
 import G2HealthStalkTerm3 from "../../subjects/healthEducation/g2/G2HealthStalkTerm3";
 import G2PhysicalStalkTerm3 from "../../subjects/physicalEducation/g2/G2PhysicalStalkTerm3";
+import G2KhmerStalkTerm3 from "../../subjects/khmer/g2/G2KhmerStalkTerm3";
 
 function StalkTerm3() {
   const [openItem, setOpenItem] = useState(null);
@@ -61,6 +62,11 @@ function StalkTerm3() {
       id: "item9",
       label: "Physical Education",
       content: <G2PhysicalStalkTerm3 />,
+    },
+    {
+      id: "item10",
+      label: "Khmer",
+      content: <G2KhmerStalkTerm3 />,
     },
   ];
 

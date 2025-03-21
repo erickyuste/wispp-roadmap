@@ -62,6 +62,11 @@ function SeedTerm1() {
       label: "Physical Education",
       content: <G1PhysicalSeedTerm1 />,
     },
+    {
+      id: "item10",
+      label: "Khmer",
+      content: "Khmer",
+    },
   ];
 
   return (
