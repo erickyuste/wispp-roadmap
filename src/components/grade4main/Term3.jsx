@@ -92,7 +92,7 @@ function Term3() {
             <div
               className={`content text-white px-[5px] leading-[26px] content max-h-0 overflow-hidden transition-all duration-500 ${
                 openItem === item.id
-                  ? "max-h-screen py-[10px] px-[10px] pb-[20px]"
+                  ? "max-h-[135vh] py-[10px] px-[10px] pb-[20px]"
                   : ""
               }`}
             >

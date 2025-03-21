@@ -12,6 +12,15 @@ function G5MandarinW7Term3() {
           in their neighbourhood.
         </p>
         <br></br>
+        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
+          • 目标：扩展学习周（交通工具&蔬菜） Mandarin-W7-T3（G5&6） 1
+          记住常见交通工具的中文名称 2 记住常见蔬菜的中文名称 课堂活动： 1
+          打印关于交通工具和蔬菜的图片，让学生根据图片说出其中文意思 2
+          传球活动，当老师喊停时，球在谁手里，谁就需要说出老师所展示的关于交通工具和蔬菜的中文名称。
+          作业
+          老师把所学的交通工具和蔬菜的图片出测试题，学生根据图片选择相应的中文名称。
+        </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
