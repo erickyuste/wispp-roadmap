@@ -146,7 +146,7 @@ function HomapageNavbar() {
                 onClick={toggleLevelsDropdown}
               >
                 <span className="flex items-center justify-center p-2 rounded-lg w-[10rem] transition-all duration-100 ease-in-out text-white hover:border-2 border-gray-100 md:border-0 hover:border-white">
-                  Choose a level
+                  Get Started!
                   <svg
                     className="w-2.5 h-2.5 ms-2.5"
                     aria-hidden="true"
