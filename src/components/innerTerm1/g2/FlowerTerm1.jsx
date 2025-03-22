@@ -62,6 +62,16 @@ function FlowerTerm1() {
       label: "Physical Education",
       content: <G2PhysicalFlowerTerm1 />,
     },
+    {
+      id: "item10",
+      label: "Language: Mandarin",
+      content: "No content yet",
+    },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
+    },
   ];
 
   return (
@@ -72,7 +82,7 @@ function FlowerTerm1() {
             key={item.id}
             className={`list-none w-full my-1 px-2 rounded-lg bg-[#0582ca] border-[#003554] text-white border-3 hover:border-[#0582ca] ${
               openItem === item.id ? "active" : ""
-            }`} // Added active class
+            }`}
           >
             <label
               className="flex items-center p-[.65rem] font-bold cursor-pointer before:content-['+'] before:mr-[10px] text-xs sm:text-sm md:text-md lg:text-lg"

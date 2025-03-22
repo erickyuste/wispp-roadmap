@@ -8,6 +8,7 @@ import G2VisualArtsSoilTerm4 from "../../subjects/visual arts/g2/G2VisualArtsSoi
 import G2MusicSoilTerm4 from "../../subjects/music/g2/G2MusicSoilTerm4";
 import G2HealthSoilTerm4 from "../../subjects/healthEducation/g2/G2HealthSoilTerm4";
 import G2PhysicalSoilTerm4 from "../../subjects/physicalEducation/g2/G2PhysicalSoilTerm4";
+import G2MandarinSoilTerm4 from "../../subjects/mandarin/g2/G2MandarinSoilTerm4";
 
 function SoilTerm4() {
   const [openItem, setOpenItem] = useState(null);
@@ -61,6 +62,16 @@ function SoilTerm4() {
       id: "item9",
       label: "Physical Education",
       content: <G2PhysicalSoilTerm4 />,
+    },
+    {
+      id: "item10",
+      label: "Language: Mandarin",
+      content: <G2MandarinSoilTerm4 />,
+    },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
     },
   ];
 

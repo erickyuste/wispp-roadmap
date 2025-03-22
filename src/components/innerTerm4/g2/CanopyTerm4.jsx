@@ -8,6 +8,7 @@ import G2VisualArtsCanopyTerm4 from "../../subjects/visual arts/g2/G2VisualArtsC
 import G2MusicCanopyTerm4 from "../../subjects/music/g2/G2MusicCanopyTerm4";
 import G2HealthCanopyTerm4 from "../../subjects/healthEducation/g2/G2HealthCanopyTerm4";
 import G2PhysicalCanopyTerm4 from "../../subjects/physicalEducation/g2/G2PhysicalCanopyTerm4";
+import G2MandarinCanopyTerm4 from "../../subjects/mandarin/g2/G2MandarinCanopyTerm4";
 
 function CanopyTerm4() {
   const [openItem, setOpenItem] = useState(null);
@@ -61,6 +62,16 @@ function CanopyTerm4() {
       id: "item9",
       label: "Physical Education",
       content: <G2PhysicalCanopyTerm4 />,
+    },
+    {
+      id: "item10",
+      label: "Language: Mandarin",
+      content: <G2MandarinCanopyTerm4 />,
+    },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
     },
   ];
 

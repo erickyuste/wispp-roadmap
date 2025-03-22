@@ -8,6 +8,7 @@ import G1VisualArtsSeedTerm4 from "../../subjects/visual arts/g1/G1VisualArtsSee
 import G1MusicSeedTerm4 from "../../subjects/music/g1/G1MusicSeedTerm4";
 import G1HealthSeedTerm4 from "../../subjects/healthEducation/g1/G1HealthSeedTerm4";
 import G1PhysicalSeedTerm4 from "../../subjects/physicalEducation/g1/G1PhysicalSeedTerm4";
+import G1MandarinSeedTerm4 from "../../subjects/mandarin/g1/G1MandarinSeedTerm4";
 
 function SeedTerm4() {
   const [openItem, setOpenItem] = useState(null);
@@ -65,7 +66,7 @@ function SeedTerm4() {
     {
       id: "item10",
       label: "Language: Mandarin",
-      content: "No content yet",
+      content: <G1MandarinSeedTerm4 />,
     },
     {
       id: "item11",

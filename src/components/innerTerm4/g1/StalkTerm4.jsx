@@ -8,6 +8,7 @@ import G1VisualArtsStalkTerm4 from "../../subjects/visual arts/g1/G1VisualArtsSt
 import G1MusicStalkTerm4 from "../../subjects/music/g1/G1MusicStalkTerm4";
 import G1HealthStalkTerm4 from "../../subjects/healthEducation/g1/G1HealthStalkTerm4";
 import G1PhysicalStalkTerm4 from "../../subjects/physicalEducation/g1/G1PhysicalStalkTerm4";
+import G1MandarinStalkTerm4 from "../../subjects/mandarin/g1/G1MandarinStalkTerm4";
 
 function StalkTerm4() {
   const [openItem, setOpenItem] = useState(null);
@@ -65,7 +66,7 @@ function StalkTerm4() {
     {
       id: "item10",
       label: "Language: Mandarin",
-      content: "No content yet",
+      content: <G1MandarinStalkTerm4 />,
     },
     {
       id: "item11",

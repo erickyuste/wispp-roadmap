@@ -1,12 +1,12 @@
 import React from "react";
 
-function G1MandarinCanopyTerm4() {
+function G2MandarinCanopyTerm4() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • 目标：Lesson 8 P90-93 Mandarin-W9-T3（G1) Mandarin-W10-T3（G1)
-          Mandarin-W11-T3（G1) 1 学习关于时间的主要词汇 2
+          • 目标：Lesson 8 P90-93 Mandarin-W9-T4（G2） Mandarin-W10-T4（G2）
+          Mandarin-W11-T4（G2） 1 学习关于时间的主要词汇 2
           学习有关询问时间和回答时间的常用中文词汇。 3
           熟练掌握如何用中文询问时间和回答时间 4
           复习Term3所有学过的内容（从Lesson5-Lesson8），为本学期的评估做准备。
@@ -34,4 +34,4 @@ function G1MandarinCanopyTerm4() {
   );
 }
 
-export default G1MandarinCanopyTerm4;
+export default G2MandarinCanopyTerm4;

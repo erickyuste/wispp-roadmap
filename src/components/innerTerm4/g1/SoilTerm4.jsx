@@ -8,6 +8,7 @@ import G1VisualArtsSoilTerm4 from "../../subjects/visual arts/g1/G1VisualArtsSoi
 import G1MusicSoilTerm4 from "../../subjects/music/g1/G1MusicSoilTerm4";
 import G1HealthSoilTerm4 from "../../subjects/healthEducation/g1/G1HealthSoilTerm4";
 import G1PhysicalSoilTerm4 from "../../subjects/physicalEducation/g1/G1PhysicalSoilTerm4";
+import G1MandarinSoilTerm4 from "../../subjects/mandarin/g1/G1MandarinSoilTerm4";
 
 function SoilTerm4() {
   const [openItem, setOpenItem] = useState(null);
@@ -65,7 +66,7 @@ function SoilTerm4() {
     {
       id: "item10",
       label: "Language: Mandarin",
-      content: "No content yet",
+      content: <G1MandarinSoilTerm4 />,
     },
     {
       id: "item11",

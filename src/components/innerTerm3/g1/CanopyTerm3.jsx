@@ -74,6 +74,16 @@ function CanopyTerm3() {
       label: "Khmer",
       content: <G1KhmerCanopyTerm3 />,
     },
+    {
+      id: "item10",
+      label: "Language: Mandarin",
+      content: "No content yet",
+    },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
+    },
   ];
 
   return (

@@ -8,6 +8,7 @@ import G2VisualArtsFlowerTerm4 from "../../subjects/visual arts/g2/G2VisualArtsF
 import G2MusicFlowerTerm4 from "../../subjects/music/g2/G2MusicFlowerTerm4";
 import G2HealthFlowerTerm4 from "../../subjects/healthEducation/g2/G2HealthFlowerTerm4";
 import G2PhysicalFlowerTerm4 from "../../subjects/physicalEducation/g2/G2PhysicalFlowerTerm4";
+import G2MandarinFlowerTerm4 from "../../subjects/mandarin/g2/G2MandarinFlowerTerm4";
 
 function FlowerTerm4() {
   const [openItem, setOpenItem] = useState(null);
@@ -61,6 +62,16 @@ function FlowerTerm4() {
       id: "item9",
       label: "Physical Education",
       content: <G2PhysicalFlowerTerm4 />,
+    },
+    {
+      id: "item10",
+      label: "Language: Mandarin",
+      content: <G2MandarinFlowerTerm4 />,
+    },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
     },
   ];
 

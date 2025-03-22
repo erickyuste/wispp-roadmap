@@ -8,6 +8,7 @@ import G1VisualArtsCanopyTerm4 from "../../subjects/visual arts/g1/G1VisualArtsC
 import G1MusicCanopyTerm4 from "../../subjects/music/g1/G1MusicCanopyTerm4";
 import G1HealthCanopyTerm4 from "../../subjects/healthEducation/g1/G1HealthCanopyTerm4";
 import G1PhysicalCanopyTerm4 from "../../subjects/physicalEducation/g1/G1PhysicalCanopyTerm4";
+import G1MandarinCanopyTerm4 from "../../subjects/mandarin/g1/G1MandarinCanopyTerm4";
 
 function CanopyTerm4() {
   const [openItem, setOpenItem] = useState(null);
@@ -65,7 +66,7 @@ function CanopyTerm4() {
     {
       id: "item10",
       label: "Language: Mandarin",
-      content: "No content yet",
+      content: <G1MandarinCanopyTerm4 />,
     },
     {
       id: "item11",

@@ -8,6 +8,7 @@ import G1VisualArtsFlowerTerm4 from "../../subjects/visual arts/g1/G1VisualArtsF
 import G1MusicFlowerTerm4 from "../../subjects/music/g1/G1MusicFlowerTerm4";
 import G1HealthFlowerTerm4 from "../../subjects/healthEducation/g1/G1HealthFlowerTerm4";
 import G1PhysicalFlowerTerm4 from "../../subjects/physicalEducation/g1/G1PhysicalFlowerTerm4";
+import G1MandarinFlowerTerm4 from "../../subjects/mandarin/g1/G1MandarinFlowerTerm4";
 
 function FlowerTerm4() {
   const [openItem, setOpenItem] = useState(null);
@@ -65,7 +66,7 @@ function FlowerTerm4() {
     {
       id: "item10",
       label: "Language: Mandarin",
-      content: "No content yet",
+      content: <G1MandarinFlowerTerm4 />,
     },
     {
       id: "item11",

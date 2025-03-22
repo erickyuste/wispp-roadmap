@@ -8,6 +8,7 @@ import G2VisualArtsStalkTerm4 from "../../subjects/visual arts/g2/G2VisualArtsSt
 import G2MusicStalkTerm4 from "../../subjects/music/g2/G2MusicStalkTerm4";
 import G2HealthStalkTerm4 from "../../subjects/healthEducation/g2/G2HealthStalkTerm4";
 import G2PhysicalStalkTerm4 from "../../subjects/physicalEducation/g2/G2PhysicalStalkTerm4";
+import G2MandarinStalkTerm4 from "../../subjects/mandarin/g2/G2MandarinStalkTerm4";
 
 function StalkTerm4() {
   const [openItem, setOpenItem] = useState(null);
@@ -61,6 +62,16 @@ function StalkTerm4() {
       id: "item9",
       label: "Physical Education",
       content: <G2PhysicalStalkTerm4 />,
+    },
+    {
+      id: "item10",
+      label: "Language: Mandarin",
+      content: <G2MandarinStalkTerm4 />,
+    },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
     },
   ];
 
