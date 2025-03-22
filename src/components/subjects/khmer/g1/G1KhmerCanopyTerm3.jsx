@@ -1,6 +1,6 @@
 import React from "react";
 
-function G1KhmerCanopyTerm3() {
+function G1MandarinCanopyTerm3() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
@@ -24,4 +24,4 @@ function G1KhmerCanopyTerm3() {
   );
 }
 
-export default G1KhmerCanopyTerm3;
+export default G1MandarinCanopyTerm3;
