@@ -68,6 +68,11 @@ function W6Term1() {
       label: "Language: Mandarin",
       content: <G6MandarinW6Term1 />,
     },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "Khmer",
+    },
   ];
 
   return (

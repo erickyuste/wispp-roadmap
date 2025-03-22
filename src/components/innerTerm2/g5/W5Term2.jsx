@@ -68,6 +68,11 @@ function W5Term2() {
       label: "Language: Mandarin",
       content: <G5MandarinW5Term2 />,
     },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
+    },
   ];
 
   return (

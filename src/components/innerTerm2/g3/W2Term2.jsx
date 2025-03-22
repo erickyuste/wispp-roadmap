@@ -68,6 +68,11 @@ function W2Term2() {
       label: "Language: Mandarin",
       content: <G3MandarinW2Term2 />,
     },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
+    },
   ];
 
   return (

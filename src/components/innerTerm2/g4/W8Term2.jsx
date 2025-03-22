@@ -62,6 +62,11 @@ function W8Term2() {
       label: "Language: Mandarin",
       content: <G4MandarinW8Term2 />,
     },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
+    },
   ];
 
   return (

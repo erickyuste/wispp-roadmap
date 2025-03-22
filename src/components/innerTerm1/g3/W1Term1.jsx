@@ -68,6 +68,11 @@ function W1Term1() {
       label: "Language: Mandarin",
       content: <G3MandarinW1Term1 />,
     },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "Khmer",
+    },
   ];
 
   return (
