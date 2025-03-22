@@ -12,6 +12,7 @@ function G1HASSFlowerTerm3() {
           will be only exposed to changes that happen within a day and those
           that can be seen over a larger period of time.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

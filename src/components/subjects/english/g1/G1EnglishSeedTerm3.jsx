@@ -25,6 +25,7 @@ function G1EnglishSeedTerm3() {
           • Take opportunities to remind children of the possible audiences
           persuasive texts may be created for, by providing examples.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

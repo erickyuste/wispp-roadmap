@@ -16,6 +16,7 @@ function G1HASSSeedTerm2() {
           • Children explore the activities that take place in various locations
           of the local school area.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

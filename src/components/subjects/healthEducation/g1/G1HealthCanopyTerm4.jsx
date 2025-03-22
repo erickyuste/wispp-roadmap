@@ -13,6 +13,7 @@ function G1HealthCanopyTerm4() {
           necessary, depending on the discussions in Flower. It’s important that
           children understand what it means to make others feel appreciated.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

@@ -21,6 +21,7 @@ function G1HealthStalkTerm3() {
           unfamiliar words to remember their trusted adults/safe places in an
           emergency situation.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

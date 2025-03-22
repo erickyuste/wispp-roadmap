@@ -27,6 +27,7 @@ function G1EnglishStalkTerm3() {
           sharing reasons why not going to the zoo is a good idea in this
           instance.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

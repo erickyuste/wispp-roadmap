@@ -62,6 +62,16 @@ function CanopyTerm2() {
       label: "Physical Education",
       content: <G1PhysicalCanopyTerm2 />,
     },
+    {
+      id: "item10",
+      label: "Language: Mandarin",
+      content: "No content yet",
+    },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
+    },
   ];
 
   return (

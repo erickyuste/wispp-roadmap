@@ -41,6 +41,7 @@ function G1TechnologyStalkTerm3() {
           this way, for different purposes, e.g. to guide the construction of a
           product, to guide a computer or robot.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

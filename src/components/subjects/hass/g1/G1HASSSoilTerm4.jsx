@@ -17,6 +17,7 @@ function G1HASSSoilTerm4() {
           past, e.g. a feather for a pen, glass bottle filled with milk,
           clothing items from the past, matches, a candle, knitting needles.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

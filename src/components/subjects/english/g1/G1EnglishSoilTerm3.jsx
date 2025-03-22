@@ -38,6 +38,7 @@ function G1EnglishSoilTerm3() {
           rescue programmes and a home to animals who may have been abandoned,
           hurt or displaced.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

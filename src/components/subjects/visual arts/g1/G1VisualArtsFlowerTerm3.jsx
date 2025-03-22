@@ -14,6 +14,7 @@ function G1VisualArtsFlowerTerm3() {
           • Prepare a wide range of colourful cards, fabric off cuts, crayons,
           natural items and other resources children can use to explore colour.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

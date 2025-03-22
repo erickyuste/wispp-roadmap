@@ -22,6 +22,7 @@ function G1EnglishSeedTerm1() {
           • Have large strips of paper prepared to write sentences on when
           deconstructing the story.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

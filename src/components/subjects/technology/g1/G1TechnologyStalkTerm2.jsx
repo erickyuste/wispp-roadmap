@@ -18,6 +18,7 @@ function G1TechnologyStalkTerm2() {
           • To further the discussion about software, choose a few examples to
           show how useful or helpful they can be.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

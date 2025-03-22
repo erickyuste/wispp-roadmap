@@ -14,6 +14,7 @@ function G1HealthSoilTerm4() {
           use their knowledge of the children’s contexts to judge ways in which
           these learning experiences may need to be adapted.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

@@ -30,6 +30,7 @@ function G1ScienceFlowerTerm1() {
           storing are unique to their culture. They are sure to maintain
           environmental balance and would not over use any natural resources.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

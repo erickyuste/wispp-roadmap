@@ -20,6 +20,7 @@ function G1HASSSeedTerm3() {
           • Call attention to the poles’ location on the globe and maps
           demonstrating to children how far Australia is from those locations.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

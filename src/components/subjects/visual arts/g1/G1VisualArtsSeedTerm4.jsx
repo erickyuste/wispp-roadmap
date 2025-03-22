@@ -19,6 +19,7 @@ function G1VisualArtsSeedTerm4() {
           • Model and demonstrate how to make a simple character puppet based on
           a well know fairy tale, such as Little Red Riding Hood.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

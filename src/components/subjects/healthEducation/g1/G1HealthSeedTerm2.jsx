@@ -20,6 +20,7 @@ function G1HealthSeedTerm2() {
           • If suitable, ask families to contribute with the ingredients for the
           smoothie. Be aware of common allergens, e.g. kiwi fruit.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

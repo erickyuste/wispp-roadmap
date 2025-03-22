@@ -27,6 +27,7 @@ function G1ScienceSeedTerm2() {
           • Leave habitat creations on display for further learning and
           exploration during play.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

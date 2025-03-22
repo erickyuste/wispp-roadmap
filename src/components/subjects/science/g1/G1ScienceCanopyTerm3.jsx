@@ -19,6 +19,7 @@ function G1ScienceCanopyTerm3() {
           Science to understand changes in the landscape which may be caused by
           observable changes in the sky.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

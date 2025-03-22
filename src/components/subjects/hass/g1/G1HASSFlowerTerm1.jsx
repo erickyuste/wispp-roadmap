@@ -25,6 +25,7 @@ function G1HASSFlowerTerm1() {
           • These learning experiences can be conducted in a room that has
           access to an oven and cooking resources.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

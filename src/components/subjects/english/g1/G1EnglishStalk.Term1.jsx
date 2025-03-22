@@ -28,6 +28,7 @@ function G1EnglishStalkTerm1() {
           a different unit of work, that book will work well for these learning
           opportunities as the children have prior knowledge of the story.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

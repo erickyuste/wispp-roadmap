@@ -19,6 +19,7 @@ function G1PhysicalCanopyTerm3() {
           • to identify strategies in game play activities that will keep the
           game safe.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

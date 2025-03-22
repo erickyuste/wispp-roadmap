@@ -11,6 +11,7 @@ function G1PhysicalSeedTerm3() {
           • to use the locomotor skills of running and skipping in a warm up
           activity.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

@@ -15,6 +15,7 @@ function G1PhysicalSoilTerm3() {
           • to identify what is happening to their heart rate when they
           exercise.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

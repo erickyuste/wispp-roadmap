@@ -8,6 +8,7 @@ function G1VisualArtsSeedTerm2() {
           • This learning experience focuses on the exploration of using line to
           create a piece of detailed artwork.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
