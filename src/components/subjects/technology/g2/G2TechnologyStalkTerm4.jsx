@@ -24,6 +24,7 @@ function G2TechnologyStalkTerm4() {
           easily accessible to all schools; however, if children might feel
           uncomfortable with that, teachers are encouraged to change it.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

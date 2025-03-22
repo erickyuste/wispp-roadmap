@@ -15,6 +15,7 @@ function G2HealthCanopyTerm3() {
           the focus should be placed on maintaining a balanced diet, e.g. ice
           cream is not a bad food, it’s a sometimes food.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

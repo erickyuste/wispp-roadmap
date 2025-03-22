@@ -11,6 +11,7 @@ function G2KhmerCanopyTerm3() {
           និងយល់ពីគុណនៃម្តាយឪពុក • យល់អត្ថន័យពាក្យនីមួយៗ នៃអត្ថបទ • អាចអាន
           និងសរសេរបាន ត្រឹមត្រូវ • យល់អត្ថន័យពាក្យនីមួយៗ នៃអត្ថបទ
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

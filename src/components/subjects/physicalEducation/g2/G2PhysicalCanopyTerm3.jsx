@@ -8,6 +8,7 @@ function G2PhysicalCanopyTerm3() {
           • We are learning to participate in traditional Chinese games that
           involve using a kick to pass a piece of equipment called a jianzi.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

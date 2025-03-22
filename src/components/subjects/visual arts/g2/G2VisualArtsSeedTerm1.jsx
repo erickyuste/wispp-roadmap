@@ -26,6 +26,7 @@ function G2VisualArtsSeedTerm1() {
           • Reflect on Van Gogh’s artwork by prompting children to consider why
           the artist painted and who his paintings might appeal to?
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

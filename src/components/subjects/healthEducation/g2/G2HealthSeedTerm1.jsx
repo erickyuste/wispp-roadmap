@@ -19,6 +19,7 @@ function G2HealthSeedTerm1() {
           • When discussing emergencies, the focus should be on how to get help/
           solve the problem.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

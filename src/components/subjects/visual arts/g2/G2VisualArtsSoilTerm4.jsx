@@ -19,6 +19,7 @@ function G2VisualArtsSoilTerm4() {
           site to construct, follow their interests. These opportunities are
           designed to be flexible and suit the needs of your specific context.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

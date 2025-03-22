@@ -19,6 +19,7 @@ function G2EnglishCanopyTerm3() {
           • Scaffold children’s use of their chosen publishing software, e.g.
           how to create a Book Creator story or new word processing document.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

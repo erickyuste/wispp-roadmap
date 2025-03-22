@@ -61,6 +61,11 @@ function W3Term4() {
       label: "Language: Mandarin",
       content: <G4MandarinW3Term4 />,
     },
+    {
+      id: "item11",
+      label: "Khmer",
+      content: "No content yet",
+    },
   ];
 
   return (

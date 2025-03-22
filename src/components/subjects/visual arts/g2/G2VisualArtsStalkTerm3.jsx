@@ -13,6 +13,7 @@ function G2VisualArtsStalkTerm3() {
           • Responding to artwork. Children will interview each other responding
           to their own artwork using appropriate visual arts vocabulary.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

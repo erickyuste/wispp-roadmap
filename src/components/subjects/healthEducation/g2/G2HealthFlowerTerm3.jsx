@@ -8,6 +8,7 @@ function G2HealthFlowerTerm3() {
           • Remind children to react with kindness and empathy while others
           share ways in which they have felt in different situations.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

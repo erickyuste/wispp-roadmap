@@ -10,6 +10,7 @@ function G2MusicSeedTerm3() {
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white">
           • Integrated Music Activity
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

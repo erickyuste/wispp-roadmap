@@ -28,6 +28,7 @@ function G2HASSSoilTerm2() {
           will be coming home with the children and the results collected by the
           children, will need to be returned to school before Seed.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

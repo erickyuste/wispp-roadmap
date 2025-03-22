@@ -21,6 +21,7 @@ function G2EnglishSoilTerm1() {
           • Teacher models and explains how vocabulary is used to appreciate
           texts and support children to extend on their own and others’ ideas.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

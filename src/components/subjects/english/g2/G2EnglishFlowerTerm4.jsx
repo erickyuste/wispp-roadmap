@@ -21,6 +21,7 @@ function G2EnglishFlowerTerm4() {
           add some more information to your reason to help persuade your reader
           to agree.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

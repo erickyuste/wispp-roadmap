@@ -11,6 +11,13 @@ function G3MandarinW6Term4() {
           • Students exchange information about birthday celebrations.
         </p>
         <br></br>
+        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
+          • 目标：Lesson10 好老师-3 P118-122 1
+          知道什么是部首，会找出汉字中的部首。 2 练习119页的对话 3
+          学会写常用的汉字 4 完成Testbook中120-122页练习的内容。 课堂活动：
+          每人到黑板前练习写汉字
+        </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

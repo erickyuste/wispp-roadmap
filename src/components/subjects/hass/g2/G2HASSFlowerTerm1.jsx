@@ -35,6 +35,7 @@ function G2HASSFlowerTerm1() {
           • Locate information from a variety of provided sources, e.g. books,
           television, people, images, plans, internet.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

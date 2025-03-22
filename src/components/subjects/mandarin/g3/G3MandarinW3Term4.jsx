@@ -12,6 +12,13 @@ function G3MandarinW3Term4() {
           with their family and friends.
         </p>
         <br></br>
+        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
+          • 目标：Lesson9 打电话-3 P107-108 练习关于打电话的常用对话 1
+          你找谁/你找哪一位 2 某某在家吗？ 3 询问家里电话号码是多少？ 4
+          完成workbook中Lesson9的所有练习。 课堂活动：
+          两个人一组到白板前练习关于打电话的常用对话。
+        </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

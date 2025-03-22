@@ -12,6 +12,7 @@ function G2PhysicalStalkTerm4() {
           • We are learning to make positive choices by taking turns and playing
           to rule in a simple game.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

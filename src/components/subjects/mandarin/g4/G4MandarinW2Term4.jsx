@@ -11,6 +11,12 @@ function G4MandarinW2Term4() {
           • Students describe their school bag and its contents.
         </p>
         <br></br>
+        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
+          • 目标：Lesson9 打电话-2 P104-106 Language Foucus 1 谁 2 找 3
+          等一等/等一下/等 4 哪/那 课堂活动：
+          使用关于打电话的常用词汇造句。传球活动，球落在谁手里，谁就需要回答老师提出的问题。
+        </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

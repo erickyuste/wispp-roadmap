@@ -15,6 +15,7 @@ function G2TechnologyFlowerTerm3() {
           • The focus of this learning experience is to discuss some elements of
           programming, such as variables and constants.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

@@ -25,6 +25,7 @@ function G2ScienceFlowerTerm2() {
           how to care for animals of different types, e.g. pets, farm, wild,
           ocean.
         </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">

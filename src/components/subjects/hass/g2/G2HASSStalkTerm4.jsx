@@ -18,6 +18,7 @@ function G2HASSStalkTerm4() {
           curriculum to provide expanded time and intentional teaching of
           language features when writing reports.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

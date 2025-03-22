@@ -17,6 +17,7 @@ function G2TechnologyFlowerTerm1() {
           Design and Technologies. This may need to be adapted to suit the
           context and interests of the children.
         </p>
+        <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a

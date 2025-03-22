@@ -13,6 +13,11 @@ function G6MandarinW7Term4() {
           have planned.
         </p>
         <br></br>
+        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
+          • 目标：复习本书中的关键中文词汇达到掌握 P123-124126 课堂活动：
+          老师随机说出英文意思，让学生说出中文名称。或者老师随机说出中文名称，让学生解释英文意思
+        </p>
+        <br></br>
 
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
