@@ -60,7 +60,7 @@ function Term1() {
             }`}
           >
             <label
-              className="flex items-center p-[.65rem] font-medium cursor-pointer before:content-['🏳️'] before:mr-[10px] text-xs sm:text-sm md:text-md lg:text-lg before:font-semibold "
+              className="flex items-center p-[.65rem] font-medium cursor-pointer before:content-['📍'] before:mr-[10px] text-xs sm:text-sm md:text-md lg:text-lg before:font-semibold "
               onClick={() => handleItemClick(item.id)}
             >
               {item.label}
