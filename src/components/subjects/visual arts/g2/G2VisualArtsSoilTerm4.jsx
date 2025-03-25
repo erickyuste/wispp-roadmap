@@ -61,13 +61,13 @@ function G2VisualArtsSoilTerm4() {
               Create LP
             </a>
           </button>
-          <button className="w-[8em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
+          <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
               href="https://docs.google.com/document/d/1S-wZtQVMe2kJJB2rjZx2h-p-_arDTE_kfGfGYQvBPuM/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Liz's file
+              Liz's files
             </a>
           </button>
         </div>
