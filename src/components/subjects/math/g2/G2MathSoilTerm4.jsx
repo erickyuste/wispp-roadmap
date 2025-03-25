@@ -55,7 +55,7 @@ function G2MathSoilTerm4() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Lesson Plans
+              Liz's file
             </a>
           </button>
         </div>
