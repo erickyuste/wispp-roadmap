@@ -85,7 +85,7 @@ function CanopyTerm1() {
             }`}
           >
             <label
-              className="flex items-center p-[.65rem] font-bold cursor-pointer before:content-['+'] before:mr-[10px] text-xs sm:text-sm md:text-md lg:text-lg"
+              className="flex items-center p-[.65rem] font-bold cursor-pointer before:content-['🚩'] before:mr-[10px] text-xs sm:text-sm md:text-md lg:text-lg"
               onClick={() => handleItemClick(item.id)}
             >
               {item.label}

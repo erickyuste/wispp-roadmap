@@ -38,7 +38,7 @@ function W4Term4() {
             }`}
           >
             <label
-              className="flex items-center p-[.65rem] cursor-pointer before:content-['+'] before:mr-[10px] text-xs sm:text-sm md:text-md lg:text-lg font-bold "
+              className="flex items-center p-[.65rem] cursor-pointer before:content-['🚩'] before:mr-[10px] text-xs sm:text-sm md:text-md lg:text-lg font-bold "
               onClick={() => handleItemClick(item.id)}
             >
               {item.label}
