@@ -98,6 +98,8 @@ Westbridge International School of Phnom Penh is Sin Sivoeun.
 
 Westbridge International School of Phnom Penh Executive Director is Thareth Hean.
 
+Westbridge International School of Phnom Penh Program Director is Loen Andre Soriano.
+
 Stay connected with us through our vibrant social media community. Follow us for updates, brewing tips, and special promotions on:
 Facebook: https://web.facebook.com/WestbridgeEdu/?_rdc=1&_rdr#
 Instagram: https://www.instagram.com/westbridgeedu/
