@@ -61,6 +61,15 @@ function G2EnglishSeedTerm4() {
               Create LP
             </a>
           </button>
+          <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
+            <a
+              href="https://docs.google.com/document/d/1p48_rZEGAEk4KNWvbwLHFMvnD7enL8OAGeN1R3-83hg/edit?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              TFiles
+            </a>
+          </button>
         </div>
       </div>
     </div>

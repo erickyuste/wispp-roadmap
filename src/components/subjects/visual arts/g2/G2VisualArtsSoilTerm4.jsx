@@ -67,7 +67,7 @@ function G2VisualArtsSoilTerm4() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Liz's files
+              TFiles
             </a>
           </button>
         </div>
