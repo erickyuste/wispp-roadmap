@@ -16,27 +16,27 @@ function Term4() {
   const items = [
     {
       id: "item1",
-      label: "Soil W1-2 (Apr 7-25)",
+      label: "Soil W1-2 (Mar 31 - Apr 11)",
       content: <SoilTerm4 />,
     },
     {
       id: "item2",
-      label: "Seed W3-4 (Apr 28-May 9)",
+      label: "Seed W3-4 (April 21 - May 2)",
       content: <SeedTerm4 />,
     },
     {
       id: "item3",
-      label: "Stalk W5 (May 19-23)",
+      label: "Stalk W5-6 (May 5 - 16)",
       content: <StalkTerm4 />,
     },
     {
       id: "item4",
-      label: "Flower W6 (Jun 2-6)",
+      label: "Flower W7-8 (May 19 -30)",
       content: <FlowerTerm4 />,
     },
     {
       id: "item5",
-      label: "Canopy W7 (Jun 9-13)",
+      label: "Canopy W9-10 (Jun 2 -13)",
       content: <CanopyTerm4 />,
     },
   ];
@@ -46,8 +46,13 @@ function Term4() {
       <div className="w-[95vw] flex justify-evenly items-center">
         <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
-          <h1 className="title py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center">
-            TERM 4
+          <h1 className="title py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
+            <a
+              href="https://docs.google.com/spreadsheets/d/1Il9Ku6qDS5etKDmB5PTPbcHBFxTWLG35TmhIqQCmNMQ/edit?usp=sharing"
+              target="_blank"
+            >
+              TERM 4
+            </a>
           </h1>
         </li>
         <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
