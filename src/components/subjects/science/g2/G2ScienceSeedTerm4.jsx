@@ -53,6 +53,15 @@ function G2ScienceSeedTerm4() {
               Create LP
             </a>
           </button>
+          <button className="w-[5em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
+            <a
+              href="https://docs.google.com/document/d/1jxsAVwYOy7AA4VcslUglUQdqBuNCPxMv9zMukBkX2Do/edit?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              TFiles
+            </a>
+          </button>
         </div>
       </div>
     </div>

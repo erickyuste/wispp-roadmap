@@ -55,6 +55,15 @@ function G2HealthSeedTerm4() {
               Create LP
             </a>
           </button>
+          <button className="w-[5em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
+            <a
+              href="https://docs.google.com/document/d/126vlTc11-Mkhwov_38NEnj_VhfX6_fEMYJJJsO_BEjU/edit?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              TFiles
+            </a>
+          </button>
         </div>
       </div>
     </div>
