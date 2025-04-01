@@ -5,6 +5,7 @@ import StalkTerm4 from "../innerTerm4/g1/StalkTerm4";
 import FlowerTerm4 from "../innerTerm4/g1/FlowerTerm4";
 import CanopyTerm4 from "../innerTerm4/g1/CanopyTerm4";
 import dotted from "../../assets/dotted.png";
+import click from "../../assets/click.png";
 
 function Term4() {
   const [openItem, setOpenItem] = useState(null);
@@ -46,8 +47,14 @@ function Term4() {
       <div className="w-[95vw] flex justify-evenly items-center">
         <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
-          <h1 className="title py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center">
-            TERM 4
+          <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
+            <a
+              href="https://docs.google.com/spreadsheets/d/1mpPhkIg6NGc6-U3cicj46tmVl_IjKC9sAhmaKwiWT8c/edit?usp=sharing"
+              target="_blank"
+            >
+              TERM 4
+            </a>
+            <img src={click} className="w-[2rem] filter invert" />
           </h1>
         </li>
         <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
