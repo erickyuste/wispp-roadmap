@@ -49,7 +49,7 @@ function Term4() {
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
             <a
-              href="https://docs.google.com/spreadsheets/d/1Il9Ku6qDS5etKDmB5PTPbcHBFxTWLG35TmhIqQCmNMQ/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/1Jx_OqHFb4w6hBvlJUCVRgwpk-plfID7YJGXRbgDe56A/edit?usp=sharing"
               target="_blank"
             >
               TERM 4
