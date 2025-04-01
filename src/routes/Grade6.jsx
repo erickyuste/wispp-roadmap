@@ -12,7 +12,7 @@ import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
 import Navbar from "../components/Navbar";
 import Chatbot from "../components/Chatbot";
-import Chatbot2 from "../components/Chatbot2";
+import Mojo6 from "../components/Mojo6";
 
 function Grade6() {
   const [isLoading, setIsLoading] = useState(true);
@@ -44,7 +44,7 @@ function Grade6() {
         <OnlineResources2 />
         <OnlineResources3 />
         <Footer />
-        <Chatbot2 />
+        <Mojo6 />
         <Chatbot />
       </div>
     </>

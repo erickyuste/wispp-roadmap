@@ -12,7 +12,6 @@ import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
 import Navbar from "../components/Navbar";
 import Chatbot from "../components/Chatbot";
-import Chatbot2 from "../components/Chatbot2";
 
 function Kinder() {
   const [isLoading, setIsLoading] = useState(true);
@@ -44,7 +43,6 @@ function Kinder() {
         <OnlineResources2 />
         <OnlineResources3 />
         <Footer />
-        <Chatbot2 />
         <Chatbot />
       </div>
     </>

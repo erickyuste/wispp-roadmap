@@ -3,7 +3,6 @@ import { Link, useLocation } from "react-router-dom";
 import MainLoader from "../components/loaders/MainLoader";
 import videoBg from "../assets/video-bg.mp4";
 import Chatbot from "../components/Chatbot";
-import Chatbot2 from "../components/Chatbot2";
 import HomapageNavbar from "../components/HomapageNavbar";
 
 function Home() {
@@ -103,7 +102,6 @@ function Home() {
             ></spline-viewer>
           </main>
         </div>
-        <Chatbot2 />
         <Chatbot />
       </div>
     </>
