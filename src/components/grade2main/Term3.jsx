@@ -5,6 +5,7 @@ import StalkTerm3 from "../innerTerm3/g2/StalkTerm3";
 import FlowerTerm3 from "../innerTerm3/g2/FlowerTerm3";
 import CanopyTerm3 from "../innerTerm3/g2/CanopyTerm3";
 import dotted from "../../assets/dotted.png";
+import click from "../../assets/click.png";
 
 function Term3() {
   const [openItem, setOpenItem] = useState(null);

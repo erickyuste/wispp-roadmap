@@ -5,6 +5,7 @@ import StalkTerm2 from "../innerTerm2/g2/StalkTerm2";
 import FlowerTerm2 from "../innerTerm2/g2/FlowerTerm2";
 import CanopyTerm2 from "../innerTerm2/g2/CanopyTerm2";
 import dotted from "../../assets/dotted.png";
+import click from "../../assets/click.png";
 
 function Term2() {
   const [openItem, setOpenItem] = useState(null);
