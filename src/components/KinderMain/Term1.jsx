@@ -20,47 +20,47 @@ function Term1() {
   const items = [
     {
       id: "item1",
-      label: "W1 (August 12-16) - Learning Outcome 1: Identity",
+      label: "W1 - Learning Outcome 1: Identity",
       content: <W1Term1 />,
     },
     {
       id: "item2",
-      label: "W2 (Aug 19 - 23)",
+      label: "W2",
       content: <W2Term1 />,
     },
     {
       id: "item3",
-      label: "W3 (Aug 26-30)",
+      label: "W3",
       content: <W3Term1 />,
     },
     {
       id: "item4",
-      label: "W4 (Sept 2-6)",
+      label: "W4",
       content: <W4Term1 />,
     },
     {
       id: "item5",
-      label: "W5 (Sept 9-13)",
+      label: "W5",
       content: <W5Term1 />,
     },
     {
       id: "item6",
-      label: "W6 (Sept 16-20)",
+      label: "W6",
       content: <W6Term1 />,
     },
     {
       id: "item7",
-      label: "W7 (Sept 23-27)",
+      label: "W7",
       content: <W7Term1 />,
     },
     {
       id: "item8",
-      label: "W8 (Oct 7 -11)",
+      label: "W8",
       content: <W8Term1 />,
     },
     {
       id: "item9",
-      label: "W9 (Oct 14-18)",
+      label: "W9",
       content: <W9Term1 />,
     },
   ];

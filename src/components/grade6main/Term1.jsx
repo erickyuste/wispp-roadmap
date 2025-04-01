@@ -8,6 +8,7 @@ import W5Term1 from "../innerTerm1/g6/W5Term1";
 import W6Term1 from "../innerTerm1/g6/W6Term1";
 import W7Term1 from "../innerTerm1/g6/W7Term1";
 import W8Term1 from "../innerTerm1/g6/W8Term1";
+import click from "../../assets/click.png";
 
 function Term1() {
   const [openItem, setOpenItem] = useState(null);
@@ -64,8 +65,14 @@ function Term1() {
       <div className="w-[95vw] flex justify-evenly items-center">
         <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
-          <h1 className="title py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center">
-            TERM 1
+          <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
+            <a
+              href="https://docs.google.com/spreadsheets/d/1l7TxkXZyaCkUz_epPG5OXrY4l71xo3OFQIrKhhixsAQ/edit?usp=sharing"
+              target="_blank"
+            >
+              TERM 1
+            </a>
+            <img src={click} className="w-[2rem] filter invert" />
           </h1>
         </li>
         <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>

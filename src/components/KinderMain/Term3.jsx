@@ -21,52 +21,52 @@ function Term3() {
   const items = [
     {
       id: "item1",
-      label: "W1 (Jan 13-17)",
+      label: "W1",
       content: <W1Term3 />,
     },
     {
       id: "item2",
-      label: "W2 (Jan 20-24) - Learning Outcome 4: Learning and Thinking",
+      label: "W2 - Learning Outcome 4: Learning and Thinking",
       content: <W2Term3 />,
     },
     {
       id: "item3",
-      label: "W3 (Jan 27-31)",
+      label: "W3",
       content: <W3Term3 />,
     },
     {
       id: "item4",
-      label: "W4 (Feb 3-7)",
+      label: "W4",
       content: <W4Term3 />,
     },
     {
       id: "item5",
-      label: "W5 (Feb 10-14)",
+      label: "W5",
       content: <W5Term3 />,
     },
     {
       id: "item6",
-      label: "W6 (Feb 17-21)",
+      label: "W6",
       content: <W6Term3 />,
     },
     {
       id: "item7",
-      label: "W7 (Feb 24-28)",
+      label: "W7",
       content: <W7Term3 />,
     },
     {
       id: "item8",
-      label: "W8 (Mar 3-7)",
+      label: "W8",
       content: <W8Term3 />,
     },
     {
       id: "item9",
-      label: "W8 (Mar 10-14)",
+      label: "W8)",
       content: <W9Term3 />,
     },
     {
       id: "item10",
-      label: "W10 (Mar 17-21)",
+      label: "W10",
       content: <W10Term3 />,
     },
   ];
