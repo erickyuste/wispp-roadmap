@@ -19,42 +19,42 @@ function Term2() {
   const items = [
     {
       id: "item1",
-      label: "W1 (Oct 28-Nov 1)",
+      label: "W1",
       content: <W1Term2 />,
     },
     {
       id: "item2",
-      label: "W2 (Nov 4-8)",
+      label: "W2",
       content: <W2Term2 />,
     },
     {
       id: "item3",
-      label: "W3 (Nov 11-15)",
+      label: "W3",
       content: <W3Term2 />,
     },
     {
       id: "item4",
-      label: "W4 (Nov 18-22)",
+      label: "W4",
       content: <W4Term2 />,
     },
     {
       id: "item5",
-      label: "W5 (Nov 25-29)",
+      label: "W5",
       content: <W5Term2 />,
     },
     {
       id: "item6",
-      label: "W6 (Dec 2-6)",
+      label: "W6",
       content: <W6Term2 />,
     },
     {
       id: "item7",
-      label: "W7 (Dec 9-13)",
+      label: "W7",
       content: <W7Term2 />,
     },
     {
       id: "item8",
-      label: "W8 Dec 14-20)",
+      label: "W8",
       content: <W8Term2 />,
     },
   ];
