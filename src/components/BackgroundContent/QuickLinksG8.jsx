@@ -1,6 +1,6 @@
 import React from "react";
 
-function QuickLinksG7() {
+function QuickLinksG8() {
   return (
     <div>
       <div className="quicklinks-slide h-full w-full flex flex-wrap justify-evenly">
@@ -72,4 +72,4 @@ function QuickLinksG7() {
   );
 }
 
-export default QuickLinksG7;
+export default QuickLinksG8;

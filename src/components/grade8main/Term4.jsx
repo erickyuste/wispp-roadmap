@@ -1,16 +1,16 @@
 import React, { useState } from "react";
 import dotted from "../../assets/dotted.png";
-import W1Term2 from "../innerTerm2/g7/W1Term2";
-import W2Term2 from "../innerTerm2/g7/W2Term2";
-import W3Term2 from "../innerTerm2/g7/W3Term2";
-import W4Term2 from "../innerTerm2/g7/W4Term2";
-import W5Term2 from "../innerTerm2/g7/W5Term2";
-import W6Term2 from "../innerTerm2/g7/W6Term2";
-import W7Term2 from "../innerTerm2/g7/W7Term2";
-import W8Term2 from "../innerTerm2/g7/W8Term2";
+import W1Term4 from "../innerTerm4/g8/W1Term4";
+import W2Term4 from "../innerTerm4/g8/W2Term4";
+import W3Term4 from "../innerTerm4/g8/W3Term4";
+import W4Term4 from "../innerTerm4/g8/W4Term4";
+import W5Term4 from "../innerTerm4/g8/W5Term4";
+import W6Term4 from "../innerTerm4/g8/W6Term4";
+import W7Term4 from "../innerTerm4/g8/W7Term4";
+import W8Term4 from "../innerTerm4/g8/W8Term4";
 import click from "../../assets/click.png";
 
-function Term2() {
+function Term4() {
   const [openItem, setOpenItem] = useState(null);
 
   const handleItemClick = (itemId) => {
@@ -20,43 +20,43 @@ function Term2() {
   const items = [
     {
       id: "item1",
-      label: "W1",
-      content: <W1Term2 />,
+      label: "W1 (Mar 31-Apr 4)",
+      content: <W1Term4 />,
     },
     {
       id: "item2",
-      label: "W2",
-      content: <W2Term2 />,
+      label: "W2 (Apr 7-11)",
+      content: <W2Term4 />,
     },
     {
       id: "item3",
-      label: "W3",
-      content: <W3Term2 />,
+      label: "W3 (Apr 14-18)",
+      content: <W3Term4 />,
     },
     {
       id: "item4",
-      label: "W4",
-      content: <W4Term2 />,
+      label: "W4 (Apr  21-25)",
+      content: <W4Term4 />,
     },
     {
       id: "item5",
-      label: "W5",
-      content: <W5Term2 />,
+      label: "W5 (Apr 28-May 2)",
+      content: <W5Term4 />,
     },
     {
       id: "item6",
-      label: "W6",
-      content: <W6Term2 />,
+      label: "W6 (May 5-9)",
+      content: <W6Term4 />,
     },
     {
       id: "item7",
-      label: "W7",
-      content: <W7Term2 />,
+      label: "W7 (May 12-16)",
+      content: <W7Term4 />,
     },
     {
       id: "item8",
-      label: "W8",
-      content: <W8Term2 />,
+      label: "W8-W10 (May 19-Jun 13)",
+      content: <W8Term4 />,
     },
   ];
 
@@ -67,10 +67,10 @@ function Term2() {
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
             <a
-              href="https://docs.google.com/spreadsheets/d/1pwjK0dI70CDrCaNIqVDO9RL7Q8pu9uK-T0x8XNOplGQ/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/18-1sN3g8pe9dncV66bmEc2y2Rir1Uf5eWNwLS5HE_wU/edit?usp=sharing"
               target="_blank"
             >
-              TERM 2
+              TERM 4
             </a>
             <img src={click} className="w-[2rem] filter invert" />
           </h1>
@@ -99,7 +99,7 @@ function Term2() {
             <div
               className={`content text-white px-[5px] leading-[26px] content max-h-0 overflow-hidden transition-all duration-500 ${
                 openItem === item.id
-                  ? "max-h-screen py-[10px] px-[10px] pb-[20px]"
+                  ? "max-h-[135vh] py-[10px] px-[10px] pb-[20px]"
                   : ""
               }`}
             >
@@ -113,8 +113,17 @@ function Term2() {
         className="w-[1.5rem] md:w-[30px] mx-auto filter invert"
         alt="Dotted Line"
       />
+      <div className="w-[95vw] flex justify-evenly items-center">
+        <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
+        <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
+          <h1 className="title py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center">
+            End of Academic Year
+          </h1>
+        </li>
+        <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
+      </div>
     </div>
   );
 }
 
-export default Term2;
+export default Term4;

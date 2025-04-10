@@ -67,7 +67,7 @@ function Term1() {
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
             <a
-              href="https://docs.google.com/spreadsheets/d/1l7TxkXZyaCkUz_epPG5OXrY4l71xo3OFQIrKhhixsAQ/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/18-ozjSAA_KGnSB0KgSYaxZslXkVhAsitQTd1FOOBAB0/edit?usp=sharing"
               target="_blank"
             >
               TERM 1

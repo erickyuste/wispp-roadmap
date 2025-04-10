@@ -1,6 +1,6 @@
 import React from "react";
 
-function BackgroundContentG7() {
+function BackgroundContentG8() {
   return (
     <div>
       <p className="font-semibold md:text-[16px] sm:text-sm text-xs text-gray-300">
@@ -31,4 +31,4 @@ function BackgroundContentG7() {
   );
 }
 
-export default BackgroundContentG7;
+export default BackgroundContentG8;

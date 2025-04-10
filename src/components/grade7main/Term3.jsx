@@ -67,7 +67,7 @@ function Term3() {
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
             <a
-              href="https://docs.google.com/spreadsheets/d/1WzSdC9JUoc3D7eN6kUWneLOjOr2Dn3yEr4_hCr-kpfI/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/10Qm0WCMcxRNmpvBychEoV6L1c9U8YtZnNMM5H24tp8w/edit?usp=sharing"
               target="_blank"
             >
               TERM 3

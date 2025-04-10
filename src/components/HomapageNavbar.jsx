@@ -126,7 +126,7 @@ function HomapageNavbar() {
             </li>
             <li>
               <a
-                href="https://drive.google.com/drive/folders/1KtNm70F1X9mV1eXIi_MmANcrB46Ve-iM"
+                href="https://drive.google.com/drive/folders/12g91T_ZBaHrTSDJMdfss8l-WqRT0yr58?usp=sharing"
                 data-aos="fade-down"
                 data-a0s-duration="2000"
                 className="block py-2 px-3 font-bold text-white text-center rounded-xl hover:bg-white w-[5rem] hover:text-[#006494] transition-all duration-300 ease-in-out md:bg-transparent md:p-0 md:dark:text-blue-500 md:dark:bg-transparent drop-shadow-[0_0_10px_white]"
@@ -255,6 +255,15 @@ function HomapageNavbar() {
                       onClick={closeLevelsDropdown}
                     >
                       G7
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      to="/g8"
+                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                      onClick={closeLevelsDropdown}
+                    >
+                      G8
                     </Link>
                   </li>
                 </ul>

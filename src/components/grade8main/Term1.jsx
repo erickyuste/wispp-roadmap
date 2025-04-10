@@ -1,16 +1,16 @@
 import React, { useState } from "react";
 import dotted from "../../assets/dotted.png";
-import W1Term2 from "../innerTerm2/g7/W1Term2";
-import W2Term2 from "../innerTerm2/g7/W2Term2";
-import W3Term2 from "../innerTerm2/g7/W3Term2";
-import W4Term2 from "../innerTerm2/g7/W4Term2";
-import W5Term2 from "../innerTerm2/g7/W5Term2";
-import W6Term2 from "../innerTerm2/g7/W6Term2";
-import W7Term2 from "../innerTerm2/g7/W7Term2";
-import W8Term2 from "../innerTerm2/g7/W8Term2";
+import W1Term1 from "../innerTerm1/g8/W1Term1";
+import W2Term1 from "../innerTerm1/g8/W2Term1";
+import W3Term1 from "../innerTerm1/g8/W3Term1";
+import W4Term1 from "../innerTerm1/g8/W4Term1";
+import W5Term1 from "../innerTerm1/g8/W5Term1";
+import W6Term1 from "../innerTerm1/g8/W6Term1";
+import W7Term1 from "../innerTerm1/g8/W7Term1";
+import W8Term1 from "../innerTerm1/g8/W8Term1";
 import click from "../../assets/click.png";
 
-function Term2() {
+function Term1() {
   const [openItem, setOpenItem] = useState(null);
 
   const handleItemClick = (itemId) => {
@@ -21,42 +21,42 @@ function Term2() {
     {
       id: "item1",
       label: "W1",
-      content: <W1Term2 />,
+      content: <W1Term1 />,
     },
     {
       id: "item2",
       label: "W2",
-      content: <W2Term2 />,
+      content: <W2Term1 />,
     },
     {
       id: "item3",
       label: "W3",
-      content: <W3Term2 />,
+      content: <W3Term1 />,
     },
     {
       id: "item4",
       label: "W4",
-      content: <W4Term2 />,
+      content: <W4Term1 />,
     },
     {
       id: "item5",
       label: "W5",
-      content: <W5Term2 />,
+      content: <W5Term1 />,
     },
     {
       id: "item6",
       label: "W6",
-      content: <W6Term2 />,
+      content: <W6Term1 />,
     },
     {
       id: "item7",
       label: "W7",
-      content: <W7Term2 />,
+      content: <W7Term1 />,
     },
     {
       id: "item8",
       label: "W8",
-      content: <W8Term2 />,
+      content: <W8Term1 />,
     },
   ];
 
@@ -67,10 +67,10 @@ function Term2() {
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
             <a
-              href="https://docs.google.com/spreadsheets/d/1pwjK0dI70CDrCaNIqVDO9RL7Q8pu9uK-T0x8XNOplGQ/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/1MF8PsY7TzNbz6kInXy0MmKwCjMnkHBa7L5CAXeYOzzk/edit?usp=sharing"
               target="_blank"
             >
-              TERM 2
+              TERM 1
             </a>
             <img src={click} className="w-[2rem] filter invert" />
           </h1>
@@ -117,4 +117,4 @@ function Term2() {
   );
 }
 
-export default Term2;
+export default Term1;

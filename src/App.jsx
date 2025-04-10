@@ -12,6 +12,7 @@ import Grade4 from "./routes/Grade4";
 import Grade5 from "./routes/Grade5";
 import Grade6 from "./routes/Grade6";
 import Grade7 from "./routes/Grade7";
+import Grade8 from "./routes/Grade8";
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
           <Route path="/g5" element={<Grade5 />} />
           <Route path="/g6" element={<Grade6 />} />
           <Route path="/g7" element={<Grade7 />} />
+          <Route path="/g8" element={<Grade8 />} />
         </Routes>
       </div>
     </>

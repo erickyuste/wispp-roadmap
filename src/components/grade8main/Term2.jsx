@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 import dotted from "../../assets/dotted.png";
-import W1Term2 from "../innerTerm2/g7/W1Term2";
-import W2Term2 from "../innerTerm2/g7/W2Term2";
-import W3Term2 from "../innerTerm2/g7/W3Term2";
-import W4Term2 from "../innerTerm2/g7/W4Term2";
-import W5Term2 from "../innerTerm2/g7/W5Term2";
-import W6Term2 from "../innerTerm2/g7/W6Term2";
-import W7Term2 from "../innerTerm2/g7/W7Term2";
-import W8Term2 from "../innerTerm2/g7/W8Term2";
+import W1Term2 from "../innerTerm2/g8/W1Term2";
+import W2Term2 from "../innerTerm2/g8/W2Term2";
+import W3Term2 from "../innerTerm2/g8/W3Term2";
+import W4Term2 from "../innerTerm2/g8/W4Term2";
+import W5Term2 from "../innerTerm2/g8/W5Term2";
+import W6Term2 from "../innerTerm2/g8/W6Term2";
+import W7Term2 from "../innerTerm2/g8/W7Term2";
+import W8Term2 from "../innerTerm2/g8/W8Term2";
 import click from "../../assets/click.png";
 
 function Term2() {
@@ -67,7 +67,7 @@ function Term2() {
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
             <a
-              href="https://docs.google.com/spreadsheets/d/1pwjK0dI70CDrCaNIqVDO9RL7Q8pu9uK-T0x8XNOplGQ/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/1n3keIgtblScm9zhytStIhkYlgqnp8bQC7MNm78aZffg/edit?usp=sharing"
               target="_blank"
             >
               TERM 2
