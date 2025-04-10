@@ -13,7 +13,7 @@ function Header() {
           </h1>
           <p className="text-gray-400 text-xs sm:text-sm md:text-md lg:text-lg px-[1rem] sm:px-[1.75rem] md:px-[9rem] lg:px-0 my-2">
             This roadmap guides your successful implementation of the Western
-            Australian Curriculum in Grade 6. It offers term plans, assessment
+            Australian Curriculum in Grade 8. It offers term plans, assessment
             ideas, differentiation tips, and valuable resources to support your
             teaching journey.
           </p>

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-const G8Loader = () => {
+const G9Loader = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -34,7 +34,7 @@ const G8Loader = () => {
           className="text-[#f6e9fe] stroke-2 letter-spacing-[-6px]"
           style={{ animation: "animate-stroke 3s alternate infinite" }}
         >
-          Grade8
+          Grade9
         </text>
         <text
           x="50%"
@@ -83,4 +83,4 @@ const G8Loader = () => {
   );
 };
 
-export default G8Loader;
+export default G9Loader;
