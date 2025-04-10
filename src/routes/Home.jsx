@@ -65,7 +65,7 @@ function Home() {
                 WISPP <br></br>ROADMAP
               </h1>
               <p
-                className="description text-[1.2rem] tracking-[0.05em] max-w-[45rem] text-gray-500"
+                className="description text-[1.2rem] tracking-[0.05em] max-w-[45rem] text-gray-400"
                 data-aos="fade-zoom-in"
                 data-aos-easing="ease-in-back"
                 data-aos-delay="300"

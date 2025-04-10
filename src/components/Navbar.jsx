@@ -227,6 +227,15 @@ function Navbar() {
                         G6
                       </Link>
                     </li>
+                    <li>
+                      <Link
+                        to="/g7"
+                        className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                        onClick={closeLevelsDropdown}
+                      >
+                        G7
+                      </Link>
+                    </li>
                   </ul>
                 </div>
               </li>
