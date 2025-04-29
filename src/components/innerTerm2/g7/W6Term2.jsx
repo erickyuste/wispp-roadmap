@@ -7,7 +7,7 @@ import G6TechW6Term1 from "../../subjects/technology/g6/G6TechW6Term1";
 import G6DramaW6Term1 from "../../subjects/drama/g6/G6DramaW6Term1";
 import G6MusicW6Term1 from "../../subjects/music/g6/G6MusicW6Term1";
 import G6HealthW6Term1 from "../../subjects/healthEducation/g6/G6HealthW6Term1";
-import G6PEW6Term1 from "../../subjects/physicalEducation/g6/G6PEW6Term1";
+import G7PEW6Term2 from "../../subjects/physicalEducation/g7/G7PEW6Term2";
 import G6MandarinW6Term1 from "../../subjects/mandarin/g6/G6MandarinW6Term1";
 
 function W6Term2() {
@@ -60,8 +60,8 @@ function W6Term2() {
     },
     {
       id: "item9",
-      label: "Physical Education",
-      content: "No content yet",
+      label: "Physical Education - Moving our body",
+      content: <G7PEW6Term2 />,
     },
     {
       id: "item10",

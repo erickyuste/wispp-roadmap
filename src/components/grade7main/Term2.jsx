@@ -8,6 +8,7 @@ import W5Term2 from "../innerTerm2/g7/W5Term2";
 import W6Term2 from "../innerTerm2/g7/W6Term2";
 import W7Term2 from "../innerTerm2/g7/W7Term2";
 import W8Term2 from "../innerTerm2/g7/W8Term2";
+import W9Term2 from "../innerTerm2/g7/W9Term2";
 import click from "../../assets/click.png";
 
 function Term2() {
@@ -20,43 +21,48 @@ function Term2() {
   const items = [
     {
       id: "item1",
-      label: "W1",
+      label: "W1 (Oct 13-17)",
       content: <W1Term2 />,
     },
     {
       id: "item2",
-      label: "W2",
+      label: "W2 (Oct 20-24)",
       content: <W2Term2 />,
     },
     {
       id: "item3",
-      label: "W3",
+      label: "W3 (Oct 27-31)",
       content: <W3Term2 />,
     },
     {
       id: "item4",
-      label: "W4",
+      label: "W4 (Nov 10-14)",
       content: <W4Term2 />,
     },
     {
       id: "item5",
-      label: "W5",
+      label: "W5 (Nov 17-21)",
       content: <W5Term2 />,
     },
     {
       id: "item6",
-      label: "W6",
+      label: "W6 (Nov 24-28)",
       content: <W6Term2 />,
     },
     {
       id: "item7",
-      label: "W7",
+      label: "W7 (Dec 1-5)",
       content: <W7Term2 />,
     },
     {
       id: "item8",
-      label: "W8",
+      label: "W8 (Dec 8-12)",
       content: <W8Term2 />,
+    },
+    {
+      id: "item9",
+      label: "W9 (Dec 15-19)",
+      content: <W9Term2 />,
     },
   ];
 

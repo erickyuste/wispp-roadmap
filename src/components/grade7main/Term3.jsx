@@ -8,6 +8,8 @@ import W5Term3 from "../innerTerm3/g7/W5Term3";
 import W6Term3 from "../innerTerm3/g7/W6Term3";
 import W7Term3 from "../innerTerm3/g7/W7Term3";
 import W8Term3 from "../innerTerm3/g7/W8Term3";
+import W9Term3 from "../innerTerm3/g7/W9Term3";
+import W10Term3 from "../innerTerm3/g7/W10Term3";
 import click from "../../assets/click.png";
 
 function Term3() {
@@ -20,43 +22,53 @@ function Term3() {
   const items = [
     {
       id: "item1",
-      label: "W1",
+      label: "W1 (Jan 12-16)",
       content: <W1Term3 />,
     },
     {
       id: "item2",
-      label: "W2",
+      label: "W2 (Jan 19-23)",
       content: <W2Term3 />,
     },
     {
       id: "item3",
-      label: "W3",
+      label: "W3 (Jan 26-30)",
       content: <W3Term3 />,
     },
     {
       id: "item4",
-      label: "W4",
+      label: "W4 (Feb 2-6)",
       content: <W4Term3 />,
     },
     {
       id: "item5",
-      label: "W5",
+      label: "W5 (Feb 9-13)",
       content: <W5Term3 />,
     },
     {
       id: "item6",
-      label: "W6",
+      label: "W6 (Feb 16-20)",
       content: <W6Term3 />,
     },
     {
       id: "item7",
-      label: "W7",
+      label: "W7 (Feb 23-27)",
       content: <W7Term3 />,
     },
     {
       id: "item8",
-      label: "W8",
+      label: "W8 (Mar 2-6)",
       content: <W8Term3 />,
+    },
+    {
+      id: "item9",
+      label: "W9 (Mar 9-13)",
+      content: <W9Term3 />,
+    },
+    {
+      id: "item10",
+      label: "W10 (Mar 16-20)",
+      content: <W10Term3 />,
     },
   ];
 
