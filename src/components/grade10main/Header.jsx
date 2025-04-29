@@ -7,7 +7,7 @@ function Header() {
         <div className="flex flex-col items-left">
           <h1 className="title text-[1.5rem] sm:text-[1.5rem] md:text-[3rem] lg:text-[5rem] font-bold text-gray-300 text-center">
             Grade 10{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-yellow-200 to-blue-200">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#006494] to-[#FF7F50]">
               Roadmap
             </span>
           </h1>
