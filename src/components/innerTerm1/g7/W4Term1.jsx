@@ -6,7 +6,7 @@ import G6HassW4Term1 from "../../subjects/hass/g6/G6HassW4Term1";
 import G6TechW4Term1 from "../../subjects/technology/g6/G6TechW4Term1";
 import G6DramaW4Term1 from "../../subjects/drama/g6/G6DramaW4Term1";
 import G6MusicW4Term1 from "../../subjects/music/g6/G6MusicW4Term1";
-import G6HealthW4Term1 from "../../subjects/healthEducation/g6/G6HealthW4Term1";
+import G7HEW4to6Term1 from "../../subjects/healthEducation/g7/G7HEW4to6Term1";
 import G7PEW4Term1 from "../../subjects/physicalEducation/g7/G7PEW4Term1";
 import G6MandarinW4Term1 from "../../subjects/mandarin/g6/G6MandarinW4Term1";
 
@@ -55,8 +55,8 @@ function W4Term1() {
     },
     {
       id: "item8",
-      label: "Health Education",
-      content: "No content yet",
+      label: "Health Education - Making informed choices",
+      content: <G7HEW4to6Term1 />,
     },
     {
       id: "item9",

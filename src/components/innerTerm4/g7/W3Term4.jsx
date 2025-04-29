@@ -6,7 +6,7 @@ import G6HassW3Term1 from "../../subjects/hass/g6/G6HassW3Term1";
 import G6TechW3Term1 from "../../subjects/technology/g6/G6TechW3Term1";
 import G6DramaW3Term1 from "../../subjects/drama/g6/G6DramaW3Term1";
 import G6MusicW3Term1 from "../../subjects/music/g6/G6MusicW3Term1";
-import G6HealthW3Term1 from "../../subjects/healthEducation/g6/G6HealthW3Term1";
+import G7HEW1to4Term4 from "../../subjects/healthEducation/g7/G7HEW1to4Term4";
 import G7PEW3Term4 from "../../subjects/physicalEducation/g7/G7PEW3Term4";
 import G6MandarinW3Term1 from "../../subjects/mandarin/g6/G6MandarinW3Term1";
 
@@ -55,8 +55,8 @@ function W3Term4() {
     },
     {
       id: "item8",
-      label: "Health Education",
-      content: "No content yet",
+      label: "Health Education - Managing transitions",
+      content: <G7HEW1to4Term4 />,
     },
     {
       id: "item9",
