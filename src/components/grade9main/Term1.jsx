@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 import dotted from "../../assets/dotted.png";
-import W1Term1 from "../innerTerm1/g8/W1Term1";
-import W2Term1 from "../innerTerm1/g8/W2Term1";
-import W3Term1 from "../innerTerm1/g8/W3Term1";
-import W4Term1 from "../innerTerm1/g8/W4Term1";
-import W5Term1 from "../innerTerm1/g8/W5Term1";
-import W6Term1 from "../innerTerm1/g8/W6Term1";
-import W7Term1 from "../innerTerm1/g8/W7Term1";
-import W8Term1 from "../innerTerm1/g8/W8Term1";
+import W1Term1 from "../innerTerm1/g9/W1Term1";
+import W2Term1 from "../innerTerm1/g9/W2Term1";
+import W3Term1 from "../innerTerm1/g9/W3Term1";
+import W4Term1 from "../innerTerm1/g9/W4Term1";
+import W5Term1 from "../innerTerm1/g9/W5Term1";
+import W6Term1 from "../innerTerm1/g9/W6Term1";
+import W7Term1 from "../innerTerm1/g9/W7Term1";
+import W8Term1 from "../innerTerm1/g9/W8Term1";
 import click from "../../assets/click.png";
 
 function Term1() {
@@ -20,42 +20,42 @@ function Term1() {
   const items = [
     {
       id: "item1",
-      label: "W1",
+      label: "W1 (Aug 11-15)",
       content: <W1Term1 />,
     },
     {
       id: "item2",
-      label: "W2",
+      label: "W2 (Aug 18-22)",
       content: <W2Term1 />,
     },
     {
       id: "item3",
-      label: "W3",
+      label: "W3 (Aug 25-29)",
       content: <W3Term1 />,
     },
     {
       id: "item4",
-      label: "W4",
+      label: "W4 (Sept 1-5)",
       content: <W4Term1 />,
     },
     {
       id: "item5",
-      label: "W5",
+      label: "W5 (Sept 8-12)",
       content: <W5Term1 />,
     },
     {
       id: "item6",
-      label: "W6",
+      label: "W6 (Sept 15-19)",
       content: <W6Term1 />,
     },
     {
       id: "item7",
-      label: "W7",
+      label: "W7 (Sept 29-Oct 3)",
       content: <W7Term1 />,
     },
     {
       id: "item8",
-      label: "W8",
+      label: "W8 (Oct 6-10)",
       content: <W8Term1 />,
     },
   ];

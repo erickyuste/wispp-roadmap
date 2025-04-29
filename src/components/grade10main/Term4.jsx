@@ -1,17 +1,18 @@
 import React, { useState } from "react";
 import dotted from "../../assets/dotted.png";
-import W1Term2 from "../innerTerm2/g9/W1Term2";
-import W2Term2 from "../innerTerm2/g9/W2Term2";
-import W3Term2 from "../innerTerm2/g9/W3Term2";
-import W4Term2 from "../innerTerm2/g9/W4Term2";
-import W5Term2 from "../innerTerm2/g9/W5Term2";
-import W6Term2 from "../innerTerm2/g9/W6Term2";
-import W7Term2 from "../innerTerm2/g9/W7Term2";
-import W8Term2 from "../innerTerm2/g9/W8Term2";
-import W9Term2 from "../innerTerm2/g9/W9Term2";
+import W1Term4 from "../innerTerm4/g10/W1Term4";
+import W2Term4 from "../innerTerm4/g10/W2Term4";
+import W3Term4 from "../innerTerm4/g10/W3Term4";
+import W4Term4 from "../innerTerm4/g10/W4Term4";
+import W5Term4 from "../innerTerm4/g10/W5Term4";
+import W6Term4 from "../innerTerm4/g10/W6Term4";
+import W7Term4 from "../innerTerm4/g10/W7Term4";
+import W8Term4 from "../innerTerm4/g10/W8Term4";
+import W9Term4 from "../innerTerm4/g10/W9Term4";
+import W10Term4 from "../innerTerm4/g10/W10Term4";
 import click from "../../assets/click.png";
 
-function Term2() {
+function Term4() {
   const [openItem, setOpenItem] = useState(null);
 
   const handleItemClick = (itemId) => {
@@ -21,48 +22,53 @@ function Term2() {
   const items = [
     {
       id: "item1",
-      label: "W1 (Oct 13-17)",
-      content: <W1Term2 />,
+      label: "W1 (Mar 23-27)",
+      content: <W1Term4 />,
     },
     {
       id: "item2",
-      label: "W2 (Oct 20-24)",
-      content: <W2Term2 />,
+      label: "W2 (Mar 30-Apr 3)",
+      content: <W2Term4 />,
     },
     {
       id: "item3",
-      label: "W3 (Oct 27-31)",
-      content: <W3Term2 />,
+      label: "W3 (Apr 6-10)",
+      content: <W3Term4 />,
     },
     {
       id: "item4",
-      label: "W4 (Nov 10-14)",
-      content: <W4Term2 />,
+      label: "W4 (Apr 20-24)",
+      content: <W4Term4 />,
     },
     {
       id: "item5",
-      label: "W5 (Nov 17-21)",
-      content: <W5Term2 />,
+      label: "W5 (Apr 27-May 1)",
+      content: <W5Term4 />,
     },
     {
       id: "item6",
-      label: "W6 (Nov 24-28)",
-      content: <W6Term2 />,
+      label: "W6 (May 4-8)",
+      content: <W6Term4 />,
     },
     {
       id: "item7",
-      label: "W7 (Dec 1-5)",
-      content: <W7Term2 />,
+      label: "W7 (May 11-15)",
+      content: <W7Term4 />,
     },
     {
       id: "item8",
-      label: "W8 (Dec 8-12)",
-      content: <W8Term2 />,
+      label: "W8 (May 18-22)",
+      content: <W8Term4 />,
     },
     {
       id: "item9",
-      label: "W9 (Dec 15-19)",
-      content: <W9Term2 />,
+      label: "W9 (May 25-29)",
+      content: <W9Term4 />,
+    },
+    {
+      id: "item10",
+      label: "W10 (Jun 1-5)",
+      content: <W10Term4 />,
     },
   ];
 
@@ -73,10 +79,10 @@ function Term2() {
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
             <a
-              href="https://docs.google.com/spreadsheets/d/1oZPeISuqEYlWrleg_mkKf35xcLa4ZAVltVGLkT56M3A/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/1bUHkYmoQGLPJak6pcVsdSz7aLTFMb1-548AzbADulJI/edit?usp=sharing"
               target="_blank"
             >
-              TERM 2
+              TERM 4
             </a>
             <img src={click} className="w-[2rem] filter invert" />
           </h1>
@@ -105,7 +111,7 @@ function Term2() {
             <div
               className={`content text-white px-[5px] leading-[26px] content max-h-0 overflow-hidden transition-all duration-500 ${
                 openItem === item.id
-                  ? "max-h-screen py-[10px] px-[10px] pb-[20px]"
+                  ? "max-h-[135vh] py-[10px] px-[10px] pb-[20px]"
                   : ""
               }`}
             >
@@ -119,8 +125,17 @@ function Term2() {
         className="w-[1.5rem] md:w-[30px] mx-auto filter invert"
         alt="Dotted Line"
       />
+      <div className="w-[95vw] flex justify-evenly items-center">
+        <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
+        <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
+          <h1 className="title py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center">
+            End of Academic Year
+          </h1>
+        </li>
+        <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
+      </div>
     </div>
   );
 }
 
-export default Term2;
+export default Term4;

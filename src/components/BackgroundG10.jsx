@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import BackgroundContentG8 from "./BackgroundContent/BackgroundContentG8";
-import QuickLinksG8 from "./BackgroundContent/QuickLinksG8";
+import BackgroundContentG10 from "./BackgroundContent/BackgroundContentG10";
+import QuickLinksG10 from "./BackgroundContent/QuickLinksG10";
 import dotted from "../assets/dotted.png";
-import TimeAllocationG8 from "./BackgroundContent/TimeAllocationG8";
+import TimeAllocationG10 from "./BackgroundContent/TimeAllocationG10";
 
-function BackgroundG8() {
+function BackgroundG10() {
   const [openItem, setOpenItem] = useState(null);
 
   const handleItemClick = (itemId) => {
@@ -15,17 +15,17 @@ function BackgroundG8() {
     {
       id: "background",
       label: "Background",
-      content: <BackgroundContentG8 />,
+      content: <BackgroundContentG10 />,
     },
     {
       id: "timeallocation",
       label: "Time Allocation",
-      content: <TimeAllocationG8 />,
+      content: <TimeAllocationG10 />,
     },
     {
       id: "quicklinks",
       label: "WAC Quick Links",
-      content: <QuickLinksG8 />,
+      content: <QuickLinksG10 />,
     },
   ];
 
@@ -76,4 +76,4 @@ function BackgroundG8() {
   );
 }
 
-export default BackgroundG8;
+export default BackgroundG10;

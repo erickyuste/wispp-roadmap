@@ -1,12 +1,12 @@
 import React from "react";
 
-function TimeAllocationG9() {
+function TimeAllocationG10() {
   return (
     <div>
       <p className="md:text-[16px] sm:text-sm text-xs text-gray-300">
         This teaching and learning exemplar for{" "}
-        <span className="font-bold text-[#0582ca]">Year 9</span> articulates the
-        content in the Outline and approaches to teaching, learning and
+        <span className="font-bold text-[#0582ca]">Year 10</span> articulates
+        the content in the Outline and approaches to teaching, learning and
         assessment reflective of the Principles of Teaching, Learning and
         Assessment.
       </p>
@@ -67,4 +67,4 @@ function TimeAllocationG9() {
   );
 }
 
-export default TimeAllocationG9;
+export default TimeAllocationG10;

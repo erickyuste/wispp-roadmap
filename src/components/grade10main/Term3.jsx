@@ -1,17 +1,18 @@
 import React, { useState } from "react";
 import dotted from "../../assets/dotted.png";
-import W1Term2 from "../innerTerm2/g9/W1Term2";
-import W2Term2 from "../innerTerm2/g9/W2Term2";
-import W3Term2 from "../innerTerm2/g9/W3Term2";
-import W4Term2 from "../innerTerm2/g9/W4Term2";
-import W5Term2 from "../innerTerm2/g9/W5Term2";
-import W6Term2 from "../innerTerm2/g9/W6Term2";
-import W7Term2 from "../innerTerm2/g9/W7Term2";
-import W8Term2 from "../innerTerm2/g9/W8Term2";
-import W9Term2 from "../innerTerm2/g9/W9Term2";
+import W1Term3 from "../innerTerm3/g10/W1Term3";
+import W2Term3 from "../innerTerm3/g10/W2Term3";
+import W3Term3 from "../innerTerm3/g10/W3Term3";
+import W4Term3 from "../innerTerm3/g10/W4Term3";
+import W5Term3 from "../innerTerm3/g10/W5Term3";
+import W6Term3 from "../innerTerm3/g10/W6Term3";
+import W7Term3 from "../innerTerm3/g10/W7Term3";
+import W8Term3 from "../innerTerm3/g10/W8Term3";
+import W9Term3 from "../innerTerm3/g10/W9Term3";
+import W10Term3 from "../innerTerm3/g10/W10Term3";
 import click from "../../assets/click.png";
 
-function Term2() {
+function Term3() {
   const [openItem, setOpenItem] = useState(null);
 
   const handleItemClick = (itemId) => {
@@ -21,48 +22,53 @@ function Term2() {
   const items = [
     {
       id: "item1",
-      label: "W1 (Oct 13-17)",
-      content: <W1Term2 />,
+      label: "W1 (Jan 12-16)",
+      content: <W1Term3 />,
     },
     {
       id: "item2",
-      label: "W2 (Oct 20-24)",
-      content: <W2Term2 />,
+      label: "W2 (Jan 19-23)",
+      content: <W2Term3 />,
     },
     {
       id: "item3",
-      label: "W3 (Oct 27-31)",
-      content: <W3Term2 />,
+      label: "W3 (Jan 26-30)",
+      content: <W3Term3 />,
     },
     {
       id: "item4",
-      label: "W4 (Nov 10-14)",
-      content: <W4Term2 />,
+      label: "W4 (Feb 2-6)",
+      content: <W4Term3 />,
     },
     {
       id: "item5",
-      label: "W5 (Nov 17-21)",
-      content: <W5Term2 />,
+      label: "W5 (Feb 9-13)",
+      content: <W5Term3 />,
     },
     {
       id: "item6",
-      label: "W6 (Nov 24-28)",
-      content: <W6Term2 />,
+      label: "W6 (Feb 16-20)",
+      content: <W6Term3 />,
     },
     {
       id: "item7",
-      label: "W7 (Dec 1-5)",
-      content: <W7Term2 />,
+      label: "W7 (Feb 23-27)",
+      content: <W7Term3 />,
     },
     {
       id: "item8",
-      label: "W8 (Dec 8-12)",
-      content: <W8Term2 />,
+      label: "W8 (Mar 2-6)",
+      content: <W8Term3 />,
     },
     {
       id: "item9",
-      label: "W9 (Dec 15-19)",
-      content: <W9Term2 />,
+      label: "W9 (Mar 9-13)",
+      content: <W9Term3 />,
+    },
+    {
+      id: "item10",
+      label: "W10 (Mar 16-20)",
+      content: <W10Term3 />,
     },
   ];
 
@@ -73,10 +79,10 @@ function Term2() {
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
             <a
-              href="https://docs.google.com/spreadsheets/d/1oZPeISuqEYlWrleg_mkKf35xcLa4ZAVltVGLkT56M3A/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/12e084oD3NKqDg83f3TJBVB8HO4GpkOE0C4-8GD9OSwo/edit?usp=sharing"
               target="_blank"
             >
-              TERM 2
+              TERM 3
             </a>
             <img src={click} className="w-[2rem] filter invert" />
           </h1>
@@ -105,7 +111,7 @@ function Term2() {
             <div
               className={`content text-white px-[5px] leading-[26px] content max-h-0 overflow-hidden transition-all duration-500 ${
                 openItem === item.id
-                  ? "max-h-screen py-[10px] px-[10px] pb-[20px]"
+                  ? "max-h-[135vh] py-[10px] px-[10px] pb-[20px]"
                   : ""
               }`}
             >
@@ -123,4 +129,4 @@ function Term2() {
   );
 }
 
-export default Term2;
+export default Term3;

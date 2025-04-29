@@ -1,17 +1,16 @@
 import React, { useState } from "react";
 import dotted from "../../assets/dotted.png";
-import W1Term2 from "../innerTerm2/g9/W1Term2";
-import W2Term2 from "../innerTerm2/g9/W2Term2";
-import W3Term2 from "../innerTerm2/g9/W3Term2";
-import W4Term2 from "../innerTerm2/g9/W4Term2";
-import W5Term2 from "../innerTerm2/g9/W5Term2";
-import W6Term2 from "../innerTerm2/g9/W6Term2";
-import W7Term2 from "../innerTerm2/g9/W7Term2";
-import W8Term2 from "../innerTerm2/g9/W8Term2";
-import W9Term2 from "../innerTerm2/g9/W9Term2";
+import W1Term1 from "../innerTerm1/g10/W1Term1";
+import W2Term1 from "../innerTerm1/g10/W2Term1";
+import W3Term1 from "../innerTerm1/g10/W3Term1";
+import W4Term1 from "../innerTerm1/g10/W4Term1";
+import W5Term1 from "../innerTerm1/g10/W5Term1";
+import W6Term1 from "../innerTerm1/g10/W6Term1";
+import W7Term1 from "../innerTerm1/g10/W7Term1";
+import W8Term1 from "../innerTerm1/g10/W8Term1";
 import click from "../../assets/click.png";
 
-function Term2() {
+function Term1() {
   const [openItem, setOpenItem] = useState(null);
 
   const handleItemClick = (itemId) => {
@@ -21,48 +20,43 @@ function Term2() {
   const items = [
     {
       id: "item1",
-      label: "W1 (Oct 13-17)",
-      content: <W1Term2 />,
+      label: "W1 (Aug 11-15)",
+      content: <W1Term1 />,
     },
     {
       id: "item2",
-      label: "W2 (Oct 20-24)",
-      content: <W2Term2 />,
+      label: "W2 (Aug 18-22)",
+      content: <W2Term1 />,
     },
     {
       id: "item3",
-      label: "W3 (Oct 27-31)",
-      content: <W3Term2 />,
+      label: "W3 (Aug 25-29)",
+      content: <W3Term1 />,
     },
     {
       id: "item4",
-      label: "W4 (Nov 10-14)",
-      content: <W4Term2 />,
+      label: "W4 (Sept 1-5)",
+      content: <W4Term1 />,
     },
     {
       id: "item5",
-      label: "W5 (Nov 17-21)",
-      content: <W5Term2 />,
+      label: "W5 (Sept 8-12)",
+      content: <W5Term1 />,
     },
     {
       id: "item6",
-      label: "W6 (Nov 24-28)",
-      content: <W6Term2 />,
+      label: "W6 (Sept 15-19)",
+      content: <W6Term1 />,
     },
     {
       id: "item7",
-      label: "W7 (Dec 1-5)",
-      content: <W7Term2 />,
+      label: "W7 (Sept 29-Oct 3)",
+      content: <W7Term1 />,
     },
     {
       id: "item8",
-      label: "W8 (Dec 8-12)",
-      content: <W8Term2 />,
-    },
-    {
-      id: "item9",
-      label: "W9 (Dec 15-19)",
-      content: <W9Term2 />,
+      label: "W8 (Oct 6-10)",
+      content: <W8Term1 />,
     },
   ];
 
@@ -73,10 +67,10 @@ function Term2() {
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title flex gap-1 items-center justify-center py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center cursor-pointer transition-transform duration-200 hover:scale-120">
             <a
-              href="https://docs.google.com/spreadsheets/d/1oZPeISuqEYlWrleg_mkKf35xcLa4ZAVltVGLkT56M3A/edit?usp=sharing"
+              href="https://docs.google.com/spreadsheets/d/18SGES8Dr-Xvt1hFnuViavwP2HluaPLQJpWxaYAvkcu8/edit?usp=sharing"
               target="_blank"
             >
-              TERM 2
+              TERM 1
             </a>
             <img src={click} className="w-[2rem] filter invert" />
           </h1>
@@ -123,4 +117,4 @@ function Term2() {
   );
 }
 
-export default Term2;
+export default Term1;

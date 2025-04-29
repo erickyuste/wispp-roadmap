@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import dotted from "../../assets/dotted.png";
-import W1Term2 from "../innerTerm2/g9/W1Term2";
-import W2Term2 from "../innerTerm2/g9/W2Term2";
-import W3Term2 from "../innerTerm2/g9/W3Term2";
-import W4Term2 from "../innerTerm2/g9/W4Term2";
-import W5Term2 from "../innerTerm2/g9/W5Term2";
-import W6Term2 from "../innerTerm2/g9/W6Term2";
-import W7Term2 from "../innerTerm2/g9/W7Term2";
-import W8Term2 from "../innerTerm2/g9/W8Term2";
-import W9Term2 from "../innerTerm2/g9/W9Term2";
+import W1Term2 from "../innerTerm2/g10/W1Term2";
+import W2Term2 from "../innerTerm2/g10/W2Term2";
+import W3Term2 from "../innerTerm2/g10/W3Term2";
+import W4Term2 from "../innerTerm2/g10/W4Term2";
+import W5Term2 from "../innerTerm2/g10/W5Term2";
+import W6Term2 from "../innerTerm2/g10/W6Term2";
+import W7Term2 from "../innerTerm2/g10/W7Term2";
+import W8Term2 from "../innerTerm2/g10/W8Term2";
+import W9Term2 from "../innerTerm2/g10/W9Term2";
 import click from "../../assets/click.png";
 
 function Term2() {

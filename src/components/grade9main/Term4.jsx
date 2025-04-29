@@ -1,13 +1,15 @@
 import React, { useState } from "react";
 import dotted from "../../assets/dotted.png";
-import W1Term4 from "../innerTerm4/g8/W1Term4";
-import W2Term4 from "../innerTerm4/g8/W2Term4";
-import W3Term4 from "../innerTerm4/g8/W3Term4";
-import W4Term4 from "../innerTerm4/g8/W4Term4";
-import W5Term4 from "../innerTerm4/g8/W5Term4";
-import W6Term4 from "../innerTerm4/g8/W6Term4";
-import W7Term4 from "../innerTerm4/g8/W7Term4";
-import W8Term4 from "../innerTerm4/g8/W8Term4";
+import W1Term4 from "../innerTerm4/g9/W1Term4";
+import W2Term4 from "../innerTerm4/g9/W2Term4";
+import W3Term4 from "../innerTerm4/g9/W3Term4";
+import W4Term4 from "../innerTerm4/g9/W4Term4";
+import W5Term4 from "../innerTerm4/g9/W5Term4";
+import W6Term4 from "../innerTerm4/g9/W6Term4";
+import W7Term4 from "../innerTerm4/g9/W7Term4";
+import W8Term4 from "../innerTerm4/g9/W8Term4";
+import W9Term4 from "../innerTerm4/g9/W9Term4";
+import W10Term4 from "../innerTerm4/g9/W10Term4";
 import click from "../../assets/click.png";
 
 function Term4() {
@@ -20,43 +22,53 @@ function Term4() {
   const items = [
     {
       id: "item1",
-      label: "W1 (Mar 31-Apr 4)",
+      label: "W1 (Mar 23-27)",
       content: <W1Term4 />,
     },
     {
       id: "item2",
-      label: "W2 (Apr 7-11)",
+      label: "W2 (Mar 30-Apr 3)",
       content: <W2Term4 />,
     },
     {
       id: "item3",
-      label: "W3 (Apr 14-18)",
+      label: "W3 (Apr 6-10)",
       content: <W3Term4 />,
     },
     {
       id: "item4",
-      label: "W4 (Apr  21-25)",
+      label: "W4 (Apr 20-24)",
       content: <W4Term4 />,
     },
     {
       id: "item5",
-      label: "W5 (Apr 28-May 2)",
+      label: "W5 (Apr 27-May 1)",
       content: <W5Term4 />,
     },
     {
       id: "item6",
-      label: "W6 (May 5-9)",
+      label: "W6 (May 4-8)",
       content: <W6Term4 />,
     },
     {
       id: "item7",
-      label: "W7 (May 12-16)",
+      label: "W7 (May 11-15)",
       content: <W7Term4 />,
     },
     {
       id: "item8",
-      label: "W8-W10 (May 19-Jun 13)",
+      label: "W8 (May 18-22)",
       content: <W8Term4 />,
+    },
+    {
+      id: "item9",
+      label: "W9 (May 25-29)",
+      content: <W9Term4 />,
+    },
+    {
+      id: "item10",
+      label: "W10 (Jun 1-5)",
+      content: <W10Term4 />,
     },
   ];
 
