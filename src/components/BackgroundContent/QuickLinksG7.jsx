@@ -61,7 +61,7 @@ function QuickLinksG7() {
           className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm  text-white border-2 border-white font-bold hover:bg-white hover:text-[#003554]"
         >
           <a
-            href="https://drive.google.com/drive/folders/1rSWfDW-QZq5afoO9NFD74kw6zVl3p8J-"
+            href="https://drive.google.com/drive/folders/1EKP9sCe_8Et_R_9Z0V_cBDgCiHoI5Iew?usp=sharing "
             target="_blank"
           >
             Exemplar

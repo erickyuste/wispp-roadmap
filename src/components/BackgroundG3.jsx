@@ -35,7 +35,7 @@ function BackgroundG3() {
         <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>
         <li className="flex items-center justify-center shadow-lg list-none w-[100%] rounded-lg bg-[#003554]">
           <h1 className="title py-2 font-bold text-xs sm:text-sm md:text-lg lg:text-xl text-gray-300 text-center">
-            Academic Year 24-25
+            Academic Year 25-26
           </h1>
         </li>
         <div className="w-[100%] bg-[#003554] h-[1px] rotate-180"></div>

@@ -20,42 +20,42 @@ function Term4() {
   const items = [
     {
       id: "item1",
-      label: "W1 (Mar 31-Apr 4)",
+      label: "W1 (Mar 23-27)",
       content: <W1Term4 />,
     },
     {
       id: "item2",
-      label: "W2 (Apr 7-11)",
+      label: "W2 (Mar 30-Apr 3)",
       content: <W2Term4 />,
     },
     {
       id: "item3",
-      label: "W3 (Apr 14-18)",
+      label: "W3 (Apr 6-10)",
       content: <W3Term4 />,
     },
     {
       id: "item4",
-      label: "W4 (Apr  21-25)",
+      label: "W4 (Apr 20-24)",
       content: <W4Term4 />,
     },
     {
       id: "item5",
-      label: "W5 (Apr 28-May 2)",
+      label: "W5 (Apr 27-May 1)",
       content: <W5Term4 />,
     },
     {
       id: "item6",
-      label: "W6 (May 5-9)",
+      label: "W6 (May 4-8)",
       content: <W6Term4 />,
     },
     {
       id: "item7",
-      label: "W7 (May 12-16)",
+      label: "W7-W8 (May 11-22)",
       content: <W7Term4 />,
     },
     {
       id: "item8",
-      label: "W8-W10 (May 19-Jun 13)",
+      label: "W9-W10 (May 25-Jun 5)",
       content: <W8Term4 />,
     },
   ];
