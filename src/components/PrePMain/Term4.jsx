@@ -15,22 +15,22 @@ function Term4() {
   const items = [
     {
       id: "item1",
-      label: "Soil W1-2",
+      label: "Soil W1-3 (Mar 23-Apr 10)",
       content: <SoilTerm4 />,
     },
     {
       id: "item2",
-      label: "Seed W3-4",
+      label: "Seed W4-6 (Apr 20 - May 8)",
       content: <SeedTerm4 />,
     },
     {
       id: "item3",
-      label: "Stalk W5",
+      label: "Stalk W7-8 (May 11-22)",
       content: <StalkTerm4 />,
     },
     {
       id: "item4",
-      label: "Flower W6",
+      label: "Flower W9-10 (May 25-Jun 5)",
       content: <FlowerTerm4 />,
     },
   ];
