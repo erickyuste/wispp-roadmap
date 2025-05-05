@@ -1,6 +1,6 @@
 import React from "react";
 
-function G7PEW1Term1() {
+function G8PEW1to2Term1() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
@@ -62,4 +62,4 @@ function G7PEW1Term1() {
   );
 }
 
-export default G7PEW1Term1;
+export default G8PEW1to2Term1;

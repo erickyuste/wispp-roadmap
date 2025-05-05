@@ -7,7 +7,7 @@ import G6TechW4Term1 from "../../subjects/technology/g6/G6TechW4Term1";
 import G6DramaW4Term1 from "../../subjects/drama/g6/G6DramaW4Term1";
 import G6MusicW4Term1 from "../../subjects/music/g6/G6MusicW4Term1";
 import G6HealthW4Term1 from "../../subjects/healthEducation/g6/G6HealthW4Term1";
-import G6PEW4Term1 from "../../subjects/physicalEducation/g6/G6PEW4Term1";
+import G8PEW4to6Term1 from "../../subjects/physicalEducation/g8/G8PEW4to6Term1";
 import G6MandarinW4Term1 from "../../subjects/mandarin/g6/G6MandarinW4Term1";
 
 function W4Term1() {
@@ -60,8 +60,8 @@ function W4Term1() {
     },
     {
       id: "item9",
-      label: "Physical Education",
-      content: "No content yet",
+      label: "Physical Education - Kicking",
+      content: <G8PEW4to6Term1 />,
     },
     {
       id: "item10",

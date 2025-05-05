@@ -7,7 +7,7 @@ import G6TechW2Term1 from "../../subjects/technology/g6/G6TechW2Term1";
 import G6DramaW2Term1 from "../../subjects/drama/g6/G6DramaW2Term1";
 import G6MusicW2Term1 from "../../subjects/music/g6/G6MusicW2Term1";
 import G6HealthW2Term1 from "../../subjects/healthEducation/g6/G6HealthW2Term1";
-import G6PEW2Term1 from "../../subjects/physicalEducation/g6/G6PEW2Term1";
+import G9PEW1to4Term1 from "../../subjects/physicalEducation/g9/G9PEW1to3Term1";
 import G6MandarinW2Term1 from "../../subjects/mandarin/g6/G6MandarinW2Term1";
 
 function W2Term1() {
@@ -60,8 +60,8 @@ function W2Term1() {
     },
     {
       id: "item9",
-      label: "Physical Education",
-      content: "No content yet",
+      label: "Physical Education - Invasion Games",
+      content: <G9PEW1to4Term1 />,
     },
     {
       id: "item10",
