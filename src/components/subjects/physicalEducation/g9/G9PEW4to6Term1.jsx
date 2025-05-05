@@ -41,7 +41,7 @@ function G9PEW4to6Term1() {
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1fFwgY0tl1ackanKBaUUeul-uo4rRKrwF/view?usp=sharing"
+              href="https://drive.google.com/file/d/1M5gsDTuP2p-hthFML0R8pFzmmksW9AbU/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >

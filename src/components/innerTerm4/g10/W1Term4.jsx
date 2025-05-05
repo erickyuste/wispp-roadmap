@@ -7,7 +7,7 @@ import G6TechW1Term1 from "../../subjects/technology/g6/G6TechW1Term1";
 import G6DramaW1Term1 from "../../subjects/drama/g6/G6DramaW1Term1";
 import G6MusicW1Term1 from "../../subjects/music/g6/G6MusicW1Term1";
 import G6HealthW1Term1 from "../../subjects/healthEducation/g6/G6HealthW1Term1";
-import G6PEW1Term1 from "../../subjects/physicalEducation/g6/G6PEW1Term1";
+import G10PEW1to4Term4 from "../../subjects/physicalEducation/g10/G10PEW1to4Term4";
 import G6MandarinW1Term1 from "../../subjects/mandarin/g6/G6MandarinW1Term1";
 
 function W1Term1() {
@@ -61,7 +61,7 @@ function W1Term1() {
     {
       id: "item9",
       label: "Physical Education",
-      content: "No content yet",
+      content: <G10PEW1to4Term4 />,
     },
     {
       id: "item10",

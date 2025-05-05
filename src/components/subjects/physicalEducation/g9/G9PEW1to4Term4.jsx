@@ -51,6 +51,16 @@ function G9PEW1to4Term4() {
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
+              href="https://drive.google.com/file/d/1M5gsDTuP2p-hthFML0R8pFzmmksW9AbU/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Judging
+            </a>
+          </button>
+
+          <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
+            <a
               href="https://erickyuste.github.io/LessonPlanAi/"
               target="_blank"
               rel="noopener noreferrer"

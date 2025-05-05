@@ -1,25 +1,26 @@
 import React from "react";
 
-function G8PEW1to2Term1() {
+function G10PEW1to3Term1() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Understand the ways in which our body moves through time and space.
+          Characteristics of sports categories/ families:
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Explore different movement skills and sequences in different games
-          contexts.
+          • invasion
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Understand how moving the body can enhance game play across
-          different types of activities.
+          • net/wall
+        </p>
+        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
+          • striking/fielding
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1nInCrzDke4V4xPxrI2fxm0-9GTeqOsaG/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ZU6KpGAnTx7Mk1AkX_LAQgnrNBqCgey1/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -29,7 +30,7 @@ function G8PEW1to2Term1() {
 
           <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1x3lzPde0Okoi8dEf2IFWujMv48tjClKB/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ZU6KpGAnTx7Mk1AkX_LAQgnrNBqCgey1/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -39,7 +40,7 @@ function G8PEW1to2Term1() {
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1rHzfv0JYjvG6G8hjpPE1GYOT6tlVTAqw/view?usp=sharing"
+              href="https://drive.google.com/file/d/16SjVcqoXKOm0nlHlXLM_T2UC8UQ-M0f1/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -62,4 +63,4 @@ function G8PEW1to2Term1() {
   );
 }
 
-export default G8PEW1to2Term1;
+export default G10PEW1to3Term1;
