@@ -6,7 +6,7 @@ import G6HassW3Term1 from "../../subjects/hass/g6/G6HassW3Term1";
 import G6TechW3Term1 from "../../subjects/technology/g6/G6TechW3Term1";
 import G6DramaW3Term1 from "../../subjects/drama/g6/G6DramaW3Term1";
 import G6MusicW3Term1 from "../../subjects/music/g6/G6MusicW3Term1";
-import G6HealthW3Term1 from "../../subjects/healthEducation/g6/G6HealthW3Term1";
+import G10HETerm3 from "../../subjects/healthEducation/g10/G10HETerm3";
 import G10PEW1to4Term3 from "../../subjects/physicalEducation/g10/G10PEW1to4Term3";
 import G6MandarinW3Term1 from "../../subjects/mandarin/g6/G6MandarinW3Term1";
 
@@ -55,8 +55,8 @@ function W3Term3() {
     },
     {
       id: "item8",
-      label: "Health Education",
-      content: "No content yet",
+      label: "Health Education - Respectful Relationships",
+      content: <G10HETerm3 />,
     },
     {
       id: "item9",
