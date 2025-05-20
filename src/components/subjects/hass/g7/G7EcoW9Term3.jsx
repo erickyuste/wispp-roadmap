@@ -1,17 +1,19 @@
 import React from "react";
 
-function G7HistoryW1Term1() {
+function G7EcoW9Term3() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Making choices.
+          • Characteristics of entrepreneurs, including the behaviours and
+          skills they bring to their businesses (e.g. establishing a shared
+          vision; and demonstrating initiative, innovation and enterprise)
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1Kq7qaXI92nSXKZabt5-uEG37_0Xg_RrH/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ItHP9JDqrbUoKjreBYda47YHCIX6Oo0g/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -21,7 +23,7 @@ function G7HistoryW1Term1() {
 
           <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1TIXSpMziPUGoL-u5srwD0zXbUPu5jMxa/view?usp=sharing"
+              href="https://drive.google.com/file/d/1AXOpClIjMiF9rVIWv_COKFhs3_639bu-/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -29,7 +31,7 @@ function G7HistoryW1Term1() {
             </a>
           </button>
 
-          <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
+          {/* <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
               href="https://drive.google.com/file/d/1Q8kXMYGUoLd7Rp7mOu2LrmXg-ivpY2sz/view?usp=sharing"
               target="_blank"
@@ -37,7 +39,7 @@ function G7HistoryW1Term1() {
             >
               Judging
             </a>
-          </button>
+          </button> */}
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
@@ -54,4 +56,4 @@ function G7HistoryW1Term1() {
   );
 }
 
-export default G7HistoryW1Term1;
+export default G7EcoW9Term3;

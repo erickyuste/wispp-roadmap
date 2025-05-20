@@ -1,17 +1,22 @@
 import React from "react";
 
-function G7HistoryW1Term1() {
+function G7GeoW4to5Term2() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Making choices.
+          • Explain to students that they are going to create a class
+          display/large class poster to show how the quantity and variability of
+          Australia’s water resources compares with those in other continents.
+          Students will research and select two sources, e.g. a map, graph,
+          image, information and/or data, which contributes to the big picture
+          of how Australia’s water resources compare to other continents.
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1Kq7qaXI92nSXKZabt5-uEG37_0Xg_RrH/view?usp=sharing"
+              href="https://drive.google.com/file/d/1phHCwWmWStliC364bUlJNMWlXwDJlvhH/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -21,7 +26,7 @@ function G7HistoryW1Term1() {
 
           <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1TIXSpMziPUGoL-u5srwD0zXbUPu5jMxa/view?usp=sharing"
+              href="https://drive.google.com/file/d/1v-aHdMDA-hBAX4oqubXQJ2yBKy5UcpyI/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -29,7 +34,7 @@ function G7HistoryW1Term1() {
             </a>
           </button>
 
-          <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
+          {/* <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
               href="https://drive.google.com/file/d/1Q8kXMYGUoLd7Rp7mOu2LrmXg-ivpY2sz/view?usp=sharing"
               target="_blank"
@@ -37,7 +42,7 @@ function G7HistoryW1Term1() {
             >
               Judging
             </a>
-          </button>
+          </button> */}
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
@@ -54,4 +59,4 @@ function G7HistoryW1Term1() {
   );
 }
 
-export default G7HistoryW1Term1;
+export default G7GeoW4to5Term2;
