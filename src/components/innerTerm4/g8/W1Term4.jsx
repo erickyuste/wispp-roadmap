@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import G6EnglishW1Term1 from "../../subjects/english/g6/G6EnglishW1Term1";
 import G6MathW1Term1 from "../../subjects/math/g6/G6MathW1Term1";
 import G6ScienceW1Term1 from "../../subjects/science/g6/G6ScienceW1Term1";
-import G6HassW1Term1 from "../../subjects/hass/g6/G6HassW1Term1";
+import G8CivicsW1to2T4 from "../../subjects/hass/g8/G8CivicsW1to2T4";
 import G6TechW1Term1 from "../../subjects/technology/g6/G6TechW1Term1";
 import G6DramaW1Term1 from "../../subjects/drama/g6/G6DramaW1Term1";
 import G6MusicW1Term1 from "../../subjects/music/g6/G6MusicW1Term1";
@@ -35,8 +35,8 @@ function W1Term1() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies",
-      content: "No content yet",
+      label: "Humanities and Social Studies - Civics and Citizenship",
+      content: <G8CivicsW1to2T4 />,
     },
     {
       id: "item5",
