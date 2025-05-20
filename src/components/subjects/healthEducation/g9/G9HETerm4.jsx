@@ -1,30 +1,32 @@
 import React from "react";
 
-function G9HETerm1() {
+function G9HETerm4() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Understand and explain the term health.
+          • Understand the concept of stereotypes.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Define physical health.
+          • Understand how stereotypes influence behaviour and identity
+          development.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Understand what mental health and wellbeing is.
+          • Suggest how to positively challenge the use of stereotypes in
+          community.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Appreciate that health is dynamic and always changing.
+          • Explore possible actions and strategies to promote a positive
+          development of identity and promote respect for self and others.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Identify the factors that can cause a decline in physical and mental
-          health.
+          • Summarise personal identity development.
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1XqS18LEfBo8KBuOzmuJ9RZVIn0PXuKcA/view?usp=sharing"
+              href="https://drive.google.com/file/d/1UpvyLmz3nl3YmamXyQC749f7qUTqn-TW/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -34,7 +36,7 @@ function G9HETerm1() {
 
           <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1aTksw93OzeoGeUBFX4AStaki3hRwKlJw/view?usp=sharing"
+              href="https://drive.google.com/file/d/1CQdEz12LZbI_tboS8uXpIRE2eJTJ47Il/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -44,7 +46,7 @@ function G9HETerm1() {
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1aVT5o8lBNngqaGMBMa4Dr9F5ivWaqh2c/view?usp=sharing"
+              href="https://drive.google.com/file/d/183SnNiJAAZLGuqvIhf2mIx8LHukm-li_/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -67,4 +69,4 @@ function G9HETerm1() {
   );
 }
 
-export default G9HETerm1;
+export default G9HETerm4;

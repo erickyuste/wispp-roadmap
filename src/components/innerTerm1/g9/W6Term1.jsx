@@ -6,7 +6,7 @@ import G6HassW6Term1 from "../../subjects/hass/g6/G6HassW6Term1";
 import G6TechW6Term1 from "../../subjects/technology/g6/G6TechW6Term1";
 import G6DramaW6Term1 from "../../subjects/drama/g6/G6DramaW6Term1";
 import G6MusicW6Term1 from "../../subjects/music/g6/G6MusicW6Term1";
-import G6HealthW6Term1 from "../../subjects/healthEducation/g6/G6HealthW6Term1";
+import G9HETerm1 from "../../subjects/healthEducation/g9/G9HETerm1";
 import G9PEW4to6Term1 from "../../subjects/physicalEducation/g9/G9PEW4to6Term1";
 import G6MandarinW6Term1 from "../../subjects/mandarin/g6/G6MandarinW6Term1";
 
@@ -55,8 +55,9 @@ function W6Term1() {
     },
     {
       id: "item8",
-      label: "Health Education",
-      content: "No content yet",
+      label:
+        "Health Education - Factors that shape identities/gender stereotypes",
+      content: <G9HETerm1 />,
     },
     {
       id: "item9",
