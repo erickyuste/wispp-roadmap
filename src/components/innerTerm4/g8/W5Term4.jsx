@@ -6,7 +6,7 @@ import G6HassW5Term1 from "../../subjects/hass/g6/G6HassW5Term1";
 import G6TechW5Term1 from "../../subjects/technology/g6/G6TechW5Term1";
 import G6DramaW5Term1 from "../../subjects/drama/g6/G6DramaW5Term1";
 import G6MusicW5Term1 from "../../subjects/music/g6/G6MusicW5Term1";
-import G6HealthW5Term1 from "../../subjects/healthEducation/g6/G6HealthW5Term1";
+import G8HETerm4 from "../../subjects/healthEducation/g8/G8HETerm4";
 import G8PEW1to5Term4 from "../../subjects/physicalEducation/g8/G8PEW1to5Term4";
 import G6MandarinW5Term1 from "../../subjects/mandarin/g6/G6MandarinW5Term1";
 
@@ -55,8 +55,9 @@ function W5Term4() {
     },
     {
       id: "item8",
-      label: "Health Education",
-      content: "No content yet",
+      label:
+        "Health Education - Strategies to promote physical and mental health and wellbeing",
+      content: <G8HETerm4 />,
     },
     {
       id: "item9",
