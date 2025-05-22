@@ -14,8 +14,8 @@ function Home() {
       setIsLoading(false);
       setTimeout(() => {
         setContentVisible(true);
-      }, 100);
-    }, 5000);
+      }, 3000);
+    }, 3000);
 
     return () => clearTimeout(timer);
   }, []);
