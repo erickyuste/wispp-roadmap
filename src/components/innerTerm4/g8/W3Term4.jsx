@@ -4,8 +4,7 @@ import G6MathW3Term1 from "../../subjects/math/g6/G6MathW3Term1";
 import G6ScienceW3Term1 from "../../subjects/science/g6/G6ScienceW3Term1";
 import G8CivicsW3to4T4 from "../../subjects/hass/g8/G8CivicsW3to4T4";
 import G6TechW3Term1 from "../../subjects/technology/g6/G6TechW3Term1";
-import G6DramaW3Term1 from "../../subjects/drama/g6/G6DramaW3Term1";
-import G6MusicW3Term1 from "../../subjects/music/g6/G6MusicW3Term1";
+import G8MusicW1to3Term4 from "../../subjects/visual arts/g8/G8MusicW1to3Term4";
 import G8HETerm4 from "../../subjects/healthEducation/g8/G8HETerm4";
 import G8PEW1to5Term4 from "../../subjects/physicalEducation/g8/G8PEW1to5Term4";
 import G6MandarinW3Term1 from "../../subjects/mandarin/g6/G6MandarinW3Term1";
@@ -45,32 +44,27 @@ function W3Term4() {
     },
     {
       id: "item6",
-      label: "The Arts: Drama",
-      content: "No content yet",
+      label: "The Arts: Music",
+      content: <G8MusicW1to3Term4 />,
     },
     {
       id: "item7",
-      label: "The Arts: Music",
-      content: "No content yet",
-    },
-    {
-      id: "item8",
       label:
         "Health Education - Strategies to promote physical and mental health and wellbeing",
       content: <G8HETerm4 />,
     },
     {
-      id: "item9",
+      id: "item8",
       label: "Physical Education - Kicking",
       content: <G8PEW1to5Term4 />,
     },
     {
-      id: "item10",
+      id: "item9",
       label: "Language: Mandarin",
       content: "No content yet",
     },
     {
-      id: "item11",
+      id: "item10",
       label: "Khmer",
       content: "No content yet",
     },
