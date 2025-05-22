@@ -4,13 +4,15 @@ const MainLoader = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const delay = 3000; // 3 seconds delay (adjust as needed)
-
-    const timer = setTimeout(() => {
+    const handleLoad = () => {
       setLoading(false);
-    }, delay);
+    };
 
-    return () => clearTimeout(timer); // Cleanup
+    window.addEventListener("load", handleLoad);
+
+    return () => {
+      window.removeEventListener("load", handleLoad);
+    };
   }, []);
 
   return (
