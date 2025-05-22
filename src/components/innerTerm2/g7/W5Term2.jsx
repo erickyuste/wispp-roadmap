@@ -4,8 +4,7 @@ import G6MathW5Term1 from "../../subjects/math/g6/G6MathW5Term1";
 import G6ScienceW5Term1 from "../../subjects/science/g6/G6ScienceW5Term1";
 import G7GeoW4to5Term2 from "../../subjects/hass/g7/G7GeoW4to5Term2";
 import G6TechW5Term1 from "../../subjects/technology/g6/G6TechW5Term1";
-import G6DramaW5Term1 from "../../subjects/drama/g6/G6DramaW5Term1";
-import G6MusicW5Term1 from "../../subjects/music/g6/G6MusicW5Term1";
+import G7VisualW4to6Term2 from "../../subjects/visual arts/g7/G7VisualW4to6Term2";
 import G7HEW4to6Term2 from "../../subjects/healthEducation/g7/G7HEW4to6Term2";
 import G7PEW5Term2 from "../../subjects/physicalEducation/g7/G7PEW5Term2";
 import G6MandarinW5Term1 from "../../subjects/mandarin/g6/G6MandarinW5Term1";
@@ -45,31 +44,26 @@ function W5Term2() {
     },
     {
       id: "item6",
-      label: "The Arts: Drama",
-      content: "No content yet",
+      label: "The Arts: Visual Arts",
+      content: <G7VisualW4to6Term2 />,
     },
     {
       id: "item7",
-      label: "The Arts: Music",
-      content: "No content yet",
-    },
-    {
-      id: "item8",
       label: "Health Education - Making informed choices",
       content: <G7HEW4to6Term2 />,
     },
     {
-      id: "item9",
+      id: "item8",
       label: "Physical Education - Moving our body",
       content: <G7PEW5Term2 />,
     },
     {
-      id: "item10",
+      id: "item9",
       label: "Language: Mandarin",
       content: "No content yet",
     },
     {
-      id: "item11",
+      id: "item10",
       label: "Khmer",
       content: "Khmer",
     },

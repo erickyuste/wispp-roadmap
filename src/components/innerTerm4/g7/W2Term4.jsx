@@ -4,8 +4,7 @@ import G6MathW2Term1 from "../../subjects/math/g6/G6MathW2Term1";
 import G6ScienceW2Term1 from "../../subjects/science/g6/G6ScienceW2Term1";
 import G7CivicsW1to2Term4 from "../../subjects/hass/g7/G7CivicsW1to2Term4";
 import G6TechW2Term1 from "../../subjects/technology/g6/G6TechW2Term1";
-import G6DramaW2Term1 from "../../subjects/drama/g6/G6DramaW2Term1";
-import G6MusicW2Term1 from "../../subjects/music/g6/G6MusicW2Term1";
+import G7MusicW1to2Term4 from "../../subjects/visual arts/g7/G7MusicW1to2Term4";
 import G7HEW1to4Term4 from "../../subjects/healthEducation/g7/G7HEW1to4Term4";
 import G7PEW2Term4 from "../../subjects/physicalEducation/g7/G7PEW2Term4";
 import G6MandarinW2Term1 from "../../subjects/mandarin/g6/G6MandarinW2Term1";
@@ -46,30 +45,25 @@ function W2Term4() {
     {
       id: "item6",
       label: "The Arts: Music",
-      content: "No content yet",
+      content: <G7MusicW1to2Term4 />,
     },
     {
       id: "item7",
-      label: "The Arts: Drama",
-      content: "No content yet",
-    },
-    {
-      id: "item8",
       label: "Health Education - Managing transitions",
       content: <G7HEW1to4Term4 />,
     },
     {
-      id: "item9",
+      id: "item8",
       label: "Physical Education - Netball",
       content: <G7PEW2Term4 />,
     },
     {
-      id: "item10",
+      id: "item9",
       label: "Language: Mandarin",
       content: "No content yet",
     },
     {
-      id: "item11",
+      id: "item10",
       label: "Khmer",
       content: "No content yet",
     },
