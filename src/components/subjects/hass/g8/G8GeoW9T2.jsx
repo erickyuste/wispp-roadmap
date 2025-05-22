@@ -29,16 +29,15 @@ function G8GeoW9T2() {
               Resources
             </a>
           </button>
-          {/* 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1Q8kXMYGUoLd7Rp7mOu2LrmXg-ivpY2sz/view?usp=sharing"
+              href="https://drive.google.com/file/d/19pxjkvMJ8h7GZSn8x1xTWW0Uu2bNgOe-/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
               Judging
             </a>
-          </button> */}
+          </button>
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
