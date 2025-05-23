@@ -34,7 +34,7 @@ function W5Term3() {
     },
     {
       id: "item4",
-      label: "HaSS - Geography",
+      label: "HaSS - History",
       content: <G4HassW5Term3 />,
     },
     {

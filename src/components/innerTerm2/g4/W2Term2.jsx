@@ -34,7 +34,7 @@ function W2Term2() {
     },
     {
       id: "item4",
-      label: "HaSS - Civics and Citizenship",
+      label: "HaSS - Geography",
       content: <G4HassW2Term2 />,
     },
     {

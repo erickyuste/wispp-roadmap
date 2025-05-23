@@ -34,7 +34,7 @@ function W8Term3() {
     },
     {
       id: "item4",
-      label: "HaSS - Geography",
+      label: "HaSS - History",
       content: <G4HassW8Term3 />,
     },
     {
