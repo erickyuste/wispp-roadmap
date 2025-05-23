@@ -8,17 +8,6 @@ function HomapageNavbar() {
   const location = useLocation();
   const levelsDropdownRef = useRef(null);
   const buttonRef = useRef(null);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    const delay = 3000; // 3 seconds delay (adjust as needed)
-
-    const timer = setTimeout(() => {
-      setLoading(false);
-    }, delay);
-
-    return () => clearTimeout(timer); // Cleanup
-  }, []);
 
   const toggleNavDropdown = () => {
     setIsNavDropdownOpen(!isNavDropdownOpen);
@@ -57,11 +46,7 @@ function HomapageNavbar() {
   }, [levelsDropdownRef]);
 
   return (
-    <nav
-      className={`pt-4 absolute top-0 z-100 w-full ${
-        loading ? "" : "opacity-0 invisible"
-      }`}
-    >
+    <nav className="pt-4 absolute top-0 z-100 w-full">
       <div className="w-full flex flex-wrap items-center justify-between p-4">
         <Link
           to="/"

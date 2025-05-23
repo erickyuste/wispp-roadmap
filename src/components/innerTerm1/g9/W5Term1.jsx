@@ -4,8 +4,7 @@ import G6MathW5Term1 from "../../subjects/math/g6/G6MathW5Term1";
 import G6ScienceW5Term1 from "../../subjects/science/g6/G6ScienceW5Term1";
 import G9HistoryW5T1 from "../../subjects/hass/g9/G9HistoryW5T1";
 import G6TechW5Term1 from "../../subjects/technology/g6/G6TechW5Term1";
-import G6DramaW5Term1 from "../../subjects/drama/g6/G6DramaW5Term1";
-import G6MusicW5Term1 from "../../subjects/music/g6/G6MusicW5Term1";
+import G9VisualW5to7Term1 from "../../subjects/visual arts/g9/G9VisualW5to7Term1";
 import G9HETerm1 from "../../subjects/healthEducation/g9/G9HETerm1";
 import G9PEW4to6Term1 from "../../subjects/physicalEducation/g9/G9PEW4to6Term1";
 import G6MandarinW5Term1 from "../../subjects/mandarin/g6/G6MandarinW5Term1";
@@ -45,32 +44,27 @@ function W5Term1() {
     },
     {
       id: "item6",
-      label: "The Arts: Drama",
-      content: "No content yet",
+      label: "The Arts: Visual Arts",
+      content: <G9VisualW5to7Term1 />,
     },
     {
       id: "item7",
-      label: "The Arts: Music",
-      content: "No content yet",
-    },
-    {
-      id: "item8",
       label:
         "Health Education - Factors that shape identities/gender stereotypes",
       content: <G9HETerm1 />,
     },
     {
-      id: "item9",
+      id: "item8",
       label: "Physical Education - Invasion Games",
       content: <G9PEW4to6Term1 />,
     },
     {
-      id: "item10",
+      id: "item9",
       label: "Language: Mandarin",
       content: "No content yet",
     },
     {
-      id: "item11",
+      id: "item10",
       label: "Khmer",
       content: "Khmer",
     },
