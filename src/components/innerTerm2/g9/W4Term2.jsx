@@ -34,7 +34,7 @@ function W4Term2() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies - Geography",
+      label: "HaSS - Geography",
       content: <G9GeoW3to4T2 />,
     },
     {

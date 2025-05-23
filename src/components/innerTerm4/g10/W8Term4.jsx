@@ -34,7 +34,7 @@ function W8Term4() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies - Civics and Citizenship",
+      label: "HaSS - Civics and Citizenship",
       content: <G10CivicsW8T4 />,
     },
     {

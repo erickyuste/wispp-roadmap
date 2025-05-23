@@ -34,7 +34,7 @@ function W5Term1() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies (Civics and Citizenship)",
+      label: "HaSS - Civics and Citizenship",
       content: <G4HassW5Term1 />,
     },
     {

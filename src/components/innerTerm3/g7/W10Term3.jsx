@@ -34,7 +34,7 @@ function W10Term3() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies - Economics and Business",
+      label: "HaSS - Economics and Business",
       content: <G7EcoW10Term3 />,
     },
     {

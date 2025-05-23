@@ -33,7 +33,7 @@ function W5Term4() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies (History)",
+      label: "HaSS - History",
       content: <G4HassW5Term4 />,
     },
     {

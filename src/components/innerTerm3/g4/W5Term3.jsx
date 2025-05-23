@@ -34,7 +34,7 @@ function W5Term3() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies (History)",
+      label: "HaSS - Geography",
       content: <G4HassW5Term3 />,
     },
     {

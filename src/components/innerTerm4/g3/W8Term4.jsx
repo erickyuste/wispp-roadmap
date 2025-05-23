@@ -35,7 +35,7 @@ function W8Term4() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies (Geography)",
+      label: "HaSS - History",
       content: <G3HassW8Term4 />,
     },
     {

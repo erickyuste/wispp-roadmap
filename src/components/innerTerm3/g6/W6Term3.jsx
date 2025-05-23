@@ -36,7 +36,7 @@ function W6Term3() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies (History)",
+      label: "HaSS - History",
       content: <G6HassW6Term3 />,
     },
     {

@@ -35,7 +35,7 @@ function W2Term2() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies (Civics and Citizenship)",
+      label: "HaSS - Civics and Citizenship",
       content: <G6HassW2Term2 />,
     },
     {

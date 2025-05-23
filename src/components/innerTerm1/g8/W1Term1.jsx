@@ -34,7 +34,7 @@ function W1Term2() {
     },
     {
       id: "item4",
-      label: "Humanities and Social Studies - History",
+      label: "HaSS - History",
       content: <G8HistoryW1to2T1 />,
     },
     {
