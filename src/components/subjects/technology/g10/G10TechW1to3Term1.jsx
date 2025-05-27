@@ -5,20 +5,23 @@ function G10TechW1to3Term1() {
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Explain the difference between data and information.
+          • When producing solutions students are required to do so safely.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Explain how meaning can be retained even though the storage of data
-          is simplified through compression techniques.
+          • The school’s information and communication technologies (ICT) code
+          of conduct and the classroom rules should define safe use of hardware
+          and software.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Describe the process of abstraction.
+          • Students access the code of conduct and classroom rules to
+          understand and know the potential consequences of not following code
+          of conduct.
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1zChViHgmIgwlWBT1QW112C0RmphU5mMh/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Jq95X0kM1bkt5sa_nn38-NN8uAySFclq/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -28,7 +31,7 @@ function G10TechW1to3Term1() {
 
           <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1jLPmna7zR8NxcI0R3Rq48xC6nRrZLB18/view?usp=sharing"
+              href="https://drive.google.com/file/d/1kS8GKfNdvbOG9WgjThwCRmYch_o7cnya/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -38,7 +41,7 @@ function G10TechW1to3Term1() {
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1lcv-dG-XUWFA-XPSwO_wogV1LkoOnNGz/view?usp=sharing"
+              href="https://drive.google.com/file/d/1qSKFf_YZ7cF0BC1MMXpn-rqM112e5smJ/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >

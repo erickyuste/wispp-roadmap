@@ -1,24 +1,18 @@
 import React from "react";
 
-function G10TechW1to3Term1() {
+function G10TechW5to6Term2() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Explain the difference between data and information.
-        </p>
-        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Explain how meaning can be retained even though the storage of data
-          is simplified through compression techniques.
-        </p>
-        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Describe the process of abstraction.
+          • Demonstrate the skills required in the software of choice to
+          complete summarive assessment task (Appendix B).
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1zChViHgmIgwlWBT1QW112C0RmphU5mMh/view?usp=sharing"
+              href="https://drive.google.com/file/d/1GX83KASjvUM0AKv6GNbSy9jPbu1pkS1r/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -28,7 +22,7 @@ function G10TechW1to3Term1() {
 
           <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1jLPmna7zR8NxcI0R3Rq48xC6nRrZLB18/view?usp=sharing"
+              href="https://drive.google.com/file/d/1kS8GKfNdvbOG9WgjThwCRmYch_o7cnya/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -38,7 +32,7 @@ function G10TechW1to3Term1() {
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1lcv-dG-XUWFA-XPSwO_wogV1LkoOnNGz/view?usp=sharing"
+              href="https://drive.google.com/file/d/1qSKFf_YZ7cF0BC1MMXpn-rqM112e5smJ/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -61,4 +55,4 @@ function G10TechW1to3Term1() {
   );
 }
 
-export default G10TechW1to3Term1;
+export default G10TechW5to6Term2;
