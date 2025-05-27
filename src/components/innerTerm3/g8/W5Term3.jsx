@@ -3,7 +3,7 @@ import G6EnglishW5Term1 from "../../subjects/english/g6/G6EnglishW5Term1";
 import G6MathW5Term1 from "../../subjects/math/g6/G6MathW5Term1";
 import G6ScienceW5Term1 from "../../subjects/science/g6/G6ScienceW5Term1";
 import G8EcoW5T3 from "../../subjects/hass/g8/G8EcoW5T3";
-import G6TechW5Term1 from "../../subjects/technology/g6/G6TechW5Term1";
+import G8TechW5to6Term3 from "../../subjects/technology/g8/G8TechW5to6Term3";
 import G8MusicW4to6Term3 from "../../subjects/visual arts/g8/G8MusicW4to6Term3";
 import G8HETerm3 from "../../subjects/healthEducation/g8/G8HETerm3";
 import G8PEW5to7Term3 from "../../subjects/physicalEducation/g8/G8PEW5to7Term3";
@@ -39,8 +39,8 @@ function W5Term3() {
     },
     {
       id: "item5",
-      label: "Technology",
-      content: "No content yet",
+      label: "Technolog - Design",
+      content: <G8TechW5to6Term3 />,
     },
     {
       id: "item6",

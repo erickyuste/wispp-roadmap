@@ -1,27 +1,22 @@
 import React from "react";
 
-function G8TechW1to2Term1() {
+function G8TechW5Term2() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • When producing solutions students are required to do so safely.
+          • Use multi-branch selection (if, elif, else statements) to control
+          the flow of program execution.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • The school’s information and communication technologies (ICT) code
-          of conduct and the classroom rules should define safe use of hardware
-          and software.
-        </p>
-        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Students access the code of conduct and classroom rules to
-          understand and know the potential consequences of not following code
-          of conduct.
+          • Describe how iteration (while statements) controls the flow of
+          program execution.
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1Jq95X0kM1bkt5sa_nn38-NN8uAySFclq/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Po0DY7hk6brsM-fu-TspZHwJZyrEPbLd/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -31,7 +26,7 @@ function G8TechW1to2Term1() {
 
           <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1jLPmna7zR8NxcI0R3Rq48xC6nRrZLB18/view?usp=sharing"
+              href="https://drive.google.com/file/d/1gT26crJGRnMWSV1jXdCNKskVUm2dQt58/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -41,7 +36,7 @@ function G8TechW1to2Term1() {
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1lcv-dG-XUWFA-XPSwO_wogV1LkoOnNGz/view?usp=sharing"
+              href="https://drive.google.com/file/d/1mj_CsWaBWn2L3Dsaj_TEJEAKd8vTXYso/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -64,4 +59,4 @@ function G8TechW1to2Term1() {
   );
 }
 
-export default G8TechW1to2Term1;
+export default G8TechW5Term2;
