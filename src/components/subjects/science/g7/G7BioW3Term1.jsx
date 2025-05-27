@@ -1,33 +1,28 @@
 import React from "react";
 
-function G7BioW1Term1() {
+function G7BioW3Term1() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          Focus questions
+          • Describe the purpose of a food web and how they are constructed.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • What is electrical energy?
+          • Describe how feeding relationships can be displayed in a food web.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • What are some examples of sources of electrical energy in our daily
-          lives?
+          • Explain how a change in population of one organism effects the rest
+          of the organisms within the food web.
         </p>
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • What components make up a circuit?
-        </p>
-        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • How does electrical energy flow through a circuit?
-        </p>
-        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • How can a circuit be visually represented?
+          • Identify and explain what changes may cause an increase or decrease
+          in the population of an organism.
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1S7vnVOVM5pU8lfW8bly5JpJbf58UJ4sy/view?usp=sharing"
+              href="https://drive.google.com/file/d/1XrKHSTCYez2dgAxZ2d2Aot7PPhPznS6j/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -37,7 +32,7 @@ function G7BioW1Term1() {
 
           <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1IX5Ww5a9YQaqs4L4Q-pNK_j8l_xs2iev/view?usp=sharing"
+              href="https://drive.google.com/file/d/1o_XKuke7Wk9iZb6Odsy1e5ENL91lF8gK/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -47,7 +42,7 @@ function G7BioW1Term1() {
 
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1Nps6C7CBjSt-KT_lWAYOXDHFo5fzWTKZ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1TmwjLw5wlaFQPI0AKVaHjdzgLmni8xc3/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -70,4 +65,4 @@ function G7BioW1Term1() {
   );
 }
 
-export default G7BioW1Term1;
+export default G7BioW3Term1;
