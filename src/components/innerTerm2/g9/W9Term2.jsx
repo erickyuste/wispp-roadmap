@@ -3,7 +3,7 @@ import G6EnglishW8Term1 from "../../subjects/english/g6/G6EnglishW8Term1";
 import G6MathW8Term1 from "../../subjects/math/g6/G6MathW8Term1";
 import G6ScienceW8Term1 from "../../subjects/science/g6/G6ScienceW8Term1";
 import G9GeoW9T2 from "../../subjects/hass/g9/G9GeoW9T2";
-import G6TechW8Term1 from "../../subjects/technology/g6/G6TechW8Term1";
+import G9TechW9Term2 from "../../subjects/technology/g9/G9TechW9Term2";
 import G9VisualW9tTerm2 from "../../subjects/visual arts/g9/G9VisualW9tTerm2";
 import G9HETerm2 from "../../subjects/healthEducation/g9/G9HETerm2";
 import G9PEW7to9Term2 from "../../subjects/physicalEducation/g9/G9PEW7to9Term2";
@@ -39,8 +39,8 @@ function W9Term2() {
     },
     {
       id: "item5",
-      label: "Technology",
-      content: "No content yet",
+      label: "Technology - Digital",
+      content: <G9TechW9Term2 />,
     },
     {
       id: "item6",
