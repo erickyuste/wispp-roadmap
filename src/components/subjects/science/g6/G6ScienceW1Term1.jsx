@@ -1,6 +1,6 @@
 import React from "react";
 
-function G7BioW1Term1() {
+function G7ChemicalW1Term2() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
@@ -70,4 +70,4 @@ function G7BioW1Term1() {
   );
 }
 
-export default G7BioW1Term1;
+export default G7ChemicalW1Term2;
