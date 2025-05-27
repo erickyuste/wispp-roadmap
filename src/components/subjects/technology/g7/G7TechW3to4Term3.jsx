@@ -1,27 +1,18 @@
 import React from "react";
 
-function G7TechW1to2Term1() {
+function G7TechW3to4Term3() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • When producing solutions students are required to do so safely.
-        </p>
-        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • The school’s information and communication technologies (ICT) code
-          of conduct and the classroom rules should define safe use of hardware
-          and software.
-        </p>
-        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Students access the code of conduct and classroom rules to
-          understand and know the potential consequences of not following code
-          of conduct.
+          • Define the movement of a data packet through a network, and compare
+          and contrast wired and wireless networks.
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1Jq95X0kM1bkt5sa_nn38-NN8uAySFclq/view?usp=sharing"
+              href="https://drive.google.com/file/d/16-oMlcj7h1cFBqQUmpkYpTunGkSoe6Rb/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -64,4 +55,4 @@ function G7TechW1to2Term1() {
   );
 }
 
-export default G7TechW1to2Term1;
+export default G7TechW3to4Term3;
