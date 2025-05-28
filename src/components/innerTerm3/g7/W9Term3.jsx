@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import G6EnglishW8Term1 from "../../subjects/english/g6/G6EnglishW8Term1";
 import G6MathW8Term1 from "../../subjects/math/g6/G6MathW8Term1";
-import G6ScienceW8Term1 from "../../subjects/science/g6/G6ScienceW8Term1";
+import G7EarthW9to10Term3 from "../../subjects/science/g7/G7EarthW9to10Term3";
 import G7EcoW9Term3 from "../../subjects/hass/g7/G7EcoW9Term3";
 import G7TechW9to10Term3 from "../../subjects/technology/g7/G7TechW9to10Term3";
 import G7MusicW9Term3 from "../../subjects/visual arts/g7/G7MusicW9Term3";
@@ -29,8 +29,8 @@ function W9Term3() {
     },
     {
       id: "item3",
-      label: "Science",
-      content: "No content yet",
+      label: "Science - Earth and Space",
+      content: <G7EarthW9to10Term3 />,
     },
     {
       id: "item4",

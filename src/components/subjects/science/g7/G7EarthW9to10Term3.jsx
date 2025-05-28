@@ -1,24 +1,18 @@
 import React from "react";
 
-function G7EarthW1to2Term3() {
+function G7EarthW9to10Term3() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
         <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • List examples of ecosystems.
-        </p>
-        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Identify factors that make up an ecosystem.
-        </p>
-        <p className="font-semibold text-xs md:text-[16px] sm:text-sm text-white ">
-          • Identify examples of living and non-living factors within
-          ecosystems.
+          • Research and outline how advances in telescopes have provided new
+          evidence about space.
         </p>
         <br></br>
         <div className="gap-2 mt-2 flex flex-wrap">
           <button className="w-[6em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1HKVTc3YT7osxPC_s9AMA8TlUw87Djyh6/view?usp=sharing"
+              href="https://drive.google.com/file/d/1RzmV8HMiWYSqbT68E4cs_KMl-d_umapT/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -28,7 +22,7 @@ function G7EarthW1to2Term3() {
 
           <button className="w-[7em] h-[2em] rounded-xl text-xs md:text-sm text-white border-2 border-white font-bold hover:text-[#0582ca] hover:bg-white">
             <a
-              href="https://drive.google.com/file/d/1o_XKuke7Wk9iZb6Odsy1e5ENL91lF8gK/view?usp=sharing"
+              href="https://drive.google.com/file/d/1P9eRSkpBCGy66pqbVzsPWLm7g9LI-_0s/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -61,4 +55,4 @@ function G7EarthW1to2Term3() {
   );
 }
 
-export default G7EarthW1to2Term3;
+export default G7EarthW9to10Term3;
