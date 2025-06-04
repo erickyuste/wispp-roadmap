@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import G6EnglishW6Term1 from "../../subjects/english/g6/G6EnglishW6Term1";
 import G6MathW6Term1 from "../../subjects/math/g6/G6MathW6Term1";
-import G6ScienceW6Term1 from "../../subjects/science/g6/G6ScienceW6Term1";
+import G9ChemicalW6Term2 from "../../subjects/science/g9/G9ChemicalW6Term2";
 import G9GeoW5to6T2 from "../../subjects/hass/g9/G9GeoW5to6T2";
 import G9TechW5to6Term2 from "../../subjects/technology/g9/G9TechW5to6Term2";
 import G9VisualW4to6Term2 from "../../subjects/visual arts/g9/G9VisualW4to6Term2";
@@ -29,8 +29,8 @@ function W6Term2() {
     },
     {
       id: "item3",
-      label: "Science",
-      content: "No content yet",
+      label: "Science - Chemical (Chemical reactions)",
+      content: <G9ChemicalW6Term2 />,
     },
     {
       id: "item4",
