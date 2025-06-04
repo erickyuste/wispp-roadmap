@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import G6EnglishW4Term1 from "../../subjects/english/g6/G6EnglishW4Term1";
 import G6MathW4Term1 from "../../subjects/math/g6/G6MathW4Term1";
-import G6ScienceW4Term1 from "../../subjects/science/g6/G6ScienceW4Term1";
+import G10ChemicalW4Term2 from "../../subjects/science/g10/G10ChemicalW4Term2";
 import G10GeoW3to4T2 from "../../subjects/hass/g10/G10GeoW3to4T2";
 import G10TechW3to4Term2 from "../../subjects/technology/g10/G10TechW3to4Term2";
 import G10VisualW3to4Term2 from "../../subjects/visual arts/g10/G10VisualW3to4Term2";
@@ -29,8 +29,8 @@ function W4Term2() {
     },
     {
       id: "item3",
-      label: "Science",
-      content: "No content yet",
+      label: "Science - Chemical (Reactions and Rates)",
+      content: <G10ChemicalW4Term2 />,
     },
     {
       id: "item4",

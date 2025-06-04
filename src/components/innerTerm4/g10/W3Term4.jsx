@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import G6EnglishW3Term1 from "../../subjects/english/g6/G6EnglishW3Term1";
 import G6MathW3Term1 from "../../subjects/math/g6/G6MathW3Term1";
-import G6ScienceW3Term1 from "../../subjects/science/g6/G6ScienceW3Term1";
+import G10PhysicalW3to4Term4 from "../../subjects/science/g10/G10PhysicalW3to4Term4";
 import G10CivicsW3to4T4 from "../../subjects/hass/g10/G10CivicsW3to4T4";
 import G10TechW1to3Term4 from "../../subjects/technology/g10/G10TechW1to3Term4";
 import G10MusicW1to10Term4 from "../../subjects/visual arts/g10/G10MusicW1to10Term4";
@@ -29,8 +29,8 @@ function W3Term4() {
     },
     {
       id: "item3",
-      label: "Science",
-      content: "No content yet",
+      label: "Science - Physical (Motion)",
+      content: <G10PhysicalW3to4Term4 />,
     },
     {
       id: "item4",

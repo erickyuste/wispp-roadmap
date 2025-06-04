@@ -29,7 +29,7 @@ function W9Term3() {
     },
     {
       id: "item3",
-      label: "Science - Earth and Space",
+      label: "Science - Earth and Space (Predictable phenomena on Earth)",
       content: <G7EarthW9to10Term3 />,
     },
     {

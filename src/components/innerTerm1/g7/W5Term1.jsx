@@ -29,7 +29,7 @@ function W5Term1() {
     },
     {
       id: "item3",
-      label: "Science - Biological Sciences",
+      label: "Science - Biological (Classification)",
       content: <G7BioW5Term1 />,
     },
     {

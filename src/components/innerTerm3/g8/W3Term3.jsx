@@ -29,7 +29,7 @@ function W3Term3() {
     },
     {
       id: "item3",
-      label: "Science - Earth and Space",
+      label: "Science - Earth and Space (Minerals and rock formation)",
       content: <G8EarthW3to4Term3 />,
     },
     {

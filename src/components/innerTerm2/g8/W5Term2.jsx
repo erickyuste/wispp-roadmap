@@ -29,7 +29,7 @@ function W5Term2() {
     },
     {
       id: "item3",
-      label: "Science - Chemical",
+      label: "Science - Chemical (States of matter and particles)",
       content: <G8ChemicalW5Term2 />,
     },
     {

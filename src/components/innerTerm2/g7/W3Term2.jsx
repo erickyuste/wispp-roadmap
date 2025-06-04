@@ -29,7 +29,7 @@ function W3Term2() {
     },
     {
       id: "item3",
-      label: "Science - Chemical",
+      label: "Science - Chemical (Separating mixtures)",
       content: <G7ChemicalW3Term2 />,
     },
     {

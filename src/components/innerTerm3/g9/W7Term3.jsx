@@ -29,7 +29,7 @@ function W7Term3() {
     },
     {
       id: "item3",
-      label: "Science - Earth and Space",
+      label: "Science - Earth and Space (Plate Tectonics)",
       content: <G9EarthW7Term3 />,
     },
     {

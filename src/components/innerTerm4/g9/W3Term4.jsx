@@ -29,7 +29,7 @@ function W3Term4() {
     },
     {
       id: "item3",
-      label: "Science - Physical",
+      label: "Science - Physical (Energy Transfer)",
       content: <G9PhysicalW3Term4 />,
     },
     {

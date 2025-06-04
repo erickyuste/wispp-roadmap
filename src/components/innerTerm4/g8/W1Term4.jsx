@@ -29,7 +29,7 @@ function W1Term1() {
     },
     {
       id: "item3",
-      label: "Science - Physical",
+      label: "Science - Physical (Energy Transformation)",
       content: <G8PhysicalW1Term4 />,
     },
     {

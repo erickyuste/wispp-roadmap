@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import G6EnglishW7Term1 from "../../subjects/english/g6/G6EnglishW7Term1";
 import G6MathW7Term1 from "../../subjects/math/g6/G6MathW7Term1";
-import G6ScienceW7Term1 from "../../subjects/science/g6/G6ScienceW7Term1";
+import G10BioW7Term1 from "../../subjects/science/g10/G10BioW7Term1";
 import G10HistoryW7T1 from "../../subjects/hass/g10/G10HistoryW7T1";
 import G10TechW7to8Term1 from "../../subjects/technology/g10/G10TechW7to8Term1";
 import G10VisualW7Term1 from "../../subjects/visual arts/g10/G10VisualW7Term1";
@@ -29,8 +29,8 @@ function W7Term1() {
     },
     {
       id: "item3",
-      label: "Science",
-      content: "No content yet",
+      label: "Science - Biological (DNA, genes and inheritance)",
+      content: <G10BioW7Term1 />,
     },
     {
       id: "item4",

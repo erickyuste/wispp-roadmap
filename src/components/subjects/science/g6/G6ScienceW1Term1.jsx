@@ -1,6 +1,6 @@
 import React from "react";
 
-function G9EarthW1to2Term3() {
+function G10EarthW1to3Term3() {
   return (
     <div>
       <div className="inner-content px-[.2rem] md:px-[1rem]">
@@ -70,4 +70,4 @@ function G9EarthW1to2Term3() {
   );
 }
 
-export default G9EarthW1to2Term3;
+export default G10EarthW1to3Term3;

@@ -29,7 +29,7 @@ function W1Term2() {
     },
     {
       id: "item3",
-      label: "Science - Biological Sciences",
+      label: "Science - Biological (Ecosystems)",
       content: <G7BioW1Term1 />,
     },
     {

@@ -29,7 +29,7 @@ function W2Term1() {
     },
     {
       id: "item3",
-      label: "Science - Biological",
+      label: "Science - Biological (Cells, organs and body systems)",
       content: <G8BioW1to2Term1 />,
     },
     {

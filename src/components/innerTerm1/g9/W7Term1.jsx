@@ -29,7 +29,7 @@ function W7Term1() {
     },
     {
       id: "item3",
-      label: "Science - Biological",
+      label: "Science - Biological (Ecosystems, matter and energy flow)",
       content: <G9BioW7Term1 />,
     },
     {

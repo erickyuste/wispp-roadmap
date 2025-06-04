@@ -29,7 +29,7 @@ function W6Term4() {
     },
     {
       id: "item3",
-      label: "Science - Physical",
+      label: "Science - Physical (Forces and simple machines)",
       content: <G7PhysicalW5to6Term4 />,
     },
     {
