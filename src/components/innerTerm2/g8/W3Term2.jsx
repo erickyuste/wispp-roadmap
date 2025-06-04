@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import G6EnglishW3Term1 from "../../subjects/english/g6/G6EnglishW3Term1";
 import G6MathW3Term1 from "../../subjects/math/g6/G6MathW3Term1";
-import G6ScienceW3Term1 from "../../subjects/science/g6/G6ScienceW3Term1";
+import G8ChemicalW3Term2 from "../../subjects/science/g8/G8ChemicalW3Term2";
 import G8GeoW1to4T2 from "../../subjects/hass/g8/G8GeoW1to4T2";
 import G8TechW3Term2 from "../../subjects/technology/g8/G8TechW3Term2";
 import G8VisualW3Term2 from "../../subjects/visual arts/g8/G8VisualW3Term2";
@@ -29,8 +29,8 @@ function W3Term2() {
     },
     {
       id: "item3",
-      label: "Science",
-      content: "No content yet",
+      label: "Science - Chemical",
+      content: <G8ChemicalW3Term2 />,
     },
     {
       id: "item4",
