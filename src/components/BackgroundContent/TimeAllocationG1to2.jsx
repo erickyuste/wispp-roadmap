@@ -1,4 +1,4 @@
-import timeallocation from "../assets/timeallocation.png";
+import timeallocation from "../../assets/timeallocation.png";
 
 export default function TimeAllocationG1to2() {
   return (
