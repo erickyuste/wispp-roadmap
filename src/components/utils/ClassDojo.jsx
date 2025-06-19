@@ -1,4 +1,4 @@
-import mojo from "../assets/mojo.png";
+import mojo from "../../assets/mojo.png";
 
 export default function ClassDojo(props) {
   return (

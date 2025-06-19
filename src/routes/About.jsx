@@ -3,7 +3,7 @@ import AboutContent from "../components/backgroundContent/AboutContent";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import Chatbot from "../components/chatbotContent/Chatbot";
-import Loader from "../components/Loader";
+import Loader from "../components/utils/Loader";
 import data from "../data/header.js";
 
 function About() {

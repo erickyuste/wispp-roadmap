@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import BackgroundContentG1to2 from "../backgroundContent/BackgroundContentG1to2";
 import dotted from "../../assets/dotted.png";
-import TimeAllocationG1to2 from "../TimeAllocationG1to2";
-import QuickLinks from "../QuickLinks";
+import TimeAllocationG1to2 from "../BackgroundContent/TimeAllocationG1to2";
+import QuickLinks from "../BackgroundContent/QuickLinks";
 import data from "../../data/quicklinks";
 
 export default function UpperContentG1to2() {

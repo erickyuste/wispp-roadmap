@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import BackgroundContentK from "../backgroundContent/BackgroundContentK";
 import dotted from "../../assets/dotted.png";
-import TimeAllocationK from "../TimeAllocationK";
-import QuickLinks from "../QuickLinks";
+import TimeAllocationK from "../backgroundContent/TimeAllocationK";
+import QuickLinks from "../BackgroundContent/QuickLinks";
 import data from "../../data/quicklinks";
 
 export default function UpperContentK() {

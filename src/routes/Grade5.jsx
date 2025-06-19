@@ -5,13 +5,13 @@ import Term2 from "../components/grade5main/Term2";
 import Term3 from "../components/grade5main/Term3";
 import Term4 from "../components/grade5main/Term4";
 import Footer from "../components/Footer";
-import Loader from "../components/Loader";
+import Loader from "../components/utils/Loader";
 import OnlineResources from "../components/OnlineResources";
 import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
 import Navbar from "../components/Navbar";
 import Chatbot from "../components/chatbotContent/Chatbot";
-import ClassDojo from "../components/classDojo.jsx";
+import ClassDojo from "../components/utils/ClassDojo.jsx";
 import Header from "../components/Header.jsx";
 import data from "../data/header.js";
 

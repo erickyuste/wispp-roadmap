@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import BackgroundContentP from "../backgroundContent/BackgroundContentP";
 import dotted from "../../assets/dotted.png";
-import TimeAllocationP from "../TimeAllocationP";
+import TimeAllocationP from "../backgroundContent/TimeAllocationP";
 import QuickLinks from "../QuickLinks";
 import data from "../../data/quicklinks";
 

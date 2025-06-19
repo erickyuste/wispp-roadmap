@@ -5,7 +5,7 @@ import Term2 from "../components/grade9main/Term2";
 import Term3 from "../components/grade9main/Term3";
 import Term4 from "../components/grade9main/Term4";
 import Footer from "../components/Footer";
-import Loader from "../components/Loader";
+import Loader from "../components/utils/Loader";
 import OnlineResources from "../components/OnlineResources";
 import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";

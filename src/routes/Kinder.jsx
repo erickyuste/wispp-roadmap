@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Loader from "../components/Loader";
+import Loader from "../components/utils/Loader";
 import UpperContentK from "../components/upperContent/UpperContentK";
 import Term1 from "../components/KinderMain/Term1";
 import Term2 from "../components/KinderMain/Term2";

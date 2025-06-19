@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
-import Loader from "../components/Loader";
+import Loader from "../components/utils/Loader";
 import videoBg from "../assets/video-bg.mp4";
 import Chatbot from "../components/chatbotContent/Chatbot";
 import HomapageNavbar from "../components/HomapageNavbar";

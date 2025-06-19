@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import BackgroundContentG3to9 from "../backgroundContent/BackgroundContentG3to9";
 import dotted from "../../assets/dotted.png";
-import TimeAllocationG3to10 from "../TimeAllocationG3to10";
-import QuickLinks from "../QuickLinks";
+import TimeAllocationG3to10 from "../backgroundContent/TimeAllocationG3to10";
+import QuickLinks from "../BackgroundContent/QuickLinks";
 import data from "../../data/quicklinks";
 
 export default function UpperContentG3() {
