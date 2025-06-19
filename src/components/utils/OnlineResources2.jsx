@@ -1,10 +1,10 @@
-import scootle from "../assets/scootle.png";
-import SCSA from "../assets/SCSA.png";
-import tinkercad from "../assets/tinkercad.png";
-import turtlediary from "../assets/turtlediary.png";
-import twinkle from "../assets/twinkle.png";
-import wordwall from "../assets/wordwall.png";
-import khanacademy from "../assets/khanacademy.png";
+import scootle from "../../assets/scootle.png";
+import SCSA from "../../assets/SCSA.png";
+import tinkercad from "../../assets/tinkercad.png";
+import turtlediary from "../../assets/turtlediary.png";
+import twinkle from "../../assets/twinkle.png";
+import wordwall from "../../assets/wordwall.png";
+import khanacademy from "../../assets/khanacademy.png";
 
 function OnlineResources2() {
   return (

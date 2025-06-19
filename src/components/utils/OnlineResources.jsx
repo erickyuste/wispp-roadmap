@@ -1,9 +1,9 @@
-import abcya from "../assets/abcya.png";
-import classdojo from "../assets/classdojo.png";
-import gamilab from "../assets/gamilab.png";
-import GOM from "../assets/GOM.png";
-import google from "../assets/google.png";
-import lessonplan from "../assets/lessonplan.png";
+import abcya from "../../assets/abcya.png";
+import classdojo from "../../assets/classdojo.png";
+import gamilab from "../../assets/gamilab.png";
+import GOM from "../../assets/GOM.png";
+import google from "../../assets/google.png";
+import lessonplan from "../../assets/lessonplan.png";
 
 function OnlineResources() {
   return (

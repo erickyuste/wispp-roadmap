@@ -1,10 +1,9 @@
-import React from "react";
-import polypad from "../assets/polypad.png";
-import fluency from "../assets/fluency.png";
-import didax from "../assets/didax.png";
-import gamestolearnenglish from "../assets/gamestolearnenglish.png";
-import abbythepup from "../assets/abbythepup.png";
-import superteacher from "../assets/superteacher.png";
+import polypad from "../../assets/polypad.png";
+import fluency from "../../assets/fluency.png";
+import didax from "../../assets/didax.png";
+import gamestolearnenglish from "../../assets/gamestolearnenglish.png";
+import abbythepup from "../../assets/abbythepup.png";
+import superteacher from "../../assets/superteacher.png";
 
 function OnlineResources3() {
   return (
