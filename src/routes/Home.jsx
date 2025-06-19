@@ -1,13 +1,15 @@
 import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
-import MainLoader from "../components/loaders/MainLoader";
+import Loader from "../components/Loader";
 import videoBg from "../assets/video-bg.mp4";
-import Chatbot from "../components/Chatbot";
+import Chatbot from "../components/chatbotContent/Chatbot";
 import HomapageNavbar from "../components/HomapageNavbar";
+import data from "../data/header.js";
 
 function Home() {
   const [isLoading, setIsLoading] = useState(true);
   const [contentVisible, setContentVisible] = useState(false);
+  const headerItem = data[13];
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -22,7 +24,7 @@ function Home() {
 
   return (
     <>
-      {isLoading && <MainLoader />}
+      {isLoading && <Loader loader={headerItem.loader} />}
 
       <div className="w-full min-h-screen bg-black block">
         <video

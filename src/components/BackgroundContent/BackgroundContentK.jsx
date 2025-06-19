@@ -1,7 +1,6 @@
-import React from "react";
 import kinder from "../../assets/kinder.png";
 
-function BackgroundContentK() {
+export default function BackgroundContentK() {
   return (
     <div className="w-full flex flex-col justify-center items-center">
       <p className="font-semibold md:text-[16px] sm:text-sm text-xs text-gray-300">
@@ -50,5 +49,3 @@ Australian curriculum."
     </div>
   );
 }
-
-export default BackgroundContentK;

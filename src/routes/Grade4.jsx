@@ -1,22 +1,24 @@
 import React, { useState, useEffect } from "react";
-import BackgroundG4 from "../components/BackgroundG4";
-import Header from "../components/grade4main/Header";
+import UpperContentG4 from "../components/upperContent/UpperContentG4";
 import Term1 from "../components/grade4main/Term1";
 import Term2 from "../components/grade4main/Term2";
 import Term3 from "../components/grade4main/Term3";
 import Term4 from "../components/grade4main/Term4";
 import Footer from "../components/Footer";
-import G4Loader from "../components/loaders/G4Loader";
+import Loader from "../components/Loader";
 import OnlineResources from "../components/OnlineResources";
 import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
 import Navbar from "../components/Navbar";
-import Chatbot from "../components/Chatbot";
-import Mojo4 from "../components/Mojo4";
+import Chatbot from "../components/chatbotContent/Chatbot";
+import ClassDojo from "../components/classDojo.jsx";
+import Header from "../components/Header.jsx";
+import data from "../data/header.js";
 
 function Grade4() {
   const [isLoading, setIsLoading] = useState(true);
   const [contentVisible, setContentVisible] = useState(false);
+  const headerItem = data[3];
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -31,11 +33,11 @@ function Grade4() {
 
   return (
     <>
-      {isLoading && <G4Loader />}
+      {isLoading && <Loader loader={headerItem.loader} />}
       <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
         <Navbar />
-        <Header />
-        <BackgroundG4 />
+        <Header grade={headerItem.grade} style={headerItem.style} />
+        <UpperContentG4 />
         <Term1 />
         <Term2 />
         <Term3 />
@@ -44,7 +46,7 @@ function Grade4() {
         <OnlineResources2 />
         <OnlineResources3 />
         <Footer />
-        <Mojo4 />
+        <ClassDojo mojo={headerItem.mojo} />
         <Chatbot />
       </div>
     </>

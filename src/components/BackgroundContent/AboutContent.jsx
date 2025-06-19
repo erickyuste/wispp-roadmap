@@ -1,7 +1,6 @@
-import React from "react";
 import bot from "../../assets/bot.gif";
 
-function Header() {
+export default function AboutContent() {
   return (
     <div className="w-[100vw] mt-[2rem] md:mt-[5rem] h-auto flex flex-col items-center justify-center">
       <div className="w-[90%] md:w-[830px]" id="upper-content">
@@ -192,5 +191,3 @@ function Header() {
     </div>
   );
 }
-
-export default Header;

@@ -1,7 +1,6 @@
-import React from "react";
 import img2 from "../../assets/img2.png";
 
-function BackgroundContentP() {
+export default function BackgroundContentP() {
   return (
     <div>
       <p className="font-semibold md:text-[16px] sm:text-sm text-xs text-gray-300">
@@ -39,5 +38,3 @@ function BackgroundContentP() {
     </div>
   );
 }
-
-export default BackgroundContentP;

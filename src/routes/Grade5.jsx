@@ -1,22 +1,24 @@
 import React, { useState, useEffect } from "react";
-import BackgroundG5 from "../components/BackgroundG5";
-import Header from "../components/grade5main/Header";
+import UpperContentG5 from "../components/upperContent/UpperContentG5";
 import Term1 from "../components/grade5main/Term1";
 import Term2 from "../components/grade5main/Term2";
 import Term3 from "../components/grade5main/Term3";
 import Term4 from "../components/grade5main/Term4";
 import Footer from "../components/Footer";
-import G5Loader from "../components/loaders/G5Loader";
+import Loader from "../components/Loader";
 import OnlineResources from "../components/OnlineResources";
 import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
 import Navbar from "../components/Navbar";
-import Chatbot from "../components/Chatbot";
-import Mojo5 from "../components/Mojo5";
+import Chatbot from "../components/chatbotContent/Chatbot";
+import ClassDojo from "../components/classDojo.jsx";
+import Header from "../components/Header.jsx";
+import data from "../data/header.js";
 
 function Grade5() {
   const [isLoading, setIsLoading] = useState(true);
   const [contentVisible, setContentVisible] = useState(false);
+  const headerItem = data[4];
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -31,11 +33,11 @@ function Grade5() {
 
   return (
     <>
-      {isLoading && <G5Loader />}
+      {isLoading && <Loader loader={headerItem.loader} />}
       <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
         <Navbar />
-        <Header />
-        <BackgroundG5 />
+        <Header grade={headerItem.grade} style={headerItem.style} />
+        <UpperContentG5 />
         <Term1 />
         <Term2 />
         <Term3 />
@@ -44,7 +46,7 @@ function Grade5() {
         <OnlineResources2 />
         <OnlineResources3 />
         <Footer />
-        <Mojo5 />
+        <ClassDojo mojo={headerItem.mojo} />
         <Chatbot />
       </div>
     </>

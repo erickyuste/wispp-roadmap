@@ -1,22 +1,24 @@
 import React, { useState, useEffect } from "react";
-import BackgroundG7 from "../components/BackgroundG7";
-import Header from "../components/grade7main/Header";
+import UpperContentG7 from "../components/upperContent/UpperContentG7";
 import Term1 from "../components/grade7main/Term1";
 import Term2 from "../components/grade7main/Term2";
 import Term3 from "../components/grade7main/Term3";
 import Term4 from "../components/grade7main/Term4";
 import Footer from "../components/Footer";
-import G7Loader from "../components/loaders/G7Loader";
+import Loader from "../components/Loader";
 import OnlineResources from "../components/OnlineResources";
 import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
 import Navbar from "../components/Navbar";
-import Chatbot from "../components/Chatbot";
-import Mojo7 from "../components/Mojo7";
+import Chatbot from "../components/chatbotContent/Chatbot";
+import ClassDojo from "../components/classDojo.jsx";
+import Header from "../components/Header.jsx";
+import data from "../data/header.js";
 
 function Grade7() {
   const [isLoading, setIsLoading] = useState(true);
   const [contentVisible, setContentVisible] = useState(false);
+  const headerItem = data[6];
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -31,11 +33,11 @@ function Grade7() {
 
   return (
     <>
-      {isLoading && <G7Loader />}
+      {isLoading && <Loader loader={headerItem.loader} />}
       <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
         <Navbar />
-        <Header />
-        <BackgroundG7 />
+        <Header grade={headerItem.grade} style={headerItem.style} />
+        <UpperContentG7 />
         <Term1 />
         <Term2 />
         <Term3 />
@@ -44,7 +46,7 @@ function Grade7() {
         <OnlineResources2 />
         <OnlineResources3 />
         <Footer />
-        <Mojo7 />
+        <ClassDojo mojo={headerItem.mojo} />
         <Chatbot />
       </div>
     </>

@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
-import KLoader from "../components/loaders/KLoader";
-import BackgroundK from "../components/BackgroundK";
-import Header from "../components/KinderMain/Header";
+import Loader from "../components/Loader";
+import UpperContentK from "../components/upperContent/UpperContentK";
 import Term1 from "../components/KinderMain/Term1";
 import Term2 from "../components/KinderMain/Term2";
 import Term3 from "../components/KinderMain/Term3";
@@ -11,11 +10,14 @@ import OnlineResources from "../components/OnlineResources";
 import OnlineResources2 from "../components/OnlineResources2";
 import OnlineResources3 from "../components/OnlineResources3";
 import Navbar from "../components/Navbar";
-import Chatbot from "../components/Chatbot";
+import Chatbot from "../components/chatbotContent/Chatbot";
+import Header from "../components/Header.jsx";
+import data from "../data/header.js";
 
 function Kinder() {
   const [isLoading, setIsLoading] = useState(true);
   const [contentVisible, setContentVisible] = useState(false);
+  const headerItem = data[11];
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -30,11 +32,11 @@ function Kinder() {
 
   return (
     <>
-      {isLoading && <KLoader />}
+      {isLoading && <Loader loader={headerItem.loader} />}
       <div className="bg-[#051923] w-full min-h-screen overflow-x-hidden flex flex-col items-center">
         <Navbar />
-        <Header />
-        <BackgroundK />
+        <Header grade={headerItem.grade} style={headerItem.style} />
+        <UpperContentK />
         <Term1 />
         <Term2 />
         <Term3 />
